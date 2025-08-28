@@ -186,7 +186,8 @@ jobs:
           
           # Enviar notificação
           if [ "$SHOULD_NOTIFY" = "true" ]; then
-            python -c "
+            # Criar script Python temporário
+            cat > telegram_test.py << 'EOF'
 import requests
 import json
 import os
@@ -205,7 +206,7 @@ if not bot_token or not chat_id:
     exit(1)
 
 # Teste simples primeiro
-message = f'🧪 TESTE - Monitoramento SP → Recife\\n\\n⏰ Executado em: {datetime.now().strftime(\"%H:%M - %d/%m/%Y\")}\\n🤖 Via GitHub Actions\\n📱 Environment: TELEGRAM\\n\\nEste é um teste para verificar se as notificações estão funcionando.'
+message = f'🧪 TESTE - Monitoramento SP → Recife\n\n⏰ Executado em: {datetime.now().strftime("%H:%M - %d/%m/%Y")}\n🤖 Via GitHub Actions\n📱 Environment: TELEGRAM\n\nEste é um teste para verificar se as notificações estão funcionando.'
 
 url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
 payload = {
@@ -227,7 +228,10 @@ try:
         print(f'❌ Erro Telegram: {response.status_code} - {response.text}')
 except Exception as e:
     print(f'❌ Erro na requisição: {e}')
-            "
+EOF
+            
+            python telegram_test.py
+            rm telegram_test.py
           else
             echo "ℹ️ Nenhuma notificação necessária (preço: $PRICE_RATING)"
           fi
@@ -235,7 +239,7 @@ except Exception as e:
           echo "⚠️ Análise de preços não disponível - enviando notificação de teste mesmo assim"
           
           # Enviar notificação de teste mesmo sem dados de preços
-          python -c "
+          cat > telegram_fallback.py << 'EOF'
 import requests
 import os
 from datetime import datetime
@@ -246,7 +250,7 @@ bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
 chat_id = os.environ.get('TELEGRAM_CHAT_ID')
 
 if bot_token and chat_id:
-    message = f'🧪 TESTE - Workflow Executado\\n\\n⚠️ Análise de preços não disponível\\n⏰ Executado em: {datetime.now().strftime(\"%H:%M - %d/%m/%Y\")}\\n🤖 Via GitHub Actions\\n📱 Environment: TELEGRAM\\n\\nSistema funcionando, mas sem dados de APIs.'
+    message = f'🧪 TESTE - Workflow Executado\n\n⚠️ Análise de preços não disponível\n⏰ Executado em: {datetime.now().strftime("%H:%M - %d/%m/%Y")}\n🤖 Via GitHub Actions\n📱 Environment: TELEGRAM\n\nSistema funcionando, mas sem dados de APIs.'
     
     url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
     payload = {
@@ -264,7 +268,10 @@ if bot_token and chat_id:
         print(f'❌ Erro na requisição: {e}')
 else:
     print('❌ Credenciais Telegram não configuradas no environment TELEGRAM')
-          "
+EOF
+          
+          python telegram_fallback.py
+          rm telegram_fallback.py
         fi
         
     - name: 💾 Save data and commit changes
