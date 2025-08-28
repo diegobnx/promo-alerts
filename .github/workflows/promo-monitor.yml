@@ -205,19 +205,12 @@ jobs:
                 exit(1)
             
             # Teste simples primeiro
-            message = f'''🧪 **TESTE - Monitoramento SP → Recife**
-            
-⏰ Executado em: {datetime.now().strftime('%H:%M - %d/%m/%Y')}
-🤖 Via GitHub Actions
-📱 Environment: TELEGRAM
-            
-Este é um teste para verificar se as notificações estão funcionando.'''
+            message = f'🧪 TESTE - Monitoramento SP → Recife\\n\\n⏰ Executado em: {datetime.now().strftime(\"%H:%M - %d/%m/%Y\")}\\n🤖 Via GitHub Actions\\n📱 Environment: TELEGRAM\\n\\nEste é um teste para verificar se as notificações estão funcionando.'
             
             url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
             payload = {
                 'chat_id': chat_id,
-                'text': message,
-                'parse_mode': 'Markdown'
+                'text': message
             }
             
             print(f'🚀 Enviando para: {url}')
@@ -253,20 +246,12 @@ Este é um teste para verificar se as notificações estão funcionando.'''
           chat_id = os.environ.get('TELEGRAM_CHAT_ID')
           
           if bot_token and chat_id:
-              message = f'''🧪 **TESTE - Workflow Executado**
-              
-⚠️ Análise de preços não disponível
-⏰ Executado em: {datetime.now().strftime('%H:%M - %d/%m/%Y')}
-🤖 Via GitHub Actions
-📱 Environment: TELEGRAM
-
-Sistema funcionando, mas sem dados de APIs.'''
+              message = f'🧪 TESTE - Workflow Executado\\n\\n⚠️ Análise de preços não disponível\\n⏰ Executado em: {datetime.now().strftime(\"%H:%M - %d/%m/%Y\")}\\n🤖 Via GitHub Actions\\n📱 Environment: TELEGRAM\\n\\nSistema funcionando, mas sem dados de APIs.'
               
               url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
               payload = {
                   'chat_id': chat_id,
-                  'text': message,
-                  'parse_mode': 'Markdown'
+                  'text': message
               }
               
               try:
