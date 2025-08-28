@@ -40,14 +40,23 @@ class FlightPriceChecker:
                 'client_secret': self.amadeus_secret
             }
             
+            print(f"🔑 Solicitando token Amadeus...")
             response = requests.post(url, data=data, timeout=10)
+            print(f"📡 Status Code: {response.status_code}")
+            
             response.raise_for_status()
             
-            self.amadeus_token = response.json()['access_key']
+            token_data = response.json()
+            print(f"📄 Response keys: {list(token_data.keys())}")
+            
+            self.amadeus_token = token_data['access_token']
+            print(f"✅ Token Amadeus obtido com sucesso")
             return self.amadeus_token
             
         except Exception as e:
             print(f"❌ Erro token Amadeus: {e}")
+            if 'response' in locals():
+                print(f"📄 Response content: {response.text}")
             return None
     
     def get_sp_recife_prices(self, departure_date: str = None) -> Dict:
