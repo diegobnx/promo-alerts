@@ -1,0 +1,360 @@
+name: 🎯 Promo Monitor - SP → Recife
+
+on:
+  schedule:
+    # Executar 3x por dia (8h, 14h, 20h) nos dias úteis
+    - cron: '0 11,17,23 * * 1-5'  # UTC times
+  workflow_dispatch:  # Permitir execução manual
+    inputs:
+      departure_date:
+        description: 'Data de partida (YYYY-MM-DD)'
+        required: false
+        default: ''
+      debug:
+        description: 'Enable debug output'
+        required: false
+        default: 'false'
+        type: boolean
+
+permissions:
+  contents: write  # Para commit do seen.json
+  issues: write    # Para criar issues de notificação
+
+jobs:
+  check-prices:
+    runs-on: ubuntu-latest
+    environment: APIKEYS
+    outputs:
+      price_info: ${{ steps.price_check.outputs.price_info }}
+      analysis_data: ${{ steps.upload_analysis.outputs.analysis_data }}
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        
+    - name: 📦 Install dependencies
+      run: |
+        cd app
+        pip install -r requirements.txt
+        
+    - name: 🔍 Check flight prices (APIs)
+      id: price_check
+      env:
+        AMADEUS_API_KEY: ${{ secrets.AMADEUS_API_KEY }}
+        AMADEUS_API_SECRET: ${{ secrets.AMADEUS_API_SECRET }}
+        OPENSKY_CLIENT_ID: ${{ secrets.OPENSKY_CLIENT_ID }}
+        OPENSKY_CLIENT_SECRET: ${{ secrets.OPENSKY_CLIENT_SECRET }}
+      run: |
+        cd app
+        
+        # Executar análise de preços
+        echo "🔍 Analisando preços SP → Recife..."
+        python flight_price_apis.py > price_analysis.log 2>&1
+        
+        # Capturar resultado da análise
+        if [ -f "flight_analysis.json" ]; then
+          PRICE_INFO=$(python -c "
+          import json
+          try:
+              with open('flight_analysis.json') as f:
+                  data = json.load(f)
+                  if 'error' not in data:
+                      summary = data['summary']
+                      price = summary['cheapest_price_brl']
+                      rating = summary['price_rating']
+                      airline = summary['airline']
+                      origin = summary['best_origin']
+                      print(f'{price}|{rating}|{airline}|{origin}')
+                  else:
+                      print('ERROR|ERROR|ERROR|ERROR')
+              except:
+                  print('ERROR|ERROR|ERROR|ERROR')
+          ")
+          
+          echo "price_info=$PRICE_INFO" >> $GITHUB_OUTPUT
+          echo "✅ Análise de preços concluída"
+        else
+          echo "price_info=ERROR|ERROR|ERROR|ERROR" >> $GITHUB_OUTPUT
+          echo "⚠️ Arquivo de análise não encontrado"
+        fi
+        
+    - name: 📤 Upload analysis data
+      id: upload_analysis
+      run: |
+        cd app
+        if [ -f "flight_analysis.json" ]; then
+          # Criar artifact com dados da análise
+          echo "analysis_data=$(cat flight_analysis.json | base64 -w 0)" >> $GITHUB_OUTPUT
+          echo "✅ Dados de análise preparados"
+        else
+          echo "analysis_data=" >> $GITHUB_OUTPUT
+        fi
+
+  monitor-rss-and-notify:
+    runs-on: ubuntu-latest
+    environment: TELEGRAM
+    needs: check-prices
+    
+    steps:
+    - name: 📥 Checkout repository
+      uses: actions/checkout@v4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        
+    - name: 🐍 Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        cache: 'pip'
+        
+    - name: 📦 Install dependencies
+      run: |
+        cd app
+        pip install -r requirements.txt
+        
+    - name: 📊 Restore price analysis
+      run: |
+        cd app
+        if [ -n "${{ needs.check-prices.outputs.analysis_data }}" ]; then
+          echo "${{ needs.check-prices.outputs.analysis_data }}" | base64 -d > flight_analysis.json
+          echo "✅ Dados de análise de preços restaurados"
+        else
+          echo "⚠️ Nenhum dado de análise de preços disponível"
+        fi
+        
+    - name: 📊 Monitor RSS feeds
+      id: monitor
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        cd app
+        
+        echo "📡 Monitorando feeds RSS..."
+        python main.py > rss_monitor.log 2>&1
+        
+        echo "✅ Monitoramento RSS concluído"
+        
+    - name: 📱 Send smart notifications
+      if: success()
+      env:
+        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+      run: |
+        cd app
+        
+        echo "🔍 Verificando dados para notificação..."
+        
+        # Verificar credenciais Telegram
+        if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+          echo "❌ Credenciais Telegram não configuradas"
+          echo "BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:+configurado}"
+          echo "CHAT_ID: ${TELEGRAM_CHAT_ID:+configurado}"
+          exit 0
+        fi
+        
+        # Verificar se existe análise de preços
+        if [ -f "flight_analysis.json" ]; then
+          echo "✅ Arquivo de análise encontrado"
+          PRICE_DATA="${{ needs.check-prices.outputs.price_info }}"
+          echo "📊 Dados de preço: $PRICE_DATA"
+          
+          PRICE_VALUE=$(echo $PRICE_DATA | cut -d'|' -f1)
+          PRICE_RATING=$(echo $PRICE_DATA | cut -d'|' -f2)
+          AIRLINE=$(echo $PRICE_DATA | cut -d'|' -f3)
+          ORIGIN=$(echo $PRICE_DATA | cut -d'|' -f4)
+          
+          echo "💰 Preço: R$ $PRICE_VALUE"
+          echo "📊 Rating: $PRICE_RATING"
+          echo "✈️ Companhia: $AIRLINE"
+          echo "🏢 Origem: $ORIGIN"
+          
+          # SEMPRE enviar notificação para debug (temporário)
+          SHOULD_NOTIFY=true
+          echo "📱 Enviando notificação (modo debug)"
+          
+          # Sempre enviar notificação para debug - vamos ver o que está acontecendo
+          echo "🚀 Preparando notificação Telegram..."
+          
+          # Enviar notificação
+          if [ "$SHOULD_NOTIFY" = "true" ]; then
+            python -c "
+            import requests
+            import json
+            import os
+            from datetime import datetime
+            
+            print('🔍 Iniciando envio de notificação...')
+            
+            bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+            chat_id = os.environ.get('TELEGRAM_CHAT_ID')
+            
+            print(f'BOT_TOKEN presente: {bool(bot_token)}')
+            print(f'CHAT_ID presente: {bool(chat_id)}')
+            
+            if not bot_token or not chat_id:
+                print('❌ Credenciais Telegram não encontradas')
+                exit(1)
+            
+            # Teste simples primeiro
+            message = f'''🧪 **TESTE - Monitoramento SP → Recife**
+            
+⏰ Executado em: {datetime.now().strftime('%H:%M - %d/%m/%Y')}
+🤖 Via GitHub Actions
+📱 Environment: TELEGRAM
+            
+Este é um teste para verificar se as notificações estão funcionando.'''
+            
+            url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
+            payload = {
+                'chat_id': chat_id,
+                'text': message,
+                'parse_mode': 'Markdown'
+            }
+            
+            print(f'🚀 Enviando para: {url}')
+            print(f'📨 Chat ID: {chat_id}')
+            
+            try:
+                response = requests.post(url, json=payload, timeout=10)
+                print(f'📡 Status Code: {response.status_code}')
+                print(f'📄 Response: {response.text}')
+                
+                if response.status_code == 200:
+                    print('✅ Notificação Telegram enviada com sucesso!')
+                else:
+                    print(f'❌ Erro Telegram: {response.status_code} - {response.text}')
+            except Exception as e:
+                print(f'❌ Erro na requisição: {e}')
+            "
+          else
+            echo "ℹ️ Nenhuma notificação necessária (preço: $PRICE_RATING)"
+          fi
+        else
+          echo "⚠️ Análise de preços não disponível - enviando notificação de teste mesmo assim"
+          
+          # Enviar notificação de teste mesmo sem dados de preços
+          python -c "
+          import requests
+          import os
+          from datetime import datetime
+          
+          print('🔍 Teste sem análise de preços...')
+          
+          bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
+          chat_id = os.environ.get('TELEGRAM_CHAT_ID')
+          
+          if bot_token and chat_id:
+              message = f'''🧪 **TESTE - Workflow Executado**
+              
+⚠️ Análise de preços não disponível
+⏰ Executado em: {datetime.now().strftime('%H:%M - %d/%m/%Y')}
+🤖 Via GitHub Actions
+📱 Environment: TELEGRAM
+
+Sistema funcionando, mas sem dados de APIs.'''
+              
+              url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
+              payload = {
+                  'chat_id': chat_id,
+                  'text': message,
+                  'parse_mode': 'Markdown'
+              }
+              
+              try:
+                  response = requests.post(url, json=payload, timeout=10)
+                  if response.status_code == 200:
+                      print('✅ Notificação de teste enviada!')
+                  else:
+                      print(f'❌ Erro: {response.status_code} - {response.text}')
+              except Exception as e:
+                  print(f'❌ Erro na requisição: {e}')
+          else:
+              print('❌ Credenciais Telegram não configuradas no environment TELEGRAM')
+          "
+        fi
+        
+    - name: 💾 Save data and commit changes
+      if: always()
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        
+        # Criar diretório de dados se não existir
+        mkdir -p data/price_history
+        
+        # Salvar histórico de preços
+        cd app
+        DATE=$(date +%Y-%m-%d_%H)
+        if [ -f "flight_analysis.json" ]; then
+          cp flight_analysis.json "../data/price_history/sp_recife_${DATE}.json"
+          echo "💾 Histórico salvo: sp_recife_${DATE}.json"
+        fi
+        
+        cd ..
+        
+        # Adicionar arquivos de dados
+        git add data/ || true
+        
+        # Commit apenas se houver mudanças
+        if ! git diff --staged --quiet; then
+          git commit -m "🤖 Update monitoring data - $(date '+%Y-%m-%d %H:%M UTC')"
+          git push
+          echo "✅ Dados atualizados no repositório"
+        else
+          echo "ℹ️ Nenhuma mudança nos dados"
+        fi
+        
+    - name: 🧹 Cleanup old data
+      run: |
+        # Manter apenas últimos 30 dias de histórico
+        find data/price_history/ -name "sp_recife_*.json" -mtime +30 -delete 2>/dev/null || true
+        echo "✅ Limpeza de dados antigos concluída"
+        
+    - name: 📊 Execution summary
+      if: always()
+      run: |
+        cd app
+        
+        echo "## 📊 Resumo da Execução" >> $GITHUB_STEP_SUMMARY
+        echo "- 🕐 Horário: $(date)" >> $GITHUB_STEP_SUMMARY
+        echo "- 🎯 Rota: São Paulo → Recife" >> $GITHUB_STEP_SUMMARY
+        
+        # Dados de preços
+        PRICE_DATA="${{ needs.check-prices.outputs.price_info }}"
+        if [ "$PRICE_DATA" != "ERROR|ERROR|ERROR|ERROR" ]; then
+          PRICE_VALUE=$(echo $PRICE_DATA | cut -d'|' -f1)
+          PRICE_RATING=$(echo $PRICE_DATA | cut -d'|' -f2)
+          AIRLINE=$(echo $PRICE_DATA | cut -d'|' -f3)
+          ORIGIN=$(echo $PRICE_DATA | cut -d'|' -f4)
+          
+          echo "- 💰 Preço mais barato: R\$ $PRICE_VALUE ($PRICE_RATING)" >> $GITHUB_STEP_SUMMARY
+          echo "- ✈️ Melhor opção: $AIRLINE via $ORIGIN" >> $GITHUB_STEP_SUMMARY
+        else
+          echo "- ⚠️ Dados de preços: Não disponíveis" >> $GITHUB_STEP_SUMMARY
+        fi
+        
+        # APIs utilizadas
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 🔧 APIs Consultadas:" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ Amadeus Self-Service (preços)" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ OpenSky Network (tráfego aéreo)" >> $GITHUB_STEP_SUMMARY
+        echo "- ✅ RSS Feeds (promoções)" >> $GITHUB_STEP_SUMMARY
+        
+        # Feeds monitorados
+        echo "" >> $GITHUB_STEP_SUMMARY
+        echo "### 📡 Feeds RSS Monitorados:" >> $GITHUB_STEP_SUMMARY
+        echo "- Passageiro de Primeira" >> $GITHUB_STEP_SUMMARY
+        echo "- MaxMilhas Blog" >> $GITHUB_STEP_SUMMARY
+        echo "- Viagem na Viagem" >> $GITHUB_STEP_SUMMARY
+        echo "- Qual Viagem" >> $GITHUB_STEP_SUMMARY
+        echo "- Vida de Turista" >> $GITHUB_STEP_SUMMARY
+        echo "- Melhores Destinos" >> $GITHUB_STEP_SUMMARY

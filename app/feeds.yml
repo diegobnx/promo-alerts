@@ -1,0 +1,20 @@
+feeds:
+  # Feeds principais funcionais e testados
+  - name: Passageiro de Primeira
+    url: https://passageirodeprimeira.com/feed/
+  - name: Viagem na Viagem
+    url: https://www.viajenaviagem.com/feed/
+  - name: Qual Viagem
+    url: https://www.qualviagem.com.br/feed/
+  - name: Vida de Turista
+    url: https://www.vidadeturista.com/feed/
+  - name: Melhores Destinos
+    url: https://feeds.feedburner.com/melhoresdestinos
+  - name: MaxMilhas Blog
+    url: https://blog.maxmilhas.com.br/feed/
+  - name: 123Milhas Blog
+    url: https://blog.123milhas.com/feed/
+  - name: Voopter Blog
+    url: https://blog.voopter.com.br/feed/
+  - name: Aviation Week
+    url: https://aviationweek.com/rss.xml

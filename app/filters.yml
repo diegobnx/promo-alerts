@@ -1,0 +1,71 @@
+# Configuração ESPECÍFICA: APENAS passagens SP ↔ RECIFE
+
+enabled: true
+
+# ROTAS - Desabilitado (usando apenas keywords)
+routes:
+  enabled: false
+
+# PALAVRAS-CHAVE - FOCO POSITIVO: Recife + Passagens + Milhas
+keywords:
+  enabled: true
+  include:
+    # Lista vazia - lógica customizada no código para Recife + passagens + milhas
+    []
+    
+  exclude:
+    # Lista vazia - sem exclusões, só inclusões positivas
+    []
+  
+  # Novos termos relacionados a milhas
+  miles_keywords:
+    - "milhas"
+    - "pontos"
+    - "smiles"
+    - "tudoazul"
+    - "latam pass"
+    - "lifemiles"
+    - "avianca plus"
+    - "tap miles"
+    - "miles&more"
+    - "prêmio"
+    - "premio"
+    - "programa de fidelidade"
+    - "acumulo"
+    - "resgate"
+    - "voo prêmio"
+    - "passagem prêmio"
+    - "promoção milhas"
+    - "compre milhas"
+    - "bonus milhas"
+    - "oferta milhas"
+
+# PREÇO - Para SP-Recife
+price:
+  enabled: true
+  domestic_max: 800      # Máximo R$ 800 para SP-Recife
+  international_max: 2000
+  
+  price_keywords:
+    - "R$"
+    - "reais"
+    - "partir de"
+    - "por"
+    - "apenas"
+    - "promoção"
+    - "desconto"
+    - "OFF"
+
+# COMPANHIAS - Desabilitado (foco apenas em Recife + passagens)
+airlines:
+  enabled: false
+
+# CONFIGURAÇÕES - Otimizado para performance
+advanced:
+  min_posts_to_notify: 1
+  log_rejected_posts: false  # Desabilitado para reduzir spam de logs
+  fuzzy_matching: true
+  
+  # Notificação quando não encontra promoções
+  notify_when_no_results: true
+  no_results_min_posts_analyzed: 10  # Só notifica se analisou pelo menos 10 posts
