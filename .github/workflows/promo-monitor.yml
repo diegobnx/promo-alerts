@@ -184,54 +184,40 @@ jobs:
           # Sempre enviar notificação para debug - vamos ver o que está acontecendo
           echo "🚀 Preparando notificação Telegram..."
           
-          # Enviar notificação
+          # Enviar notificação usando curl diretamente
           if [ "$SHOULD_NOTIFY" = "true" ]; then
-            # Criar script Python temporário
-            cat > telegram_test.py << 'EOF'
-import requests
-import json
-import os
-from datetime import datetime
-
-print('🔍 Iniciando envio de notificação...')
-
-bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
-chat_id = os.environ.get('TELEGRAM_CHAT_ID')
-
-print(f'BOT_TOKEN presente: {bool(bot_token)}')
-print(f'CHAT_ID presente: {bool(chat_id)}')
-
-if not bot_token or not chat_id:
-    print('❌ Credenciais Telegram não encontradas')
-    exit(1)
-
-# Teste simples primeiro
-message = f'🧪 TESTE - Monitoramento SP → Recife\n\n⏰ Executado em: {datetime.now().strftime("%H:%M - %d/%m/%Y")}\n🤖 Via GitHub Actions\n📱 Environment: TELEGRAM\n\nEste é um teste para verificar se as notificações estão funcionando.'
-
-url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
-payload = {
-    'chat_id': chat_id,
-    'text': message
-}
-
-print(f'🚀 Enviando para: {url}')
-print(f'📨 Chat ID: {chat_id}')
-
-try:
-    response = requests.post(url, json=payload, timeout=10)
-    print(f'📡 Status Code: {response.status_code}')
-    print(f'📄 Response: {response.text}')
-    
-    if response.status_code == 200:
-        print('✅ Notificação Telegram enviada com sucesso!')
-    else:
-        print(f'❌ Erro Telegram: {response.status_code} - {response.text}')
-except Exception as e:
-    print(f'❌ Erro na requisição: {e}')
-EOF
+            echo "🚀 Enviando notificação via curl..."
             
-            python telegram_test.py
-            rm telegram_test.py
+            MESSAGE="🧪 TESTE - Monitoramento SP → Recife
+
+⏰ Executado em: $(date '+%H:%M - %d/%m/%Y')
+🤖 Via GitHub Actions
+📱 Environment: TELEGRAM
+
+Este é um teste para verificar se as notificações estão funcionando."
+            
+            # Verificar credenciais
+            if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
+              echo "❌ Credenciais Telegram não configuradas"
+              echo "BOT_TOKEN: ${TELEGRAM_BOT_TOKEN:+presente}"
+              echo "CHAT_ID: ${TELEGRAM_CHAT_ID:+presente}"
+            else
+              echo "✅ Credenciais Telegram encontradas"
+              echo "📨 Chat ID: $TELEGRAM_CHAT_ID"
+              
+              # Enviar via curl
+              RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+                -H "Content-Type: application/json" \
+                -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$MESSAGE\"}")
+              
+              echo "📡 Response: $RESPONSE"
+              
+              if echo "$RESPONSE" | grep -q '"ok":true'; then
+                echo "✅ Notificação Telegram enviada com sucesso!"
+              else
+                echo "❌ Erro no envio da notificação"
+              fi
+            fi
           else
             echo "ℹ️ Nenhuma notificação necessária (preço: $PRICE_RATING)"
           fi
@@ -239,39 +225,34 @@ EOF
           echo "⚠️ Análise de preços não disponível - enviando notificação de teste mesmo assim"
           
           # Enviar notificação de teste mesmo sem dados de preços
-          cat > telegram_fallback.py << 'EOF'
-import requests
-import os
-from datetime import datetime
-
-print('🔍 Teste sem análise de preços...')
-
-bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
-chat_id = os.environ.get('TELEGRAM_CHAT_ID')
-
-if bot_token and chat_id:
-    message = f'🧪 TESTE - Workflow Executado\n\n⚠️ Análise de preços não disponível\n⏰ Executado em: {datetime.now().strftime("%H:%M - %d/%m/%Y")}\n🤖 Via GitHub Actions\n📱 Environment: TELEGRAM\n\nSistema funcionando, mas sem dados de APIs.'
-    
-    url = f'https://api.telegram.org/bot{bot_token}/sendMessage'
-    payload = {
-        'chat_id': chat_id,
-        'text': message
-    }
-    
-    try:
-        response = requests.post(url, json=payload, timeout=10)
-        if response.status_code == 200:
-            print('✅ Notificação de teste enviada!')
-        else:
-            print(f'❌ Erro: {response.status_code} - {response.text}')
-    except Exception as e:
-        print(f'❌ Erro na requisição: {e}')
-else:
-    print('❌ Credenciais Telegram não configuradas no environment TELEGRAM')
-EOF
+          echo "🚀 Enviando notificação de fallback via curl..."
           
-          python telegram_fallback.py
-          rm telegram_fallback.py
+          FALLBACK_MESSAGE="🧪 TESTE - Workflow Executado
+
+⚠️ Análise de preços não disponível
+⏰ Executado em: $(date '+%H:%M - %d/%m/%Y')
+🤖 Via GitHub Actions
+📱 Environment: TELEGRAM
+
+Sistema funcionando, mas sem dados de APIs."
+          
+          if [ -n "$TELEGRAM_BOT_TOKEN" ] && [ -n "$TELEGRAM_CHAT_ID" ]; then
+            echo "✅ Enviando notificação de fallback..."
+            
+            RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+              -H "Content-Type: application/json" \
+              -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$FALLBACK_MESSAGE\"}")
+            
+            echo "📡 Fallback Response: $RESPONSE"
+            
+            if echo "$RESPONSE" | grep -q '"ok":true'; then
+              echo "✅ Notificação de fallback enviada!"
+            else
+              echo "❌ Erro no envio da notificação de fallback"
+            fi
+          else
+            echo "❌ Credenciais Telegram não configuradas no environment TELEGRAM"
+          fi
         fi
         
     - name: 💾 Save data and commit changes
