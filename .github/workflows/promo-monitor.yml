@@ -53,16 +53,43 @@ jobs:
         OPENSKY_CLIENT_SECRET: ${{ secrets.OPENSKY_CLIENT_SECRET }}
       run: |
         cd app
-        echo "Analisando preços SP → Recife..."
-        python flight_price_apis.py > price_analysis.log 2>&1
+        echo "🔍 Iniciando análise de preços SP → Recife..."
+        echo "📊 Verificando credenciais das APIs..."
+        
+        # Verificar credenciais
+        echo "AMADEUS_API_KEY: ${AMADEUS_API_KEY:+presente}"
+        echo "AMADEUS_API_SECRET: ${AMADEUS_API_SECRET:+presente}"
+        echo "OPENSKY_CLIENT_ID: ${OPENSKY_CLIENT_ID:+presente}"
+        echo "OPENSKY_CLIENT_SECRET: ${OPENSKY_CLIENT_SECRET:+presente}"
+        
+        # Executar análise com logs detalhados
+        echo "🚀 Executando flight_price_apis.py..."
+        python flight_price_apis.py
+        
+        echo "📋 Arquivos criados no diretório:"
+        ls -la
+        
+        echo "📄 Conteúdo dos logs:"
+        if [ -f "price_analysis.log" ]; then
+          cat price_analysis.log
+        else
+          echo "⚠️ Arquivo price_analysis.log não encontrado"
+        fi
         
         if [ -f "flight_analysis.json" ]; then
+          echo "✅ flight_analysis.json encontrado!"
+          echo "📊 Tamanho do arquivo: $(wc -c < flight_analysis.json) bytes"
+          echo "🔍 Primeiras linhas do JSON:"
+          head -10 flight_analysis.json
+          
           PRICE_INFO=$(python -c "import json; data=json.load(open('flight_analysis.json')); s=data['summary']; print(f\"{s['cheapest_price_brl']}|{s['price_rating']}|{s['airline']}|{s['best_origin']}\")" 2>/dev/null || echo "ERROR|ERROR|ERROR|ERROR")
           echo "price_info=$PRICE_INFO" >> $GITHUB_OUTPUT
-          echo "Análise de preços concluída"
+          echo "✅ Análise de preços concluída: $PRICE_INFO"
         else
+          echo "❌ flight_analysis.json NÃO foi criado!"
+          echo "🔍 Verificando se o script Python executou corretamente..."
+          python -c "print('Python está funcionando')"
           echo "price_info=ERROR|ERROR|ERROR|ERROR" >> $GITHUB_OUTPUT
-          echo "Arquivo de análise não encontrado"
         fi
         
     - name: "Upload analysis data"
@@ -146,25 +173,43 @@ jobs:
           AIRLINE=$(echo $PRICE_DATA | cut -d'|' -f3)
           ORIGIN=$(echo $PRICE_DATA | cut -d'|' -f4)
           
-          MESSAGE="TESTE - Monitoramento SP → Recife\n\nExecutado em: $(date '+%H:%M - %d/%m/%Y')\nVia GitHub Actions\nEnvironment: TELEGRAM\n\nPreço atual: R$ $PRICE_VALUE ($PRICE_RATING)\nMelhor origem: $ORIGIN\nCompanhia: $AIRLINE\n\nEste é um teste do sistema de notificações."
+          MESSAGE="🎯 Monitoramento SP → Recife\n\n💰 Preço atual: R$ $PRICE_VALUE ($PRICE_RATING)\n✈️ Melhor origem: $ORIGIN\n🏢 Companhia: $AIRLINE\n\n⏰ Atualizado: $(date '+%H:%M - %d/%m/%Y')\n🤖 Via GitHub Actions"
           
         else
           echo "Análise de preços não disponível"
           MESSAGE="TESTE - Workflow Executado\n\nAnálise de preços não disponível\nExecutado em: $(date '+%H:%M - %d/%m/%Y')\nVia GitHub Actions\nEnvironment: TELEGRAM\n\nSistema funcionando, mas sem dados de APIs."
         fi
         
-        echo "Enviando notificação..."
+        # Só enviar notificação se tiver dados de preços OU posts RSS novos
+        SHOULD_NOTIFY=false
         
-        RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
-          -H "Content-Type: application/json" \
-          -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$MESSAGE\"}")
+        if [ -f "flight_analysis.json" ]; then
+          SHOULD_NOTIFY=true
+          echo "✅ Notificação autorizada: dados de preços disponíveis"
+        elif [ -f "../data/seen.json" ]; then
+          # Verificar se seen.json foi atualizado recentemente (últimos 10 minutos)
+          if [ $(find ../data/seen.json -mmin -10 2>/dev/null | wc -l) -gt 0 ]; then
+            SHOULD_NOTIFY=true
+            echo "✅ Notificação autorizada: novos posts RSS detectados"
+          fi
+        fi
         
-        echo "Response: $RESPONSE"
-        
-        if echo "$RESPONSE" | grep -q '"ok":true'; then
-          echo "Notificação Telegram enviada com sucesso!"
+        if [ "$SHOULD_NOTIFY" = "true" ]; then
+          echo "🚀 Enviando notificação..."
+          
+          RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
+            -H "Content-Type: application/json" \
+            -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$MESSAGE\"}")
+          
+          echo "📡 Response: $RESPONSE"
+          
+          if echo "$RESPONSE" | grep -q '"ok":true'; then
+            echo "✅ Notificação Telegram enviada com sucesso!"
+          else
+            echo "❌ Erro no envio da notificação"
+          fi
         else
-          echo "Erro no envio da notificação"
+          echo "ℹ️ Notificação não enviada: sem dados novos para reportar"
         fi
         
     - name: "Save data and commit changes"
