@@ -1,0 +1,88 @@
+{
+  "summary": {
+    "route": "São Paulo → Recife",
+    "cheapest_price_brl": 670.03,
+    "best_origin": "GRU",
+    "airline": "G3",
+    "price_rating": "CARA",
+    "recommendation": "❌ Preço alto R$670. Evite comprar agora."
+  },
+  "cash_prices": {
+    "route": "SP → REC",
+    "date": "2025-09-08",
+    "cheapest_price": 670.03,
+    "cheapest_origin": "GRU",
+    "airline": "G3",
+    "departure_time": "2025-09-08T09:05:00",
+    "price_range": {
+      "min": 670.03,
+      "max": 2421.22,
+      "avg": 1505.87
+    },
+    "flights_found": 20,
+    "timestamp": "2025-09-01T17:11:04.342531",
+    "source": "Amadeus"
+  },
+  "miles_estimates": {
+    "cash_price_reference": 670.03,
+    "programs": {
+      "Smiles (GOL)": {
+        "estimated_miles": 16750,
+        "fees_brl": 120,
+        "total_cost_brl": 120,
+        "savings_vs_cash": 550.03,
+        "worth_using_miles": true
+      },
+      "TudoAzul (Azul)": {
+        "estimated_miles": 14740,
+        "fees_brl": 140,
+        "total_cost_brl": 140,
+        "savings_vs_cash": 530.03,
+        "worth_using_miles": true
+      },
+      "LATAM Pass": {
+        "estimated_miles": 17000,
+        "fees_brl": 100,
+        "total_cost_brl": 100,
+        "savings_vs_cash": 570.03,
+        "worth_using_miles": true
+      },
+      "Livelo": {
+        "estimated_miles": 20100,
+        "fees_brl": 80,
+        "total_cost_brl": 80,
+        "savings_vs_cash": 590.03,
+        "worth_using_miles": true
+      }
+    },
+    "best_miles_option": "TudoAzul (Azul)",
+    "timestamp": "2025-09-01T17:11:04.342675"
+  },
+  "trend_analysis": {
+    "current_price": 670.03,
+    "price_rating": "CARA",
+    "potential_savings": 0,
+    "price_ranges": {
+      "excelente": 300,
+      "boa": 450,
+      "regular": 600,
+      "cara": 800
+    },
+    "recommendation": "❌ Preço alto R$670. Evite comprar agora.",
+    "timestamp": "2025-09-01T17:11:09.905229"
+  },
+  "air_traffic": {
+    "error": "401 Client Error:  for url: https://opensky-network.org/api/states/all?lamin=-8.5&lamax=-7.5&lomin=-35.5&lomax=-34.5",
+    "source": "OpenSky"
+  },
+  "api_usage": {
+    "amadeus_requests": 2,
+    "opensky_requests": 1,
+    "total_cost": 0.0,
+    "remaining_free_requests": {
+      "amadeus": "~1998/2000",
+      "opensky": "~3999/4000 créditos"
+    }
+  },
+  "timestamp": "2025-09-01T17:11:10.616714"
+}
