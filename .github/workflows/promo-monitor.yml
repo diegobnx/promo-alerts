@@ -1,8 +1,8 @@
 name: "Promo Monitor - SP → Recife"
 
 on:
-  schedule:
-    - cron: '0 11,17,23 * * 1-5'
+  #schedule:
+  #  - cron: '0 11,17,23 * * 1-5'
   workflow_dispatch:
     inputs:
       departure_date:
