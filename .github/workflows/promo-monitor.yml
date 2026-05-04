@@ -84,12 +84,6 @@ jobs:
           echo "| Status | $FOUND |" >> $GITHUB_STEP_SUMMARY
         fi
         echo "" >> $GITHUB_STEP_SUMMARY
-<<<<<<< HEAD
-        echo "### APIs Consultadas:" >> $GITHUB_STEP_SUMMARY
-        echo "- Amadeus Self-Service (preços)" >> $GITHUB_STEP_SUMMARY
-        echo "- OpenSky Network (tráfego aéreo)" >> $GITHUB_STEP_SUMMARY
-        echo "- RSS Feeds (promoções)" >> $GITHUB_STEP_SUMMARY
-=======
         echo "🔗 [Ver portal](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/portal/)" >> $GITHUB_STEP_SUMMARY
 
   # ── Publica o portal no GitHub Pages ─────────────────────────────────────
@@ -105,7 +99,7 @@ jobs:
     - name: "Checkout repository"
       uses: actions/checkout@v4
       with:
-        ref: ${{ github.ref }}    # garante que pega o commit com os dados atualizados
+        ref: ${{ github.ref }}
         fetch-depth: 0
 
     - name: "Pull latest data"
@@ -117,10 +111,8 @@ jobs:
     - name: "Upload Pages artifact"
       uses: actions/upload-pages-artifact@v3
       with:
-        # Sobe a pasta portal/ + data/ para que o index.html possa ler results.json
         path: '.'
 
     - name: "Deploy to GitHub Pages"
       id: deployment
       uses: actions/deploy-pages@v4
->>>>>>> 49aadb7 (feat: muda destino para Itália + portal web)
