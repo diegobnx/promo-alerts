@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-04T14:41:10.827213",
+  "last_run": "2026-05-04T14:44:47.198797",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-04T14:41:10.827213",
+    "run_at": "2026-05-04T14:44:47.198797",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Italy Magazine – Travel News:153216 at https://www.italymagazine.com",
-        "feed_name": "Italy Magazine – Travel News",
-        "title": "Genoa & Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia",
-        "link": "https://www.italymagazine.com/experience-in-italy/genoa-cinque-terre-authentic-ligurian-experience-locals-italia-sweet-italia",
-        "published": "2025-07-08T14:53:36",
-        "discovered_at": "2026-05-04T14:41:07.727544",
-        "summary": "      Genoa &amp; Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia\n    \n\nitaliasweetitalia\n\nTue, 07/08/2025 - 10:53\n\n\n            Embark on an 8-day journey to uncover the heart of Liguria, where the azure sea meets the vibrant tapestry of Italian life. This is mor"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-04T14:44:47.198797",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-04T14:41:10.827213",
       "destination": "Itália",
