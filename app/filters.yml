@@ -1,4 +1,4 @@
-# Configuração ESPECÍFICA: APENAS passagens SP ↔ RECIFE
+# Configuração ESPECÍFICA: Passagens Brasil → ITÁLIA
 
 enabled: true
 
@@ -6,18 +6,17 @@ enabled: true
 routes:
   enabled: false
 
-# PALAVRAS-CHAVE - FOCO POSITIVO: Recife + Passagens + Milhas
+# PALAVRAS-CHAVE - FOCO: Itália + Passagens + Milhas
 keywords:
   enabled: true
   include:
-    # Lista vazia - lógica customizada no código para Recife + passagens + milhas
+    # Lista vazia - lógica customizada no código para Itália + passagens + milhas
     []
-    
+
   exclude:
-    # Lista vazia - sem exclusões, só inclusões positivas
     []
-  
-  # Novos termos relacionados a milhas
+
+  # Termos relacionados a milhas
   miles_keywords:
     - "milhas"
     - "pontos"
@@ -25,13 +24,11 @@ keywords:
     - "tudoazul"
     - "latam pass"
     - "lifemiles"
-    - "avianca plus"
     - "tap miles"
     - "miles&more"
     - "prêmio"
     - "premio"
     - "programa de fidelidade"
-    - "acumulo"
     - "resgate"
     - "voo prêmio"
     - "passagem prêmio"
@@ -40,12 +37,12 @@ keywords:
     - "bonus milhas"
     - "oferta milhas"
 
-# PREÇO - Para SP-Recife
+# PREÇO - Para viagens internacionais Brasil → Itália
 price:
   enabled: true
-  domestic_max: 800      # Máximo R$ 800 para SP-Recife
-  international_max: 2000
-  
+  domestic_max: 800
+  international_max: 5500    # Máximo R$ 5.500 para Brasil-Itália (ida e volta)
+
   price_keywords:
     - "R$"
     - "reais"
@@ -56,16 +53,16 @@ price:
     - "desconto"
     - "OFF"
 
-# COMPANHIAS - Desabilitado (foco apenas em Recife + passagens)
+# COMPANHIAS - Desabilitado
 airlines:
   enabled: false
 
-# CONFIGURAÇÕES - Otimizado para performance
+# CONFIGURAÇÕES
 advanced:
   min_posts_to_notify: 1
-  log_rejected_posts: false  # Desabilitado para reduzir spam de logs
+  log_rejected_posts: false
   fuzzy_matching: true
-  
+
   # Notificação quando não encontra promoções
   notify_when_no_results: true
-  no_results_min_posts_analyzed: 10  # Só notifica se analisou pelo menos 10 posts
+  no_results_min_posts_analyzed: 10

@@ -42,3 +42,10 @@ Thumbs.db
 # Local testing
 test_*.py
 debug_*.py
+
+# Credenciais — NUNCA commitar
+.env
+.env.*
+*.env
+secrets.yml
+secrets.yaml

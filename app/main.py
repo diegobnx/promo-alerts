@@ -187,36 +187,37 @@ class PromoAlertsMonitor:
         return True
     
     def check_keyword_filter(self, title: str, summary: str) -> bool:
-        """Check if post matches keyword filters - FOCO POSITIVO: Recife + Passagens + Milhas"""
+        """Check if post matches keyword filters - FOCO POSITIVO: Itália + Passagens + Milhas"""
         keywords_config = self.filters_config.get('keywords', {})
         if not keywords_config.get('enabled', False):
             return True
-        
+
         full_text = f"{title} {summary}".lower()
         normalized_text = self.normalize_text(full_text)
-        
-        # REGRA EXPANDIDA: Deve mencionar Recife/PE/REC E algo relacionado a passagens/viagem/milhas
-        
-        # 1. Deve mencionar Recife/PE/REC/Pernambuco (ULTRA-ESPECÍFICO)
-        has_recife = (
-            self.normalize_text('recife') in normalized_text or
-            self.normalize_text('pernambuco') in normalized_text or
-            # REC como código de aeroporto (muito específico)
-            ' rec ' in f" {normalized_text} " or
-            '-rec ' in normalized_text or
-            ' rec-' in normalized_text or
-            'rec.' in normalized_text or
-            'gru-rec' in normalized_text or
-            'sp-rec' in normalized_text or
-            # PE APENAS em contextos muito específicos de estado
-            ' pe ' in f" {normalized_text} " or
-            'sp-pe' in normalized_text or
-            'para pe ' in f" {normalized_text} " or  # Para PE (estado)
-            'destino pe' in normalized_text or
-            'rumo pe' in normalized_text
+
+        # REGRA: Deve mencionar Itália/cidade italiana/código de aeroporto
+        # E algo relacionado a passagens/viagem/milhas
+        italy_cities = [
+            'italia', 'italy',
+            'roma', 'rome',
+            'milao', 'milan', 'milano',
+            'veneza', 'venice', 'venezia',
+            'florenca', 'florence', 'firenze',
+            'napoles', 'naples', 'napoli',
+            'turin', 'turim', 'torino',
+            'bologna', 'genova', 'genoa',
+            'palermo', 'sicilia', 'sicily',
+            'sardinia', 'sardegna',
+        ]
+        italy_airports = ['fco', 'mxp', 'linate', 'vce', 'nap', 'bgy', 'cia']
+
+        has_italy = (
+            any(city in normalized_text for city in italy_cities) or
+            any(f' {ap} ' in f' {normalized_text} ' or f'-{ap}' in normalized_text or f'{ap}-' in normalized_text
+                for ap in italy_airports)
         )
-        
-        # 2. Deve mencionar termos ESPECÍFICOS de passagens/voos (removendo termos genéricos)
+
+        # 2. Deve mencionar termos de passagens/voos
         has_passagem_terms = any(term in normalized_text for term in [
             self.normalize_text('passagem'),
             self.normalize_text('passagens'),
@@ -224,30 +225,31 @@ class PromoAlertsMonitor:
             self.normalize_text('voos'),
             self.normalize_text('viagem'),
             self.normalize_text('viagens'),
-            # Companhias aéreas (indicam contexto de voo)
-            self.normalize_text('azul'),
-            self.normalize_text('gol'),
-            self.normalize_text('latam'),
-            # Aeroportos (indicam contexto de voo)
-            self.normalize_text('guarulhos'),
-            self.normalize_text('congonhas'),
-            'gru',
-            'cgh',
-            # Contextos específicos de voo
+            self.normalize_text('europa'),
+            self.normalize_text('europeu'),
             self.normalize_text('voar'),
             self.normalize_text('aereo'),
             self.normalize_text('aerea'),
             self.normalize_text('aereas'),
             self.normalize_text('bilhete'),
-            self.normalize_text('bilhetes')
+            self.normalize_text('bilhetes'),
+            # Companhias que voam para a Itália
+            self.normalize_text('latam'),
+            self.normalize_text('tap'),
+            self.normalize_text('alitalia'),
+            self.normalize_text('ita airways'),
+            self.normalize_text('lufthansa'),
+            self.normalize_text('air france'),
+            self.normalize_text('iberia'),
+            'gru', 'gig',
         ])
-        
-        # 3. NOVO: Termos relacionados a MILHAS (da configuração)
+
+        # 3. Termos relacionados a MILHAS (da configuração)
         miles_keywords = keywords_config.get('miles_keywords', [])
         has_miles_terms = any(self.normalize_text(term) in normalized_text for term in miles_keywords)
-        
-        # Deve ter Recife E (passagens OU milhas) para passar
-        return has_recife and (has_passagem_terms or has_miles_terms)
+
+        # Deve ter Itália E (passagens OU milhas) para passar
+        return has_italy and (has_passagem_terms or has_miles_terms)
     
     def check_price_filter(self, title: str, summary: str) -> bool:
         """Check if post matches price filters"""
@@ -297,34 +299,30 @@ class PromoAlertsMonitor:
         return True
     
     def apply_filters(self, post: Dict) -> bool:
-        """Apply all filters to a post - FOCO ABSOLUTO EM RECIFE + PASSAGENS"""
+        """Apply all filters to a post - FOCO: Itália + Passagens"""
         if not self.filters_config.get('enabled', False):
             return True
-        
+
         title = post.get('title', '')
         summary = post.get('summary', '')
-        
-        # REGRA ÚNICA E ABSOLUTA: Deve mencionar Recife/PE/REC + passagem/voo
-        # Ignora todos os outros filtros e aplica apenas a lógica de keywords
-        
+
         keyword_passed = self.check_keyword_filter(title, summary)
-        
-        # Log se rejeitado (apenas primeiros 3 por feed para não spammar)
+
         if not keyword_passed and self.filters_config.get('advanced', {}).get('log_rejected_posts', False):
             if not hasattr(self, '_rejected_count_per_feed'):
                 self._rejected_count_per_feed = {}
-            
+
             feed_name = post.get('feed_name', 'unknown')
             count = self._rejected_count_per_feed.get(feed_name, 0)
-            
-            if count < 3:  # Mostra apenas os primeiros 3 rejeitados por feed
-                print(f"  🔍 Post filtered out: NÃO é sobre passagens/milhas para Recife")
+
+            if count < 3:
+                print(f"  🔍 Post filtered out: NÃO é sobre passagens/milhas para a Itália")
                 print(f"    📝 Title: {title[:60]}...")
                 self._rejected_count_per_feed[feed_name] = count + 1
-            elif count == 3:  # No quarto, mostra mensagem resumida
-                print(f"  🔍 ... (mais posts rejeitados - não são sobre Recife)")
+            elif count == 3:
+                print(f"  🔍 ... (mais posts rejeitados - não são sobre a Itália)")
                 self._rejected_count_per_feed[feed_name] = count + 1
-        
+
         return keyword_passed
     
     def load_feeds(self) -> List[Dict]:
@@ -452,30 +450,37 @@ class PromoAlertsMonitor:
     def monitor_feeds(self):
         """Monitor all configured feeds for new posts"""
         feeds = self.load_feeds()
-        
+
         if not feeds:
             print("❌ No feeds configured")
             return
-        
+
         print(f"🚀 Starting monitoring of {len(feeds)} feeds...")
         print("=" * 50)
-        
+
+        feeds_with_errors = 0
         for i, feed in enumerate(feeds, 1):
             feed_name = feed.get('name', 'Unknown Feed')
             feed_url = feed.get('url', '')
-            
+
             if not feed_url:
                 print(f"⚠️ No URL configured for feed: {feed_name}")
+                feeds_with_errors += 1
                 continue
-            
+
             progress = f"[{i}/{len(feeds)}] "
-            new_posts = self.fetch_feed(feed_url, feed_name, progress)
+            try:
+                new_posts = self.fetch_feed(feed_url, feed_name, progress)
+            except Exception:
+                feeds_with_errors += 1
+                new_posts = []
             self.new_posts.extend(new_posts)
-            
-            # Small delay between feeds to be respectful (reduzido)
+
             time.sleep(0.5)
-        
+
         print("=" * 50)
+        self._feeds_checked = len(feeds)
+        self._feeds_with_errors = feeds_with_errors
         
         # Show filtering statistics
         if self.filters_config.get('enabled', False):
@@ -515,7 +520,13 @@ class PromoAlertsMonitor:
         
         # Save seen posts
         self.save_seen_posts()
-        
+
+        # Save results for the web portal
+        self.save_results_json(
+            feeds_checked=getattr(self, '_feeds_checked', 0),
+            feeds_with_errors=getattr(self, '_feeds_with_errors', 0),
+        )
+
         # Display new posts
         self.display_new_posts()
     
@@ -560,7 +571,7 @@ class PromoAlertsMonitor:
         
         try:
             # Create message with top posts
-            message = "🔥 *NOVAS PROMOÇÕES ENCONTRADAS!*\n\n"
+            message = "🔥 *NOVAS PROMOÇÕES PARA A ITÁLIA* 🇮🇹\n\n"
             
             # Group posts by feed and show top 2 per feed
             feed_posts = {}
@@ -616,8 +627,69 @@ class PromoAlertsMonitor:
         except Exception as e:
             print(f"❌ Error sending Telegram notification: {e}")
     
+    def save_results_json(self, feeds_checked: int, feeds_with_errors: int):
+        """Save current run results to data/results.json for the web portal"""
+        results_file = self.seen_file.parent / 'results.json'
+
+        # Load history from existing file
+        history = []
+        if results_file.exists():
+            try:
+                with open(results_file, 'r', encoding='utf-8') as f:
+                    existing = json.load(f)
+                    history = existing.get('history', [])
+            except Exception:
+                history = []
+
+        # Build current run entry
+        run_entry = {
+            'run_at': datetime.now().isoformat(),
+            'destination': 'Itália',
+            'feeds_checked': feeds_checked,
+            'feeds_with_errors': feeds_with_errors,
+            'posts_found': len(self.new_posts),
+            'posts': [
+                {
+                    'id': p['id'],
+                    'feed_name': p['feed_name'],
+                    'title': p['title'],
+                    'link': p['link'],
+                    'published': p.get('published'),
+                    'discovered_at': p.get('discovered_at'),
+                    'summary': re.sub('<[^<]+?>', '', p.get('summary', ''))[:300],
+                }
+                for p in self.new_posts
+            ]
+        }
+
+        # Prepend new run; keep last 50 runs in history
+        history.insert(0, run_entry)
+        history = history[:50]
+
+        # Collect all unique posts across history for "all posts" view
+        all_posts_seen: dict = {}
+        for run in history:
+            for post in run.get('posts', []):
+                if post['id'] not in all_posts_seen:
+                    all_posts_seen[post['id']] = post
+
+        data = {
+            'last_run': run_entry['run_at'],
+            'destination': 'Itália',
+            'latest': run_entry,
+            'history': history,
+            'all_posts': list(all_posts_seen.values()),
+        }
+
+        try:
+            with open(results_file, 'w', encoding='utf-8') as f:
+                json.dump(data, f, indent=2, ensure_ascii=False)
+            print(f"📊 Resultados salvos em {results_file}")
+        except Exception as e:
+            print(f"❌ Erro ao salvar results.json: {e}")
+
     def send_no_promotions_notification(self, total_analyzed: int, rejected_count: int):
-        """Send notification when no Recife promotions are found"""
+        """Send notification when no Italy promotions are found"""
         bot_token = os.environ.get('TELEGRAM_BOT_TOKEN')
         chat_id = os.environ.get('TELEGRAM_CHAT_ID')
         
@@ -633,10 +705,10 @@ class PromoAlertsMonitor:
 📊 **Análise concluída:**
 • {total_analyzed} posts analisados
 • {rejected_count} posts rejeitados
-• 0 promoções de passagens para Recife encontradas
+• 0 promoções de passagens para a Itália encontradas
 
 🎯 **Filtro funcionando perfeitamente!**
-Sistema buscando apenas passagens específicas para Recife/PE.
+Sistema buscando apenas passagens para a Itália 🇮🇹
 
 ⏰ Verificado em: {current_time}
 🔄 Próxima verificação em 2-3 horas"""
@@ -660,48 +732,45 @@ Sistema buscando apenas passagens específicas para Recife/PE.
     
     def enhance_post_with_price_analysis(self, post: Dict) -> Dict:
         """
-        Enriquecer post com análise de preços atuais SP → Recife
-        Só busca preços se o post for realmente sobre Recife
+        Enriquecer post com análise de preços atuais Brasil → Itália
+        Só busca preços se o post for realmente sobre voos para a Itália
         """
-        if not self._is_post_about_recife_flights(post):
+        if not self._is_post_about_italy_flights(post):
             return post
-        
+
         try:
             print(f"💰 Analisando preços para: {post.get('title', '')[:50]}...")
-            
-            # Buscar preços atuais (cache simples para evitar spam da API)
-            cache_key = f"sp_recife_prices_{datetime.now().strftime('%Y%m%d_%H')}"
-            
+
+            cache_key = f"brazil_italy_prices_{datetime.now().strftime('%Y%m%d_%H')}"
+
             if not hasattr(self, '_price_cache'):
                 self._price_cache = {}
-            
+
             if cache_key not in self._price_cache:
                 price_analysis = self.price_checker.get_complete_sp_recife_analysis()
                 self._price_cache[cache_key] = price_analysis
             else:
                 price_analysis = self._price_cache[cache_key]
-            
+
             if 'error' not in price_analysis:
-                # Extrair preço de promoção do post (se mencionado)
                 promo_price = self.extract_price(f"{post.get('title', '')} {post.get('summary', '')}")
-                
+
                 current_market_price = price_analysis['summary']['cheapest_price_brl']
                 price_rating = price_analysis['summary']['price_rating']
-                
-                # Análise da oferta
+
                 deal_analysis = {
                     'current_market_price_brl': current_market_price,
                     'market_price_rating': price_rating,
                     'has_promotion_price': promo_price is not None
                 }
-                
+
                 if promo_price:
                     savings = current_market_price - promo_price
                     deal_analysis.update({
                         'promotion_price_brl': promo_price,
                         'savings_vs_market': savings,
                         'discount_percentage': round((savings / current_market_price) * 100, 1) if current_market_price > 0 else 0,
-                        'is_good_deal': savings > 50 and promo_price < 500,  # Economiza >R$50 e <R$500
+                        'is_good_deal': savings > 200 and promo_price < 4000,
                         'deal_quality': self._rate_deal_quality(promo_price, current_market_price)
                     })
                 else:
@@ -709,8 +778,7 @@ Sistema buscando apenas passagens específicas para Recife/PE.
                         'promotion_price_brl': None,
                         'note': 'Preço da promoção não identificado no texto'
                     })
-                
-                # Adicionar dados de milhas
+
                 if promo_price:
                     miles_estimates = self.price_checker.estimate_miles_prices(promo_price)
                     deal_analysis['miles_alternative'] = {
@@ -718,30 +786,31 @@ Sistema buscando apenas passagens específicas para Recife/PE.
                         'estimated_miles': miles_estimates['programs'][miles_estimates['best_miles_option']]['estimated_miles'],
                         'worth_using_miles': miles_estimates['programs'][miles_estimates['best_miles_option']]['worth_using_miles']
                     }
-                
+
                 post['price_analysis'] = deal_analysis
-                
+
         except Exception as e:
             print(f"⚠️ Erro na análise de preços: {e}")
             post['price_analysis'] = {'error': str(e)}
-        
+
         return post
-    
-    def _is_post_about_recife_flights(self, post: Dict) -> bool:
-        """Verificar se post é especificamente sobre voos para Recife"""
-        text = f"{post.get('title', '')} {post.get('summary', '')}".lower()
-        
-        # Deve mencionar Recife/PE/REC
-        has_recife = any(term in text for term in [
-            'recife', 'pernambuco', ' pe ', ' rec ', '-rec', 'gru-rec', 'sp-rec'
+
+    def _is_post_about_italy_flights(self, post: Dict) -> bool:
+        """Verificar se post é especificamente sobre voos para a Itália"""
+        text = self.normalize_text(f"{post.get('title', '')} {post.get('summary', '')}")
+
+        has_italy = any(term in text for term in [
+            'italia', 'italy', 'roma', 'rome', 'milao', 'milan', 'milano',
+            'veneza', 'venice', 'florenca', 'florence', 'napoles', 'naples',
+            'fco', 'mxp', 'vce',
         ])
-        
-        # E deve mencionar voos/passagens
+
         has_flight_terms = any(term in text for term in [
-            'voo', 'voos', 'passagem', 'passagens', 'voar', 'aereo', 'aerea'
+            'voo', 'voos', 'passagem', 'passagens', 'voar', 'aereo', 'aerea',
+            'viagem', 'europa',
         ])
-        
-        return has_recife and has_flight_terms
+
+        return has_italy and has_flight_terms
     
     def _rate_deal_quality(self, promo_price: float, market_price: float) -> str:
         """Avaliar qualidade da oferta"""
@@ -790,7 +859,7 @@ Sistema buscando apenas passagens específicas para Recife/PE.
 
 def main():
     """Main execution function"""
-    print("🎯 Promo Alerts Monitor")
+    print("🎯 Promo Alerts Monitor — Brasil → Itália 🇮🇹")
     print(f"⏰ Started at: {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}")
     
     try:

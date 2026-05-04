@@ -1,14 +1,13 @@
-name: "Promo Monitor - SP → Recife"
+name: "Promo Monitor — Brasil → Itália 🇮🇹"
 
 on:
-  #schedule:
-  #  - cron: '0 11,17,23 * * 1-5'
+  schedule:
+    # Seg-Sex: 08h, 13h, 18h, 22h (horário Brasília = UTC-3)
+    - cron: '0 11,16,21 * * 1-5'
+    # Sáb-Dom: 10h e 18h
+    - cron: '0 13,21 * * 0,6'
   workflow_dispatch:
     inputs:
-      departure_date:
-        description: 'Data de partida (YYYY-MM-DD)'
-        required: false
-        default: ''
       debug:
         description: 'Enable debug output'
         required: false
@@ -17,124 +16,30 @@ on:
 
 permissions:
   contents: write
-  issues: write
+  pages: write
+  id-token: write
 
 jobs:
-  check-prices:
-    runs-on: ubuntu-latest
-    environment: APIKEYS
-    outputs:
-      price_info: ${{ steps.price_check.outputs.price_info }}
-      analysis_data: ${{ steps.upload_analysis.outputs.analysis_data }}
-    
-    steps:
-    - name: "Checkout repository"
-      uses: actions/checkout@v4
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        
-    - name: "Setup Python"
-      uses: actions/setup-python@v4
-      with:
-        python-version: '3.11'
-        cache: 'pip'
-        
-    - name: "Install dependencies"
-      run: |
-        cd app
-        pip install -r requirements.txt
-        
-    - name: "Check SP → Recife prices"
-      id: price_check
-      env:
-        AMADEUS_API_KEY: ${{ secrets.AMADEUS_API_KEY }}
-        AMADEUS_API_SECRET: ${{ secrets.AMADEUS_API_SECRET }}
-        OPENSKY_CLIENT_ID: ${{ secrets.OPENSKY_CLIENT_ID }}
-        OPENSKY_CLIENT_SECRET: ${{ secrets.OPENSKY_CLIENT_SECRET }}
-      run: |
-        cd app
-        echo "🔍 Iniciando análise de preços SP → Recife..."
-        echo "📊 Verificando credenciais das APIs..."
-        
-        # Verificar credenciais
-        echo "AMADEUS_API_KEY: ${AMADEUS_API_KEY:+presente}"
-        echo "AMADEUS_API_SECRET: ${AMADEUS_API_SECRET:+presente}"
-        echo "OPENSKY_CLIENT_ID: ${OPENSKY_CLIENT_ID:+presente}"
-        echo "OPENSKY_CLIENT_SECRET: ${OPENSKY_CLIENT_SECRET:+presente}"
-        
-        # Executar análise com logs detalhados
-        echo "🚀 Executando flight_price_apis.py..."
-        python flight_price_apis.py
-        
-        echo "📋 Arquivos criados no diretório:"
-        ls -la
-        
-        echo "📄 Conteúdo dos logs:"
-        if [ -f "price_analysis.log" ]; then
-          cat price_analysis.log
-        else
-          echo "⚠️ Arquivo price_analysis.log não encontrado"
-        fi
-        
-        if [ -f "flight_analysis.json" ]; then
-          echo "✅ flight_analysis.json encontrado!"
-          echo "📊 Tamanho do arquivo: $(wc -c < flight_analysis.json) bytes"
-          echo "🔍 Primeiras linhas do JSON:"
-          head -10 flight_analysis.json
-          
-          PRICE_INFO=$(python -c "import json; data=json.load(open('flight_analysis.json')); s=data['summary']; print(f\"{s['cheapest_price_brl']}|{s['price_rating']}|{s['airline']}|{s['best_origin']}\")" 2>/dev/null || echo "ERROR|ERROR|ERROR|ERROR")
-          echo "price_info=$PRICE_INFO" >> $GITHUB_OUTPUT
-          echo "✅ Análise de preços concluída: $PRICE_INFO"
-        else
-          echo "❌ flight_analysis.json NÃO foi criado!"
-          echo "🔍 Verificando se o script Python executou corretamente..."
-          python -c "print('Python está funcionando')"
-          echo "price_info=ERROR|ERROR|ERROR|ERROR" >> $GITHUB_OUTPUT
-        fi
-        
-    - name: "Upload analysis data"
-      id: upload_analysis
-      run: |
-        cd app
-        if [ -f "flight_analysis.json" ]; then
-          echo "analysis_data=$(cat flight_analysis.json | base64 -w 0)" >> $GITHUB_OUTPUT
-          echo "Dados de análise preparados"
-        else
-          echo "analysis_data=" >> $GITHUB_OUTPUT
-        fi
-
-  monitor-rss-and-notify:
+  monitor-and-notify:
     runs-on: ubuntu-latest
     environment: TELEGRAM
-    needs: check-prices
-    
+
     steps:
     - name: "Checkout repository"
       uses: actions/checkout@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        
+
     - name: "Setup Python"
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.11'
         cache: 'pip'
-        
+        cache-dependency-path: app/requirements.txt
+
     - name: "Install dependencies"
-      run: |
-        cd app
-        pip install -r requirements.txt
-        
-    - name: "Restore price analysis"
-      run: |
-        cd app
-        if [ -n "${{ needs.check-prices.outputs.analysis_data }}" ]; then
-          echo "${{ needs.check-prices.outputs.analysis_data }}" | base64 -d > flight_analysis.json
-          echo "Dados de análise de preços restaurados"
-        else
-          echo "Nenhum dado de análise de preços disponível"
-        fi
-        
+      run: pip install -r app/requirements.txt
+
     - name: "Monitor RSS feeds"
       id: monitor
       env:
@@ -142,131 +47,80 @@ jobs:
         TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
       run: |
         cd app
-        echo "Monitorando feeds RSS..."
-        python main.py > rss_monitor.log 2>&1
-        echo "Monitoramento RSS concluído"
-        
-    - name: "Send Telegram notification"
-      if: success()
-      env:
-        TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
-        TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-      run: |
-        cd app
-        
-        echo "Verificando dados para notificação..."
-        
-        if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHAT_ID" ]; then
-          echo "Credenciais Telegram não configuradas"
-          exit 0
-        fi
-        
-        echo "Credenciais Telegram encontradas"
-        
-        if [ -f "flight_analysis.json" ]; then
-          echo "Arquivo de análise encontrado"
-          PRICE_DATA="${{ needs.check-prices.outputs.price_info }}"
-          echo "Dados de preço: $PRICE_DATA"
-          
-          PRICE_VALUE=$(echo $PRICE_DATA | cut -d'|' -f1)
-          PRICE_RATING=$(echo $PRICE_DATA | cut -d'|' -f2)
-          AIRLINE=$(echo $PRICE_DATA | cut -d'|' -f3)
-          ORIGIN=$(echo $PRICE_DATA | cut -d'|' -f4)
-          
-          MESSAGE="🎯 Monitoramento SP → Recife\n\n💰 Preço atual: R$ $PRICE_VALUE ($PRICE_RATING)\n✈️ Melhor origem: $ORIGIN\n🏢 Companhia: $AIRLINE\n\n⏰ Atualizado: $(date '+%H:%M - %d/%m/%Y')\n🤖 Via GitHub Actions"
-          
-        else
-          echo "Análise de preços não disponível"
-          MESSAGE="TESTE - Workflow Executado\n\nAnálise de preços não disponível\nExecutado em: $(date '+%H:%M - %d/%m/%Y')\nVia GitHub Actions\nEnvironment: TELEGRAM\n\nSistema funcionando, mas sem dados de APIs."
-        fi
-        
-        # Só enviar notificação se tiver dados de preços OU posts RSS novos
-        SHOULD_NOTIFY=false
-        
-        if [ -f "flight_analysis.json" ]; then
-          SHOULD_NOTIFY=true
-          echo "✅ Notificação autorizada: dados de preços disponíveis"
-        elif [ -f "../data/seen.json" ]; then
-          # Verificar se seen.json foi atualizado recentemente (últimos 10 minutos)
-          if [ $(find ../data/seen.json -mmin -10 2>/dev/null | wc -l) -gt 0 ]; then
-            SHOULD_NOTIFY=true
-            echo "✅ Notificação autorizada: novos posts RSS detectados"
-          fi
-        fi
-        
-        if [ "$SHOULD_NOTIFY" = "true" ]; then
-          echo "🚀 Enviando notificação..."
-          
-          RESPONSE=$(curl -s -X POST "https://api.telegram.org/bot$TELEGRAM_BOT_TOKEN/sendMessage" \
-            -H "Content-Type: application/json" \
-            -d "{\"chat_id\":\"$TELEGRAM_CHAT_ID\",\"text\":\"$MESSAGE\"}")
-          
-          echo "📡 Response: $RESPONSE"
-          
-          if echo "$RESPONSE" | grep -q '"ok":true'; then
-            echo "✅ Notificação Telegram enviada com sucesso!"
-          else
-            echo "❌ Erro no envio da notificação"
-          fi
-        else
-          echo "ℹ️ Notificação não enviada: sem dados novos para reportar"
-        fi
-        
-    - name: "Save data and commit changes"
+        python main.py 2>&1 | tee rss_monitor.log
+        echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
+
+    - name: "Save data and commit"
       if: always()
       run: |
         git config --local user.email "action@github.com"
-        git config --local user.name "GitHub Action"
-        
-        mkdir -p data/price_history
-        
-        cd app
-        DATE=$(date +%Y-%m-%d_%H)
-        if [ -f "flight_analysis.json" ]; then
-          cp flight_analysis.json "../data/price_history/sp_recife_${DATE}.json"
-          echo "Histórico salvo: sp_recife_${DATE}.json"
-        fi
-        
-        cd ..
+        git config --local user.name "GitHub Actions"
+
         git add data/ || true
-        
+
         if ! git diff --staged --quiet; then
-          git commit -m "Update monitoring data - $(date '+%Y-%m-%d %H:%M UTC')"
+          git commit -m "chore: update monitoring data — $(date '+%Y-%m-%d %H:%M UTC')"
           git push
-          echo "Dados atualizados no repositório"
+          echo "✅ Dados atualizados no repositório"
         else
-          echo "Nenhuma mudança nos dados"
+          echo "ℹ️ Nenhuma mudança nos dados"
         fi
-        
-    - name: "Cleanup old data"
+
+    - name: "Cleanup old price history"
+      if: always()
       run: |
-        find data/price_history/ -name "sp_recife_*.json" -mtime +30 -delete 2>/dev/null || true
-        echo "Limpeza de dados antigos concluída"
-        
+        find data/price_history/ -name "*.json" -mtime +30 -delete 2>/dev/null || true
+
     - name: "Execution summary"
       if: always()
       run: |
-        cd app
-        
-        echo "## Resumo da Execução" >> $GITHUB_STEP_SUMMARY
-        echo "- Horário: $(date)" >> $GITHUB_STEP_SUMMARY
-        echo "- Rota: São Paulo → Recife" >> $GITHUB_STEP_SUMMARY
-        
-        PRICE_DATA="${{ needs.check-prices.outputs.price_info }}"
-        if [ "$PRICE_DATA" != "ERROR|ERROR|ERROR|ERROR" ]; then
-          PRICE_VALUE=$(echo $PRICE_DATA | cut -d'|' -f1)
-          PRICE_RATING=$(echo $PRICE_DATA | cut -d'|' -f2)
-          AIRLINE=$(echo $PRICE_DATA | cut -d'|' -f3)
-          ORIGIN=$(echo $PRICE_DATA | cut -d'|' -f4)
-          
-          echo "- Preço mais barato: R$ $PRICE_VALUE ($PRICE_RATING)" >> $GITHUB_STEP_SUMMARY
-          echo "- Melhor opção: $AIRLINE via $ORIGIN" >> $GITHUB_STEP_SUMMARY
-        else
-          echo "- Dados de preços: Não disponíveis" >> $GITHUB_STEP_SUMMARY
+        echo "## 🇮🇹 Promo Alerts — Resumo" >> $GITHUB_STEP_SUMMARY
+        echo "| Campo | Valor |" >> $GITHUB_STEP_SUMMARY
+        echo "|-------|-------|" >> $GITHUB_STEP_SUMMARY
+        echo "| Horário | $(date '+%Y-%m-%d %H:%M UTC') |" >> $GITHUB_STEP_SUMMARY
+        echo "| Rota | Brasil → Itália |" >> $GITHUB_STEP_SUMMARY
+        if [ -f app/rss_monitor.log ]; then
+          FOUND=$(grep "new posts total\|posts passed filters" app/rss_monitor.log | tail -1 || echo "—")
+          echo "| Status | $FOUND |" >> $GITHUB_STEP_SUMMARY
         fi
-        
         echo "" >> $GITHUB_STEP_SUMMARY
+<<<<<<< HEAD
         echo "### APIs Consultadas:" >> $GITHUB_STEP_SUMMARY
         echo "- Amadeus Self-Service (preços)" >> $GITHUB_STEP_SUMMARY
         echo "- OpenSky Network (tráfego aéreo)" >> $GITHUB_STEP_SUMMARY
         echo "- RSS Feeds (promoções)" >> $GITHUB_STEP_SUMMARY
+=======
+        echo "🔗 [Ver portal](https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}/portal/)" >> $GITHUB_STEP_SUMMARY
+
+  # ── Publica o portal no GitHub Pages ─────────────────────────────────────
+  deploy-portal:
+    needs: monitor-and-notify
+    runs-on: ubuntu-latest
+    if: always()
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+    - name: "Checkout repository"
+      uses: actions/checkout@v4
+      with:
+        ref: ${{ github.ref }}    # garante que pega o commit com os dados atualizados
+        fetch-depth: 0
+
+    - name: "Pull latest data"
+      run: git pull origin ${{ github.ref_name }} || true
+
+    - name: "Setup Pages"
+      uses: actions/configure-pages@v5
+
+    - name: "Upload Pages artifact"
+      uses: actions/upload-pages-artifact@v3
+      with:
+        # Sobe a pasta portal/ + data/ para que o index.html possa ler results.json
+        path: '.'
+
+    - name: "Deploy to GitHub Pages"
+      id: deployment
+      uses: actions/deploy-pages@v4
+>>>>>>> 49aadb7 (feat: muda destino para Itália + portal web)

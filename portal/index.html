@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Promo Alerts — Brasil → Itália 🇮🇹</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    body { font-family: 'Inter', sans-serif; }
+    .gradient-hero {
+      background: linear-gradient(135deg, #1e3a8a 0%, #1d4ed8 40%, #0ea5e9 100%);
+    }
+    .flag-stripe {
+      background: linear-gradient(to right, #009246 33.3%, #fff 33.3% 66.6%, #ce2b37 66.6%);
+    }
+    .card-hover { transition: transform .15s ease, box-shadow .15s ease; }
+    .card-hover:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(0,0,0,.12); }
+    .pulse-dot { animation: pulse 2s infinite; }
+    @keyframes pulse {
+      0%, 100% { opacity: 1; }
+      50% { opacity: .4; }
+    }
+    .skeleton {
+      background: linear-gradient(90deg, #e2e8f0 25%, #f1f5f9 50%, #e2e8f0 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+    }
+    @keyframes shimmer { 0% { background-position: 200% 0; } 100% { background-position: -200% 0; } }
+    details summary { cursor: pointer; list-style: none; }
+    details summary::-webkit-details-marker { display: none; }
+  </style>
+</head>
+<body class="bg-slate-50 text-slate-800 min-h-screen">
+
+  <!-- Hero -->
+  <header class="gradient-hero text-white py-10 px-6 shadow-xl">
+    <div class="max-w-5xl mx-auto flex flex-col sm:flex-row items-start sm:items-center gap-4">
+      <div class="flex-1">
+        <div class="flex items-center gap-3 mb-2">
+          <span class="text-4xl">✈️</span>
+          <h1 class="text-3xl font-bold tracking-tight">Promo Alerts</h1>
+        </div>
+        <p class="text-blue-100 text-lg font-medium">Monitor de passagens Brasil → Itália 🇮🇹</p>
+        <p class="text-blue-200 text-sm mt-1" id="last-updated">Carregando dados…</p>
+      </div>
+      <div class="flex flex-col items-end gap-2">
+        <button onclick="loadData()" class="bg-white/20 hover:bg-white/30 transition px-4 py-2 rounded-xl text-sm font-semibold flex items-center gap-2 backdrop-blur">
+          <span id="refresh-icon">🔄</span> Atualizar
+        </button>
+        <div class="flag-stripe h-2 w-28 rounded-full opacity-80"></div>
+      </div>
+    </div>
+  </header>
+
+  <main class="max-w-5xl mx-auto px-4 py-8 space-y-8">
+
+    <!-- Stats bar -->
+    <section id="stats-bar" class="grid grid-cols-2 sm:grid-cols-4 gap-4">
+      <div class="skeleton h-20 rounded-2xl"></div>
+      <div class="skeleton h-20 rounded-2xl"></div>
+      <div class="skeleton h-20 rounded-2xl"></div>
+      <div class="skeleton h-20 rounded-2xl"></div>
+    </section>
+
+    <!-- Latest run -->
+    <section>
+      <h2 class="text-xl font-bold mb-4 flex items-center gap-2">
+        <span class="pulse-dot inline-block w-2.5 h-2.5 bg-emerald-500 rounded-full"></span>
+        Última execução
+      </h2>
+      <div id="latest-run" class="skeleton h-32 rounded-2xl"></div>
+    </section>
+
+    <!-- All found posts -->
+    <section>
+      <div class="flex items-center justify-between mb-4">
+        <h2 class="text-xl font-bold flex items-center gap-2">🇮🇹 Promoções encontradas</h2>
+        <input id="search" type="text" placeholder="Buscar…"
+          class="border border-slate-200 rounded-xl px-3 py-1.5 text-sm w-48 focus:outline-none focus:ring-2 focus:ring-blue-300"
+          oninput="filterPosts()" />
+      </div>
+      <div id="posts-container" class="space-y-3">
+        <div class="skeleton h-24 rounded-2xl"></div>
+        <div class="skeleton h-24 rounded-2xl"></div>
+        <div class="skeleton h-24 rounded-2xl"></div>
+      </div>
+      <p id="no-posts" class="hidden text-slate-400 text-center py-12">
+        Nenhuma promoção encontrada ainda. O monitor está ativo e atualizará em breve.
+      </p>
+    </section>
+
+    <!-- Run history -->
+    <section>
+      <h2 class="text-xl font-bold mb-4">📜 Histórico de execuções</h2>
+      <div id="history-container" class="space-y-2"></div>
+    </section>
+
+  </main>
+
+  <footer class="text-center text-slate-400 text-xs py-8">
+    Dados atualizados automaticamente via GitHub Actions · Promo Alerts 🇧🇷→🇮🇹
+  </footer>
+
+  <script>
+    // Path to results.json — works locally and via GitHub Pages
+    const DATA_URL = '../data/results.json';
+    let allPosts = [];
+
+    async function loadData() {
+      const icon = document.getElementById('refresh-icon');
+      icon.textContent = '⏳';
+      try {
+        const res = await fetch(DATA_URL + '?t=' + Date.now());
+        if (!res.ok) throw new Error('HTTP ' + res.status);
+        const data = await res.json();
+        render(data);
+        icon.textContent = '🔄';
+      } catch (e) {
+        icon.textContent = '🔄';
+        showError(e.message);
+      }
+    }
+
+    function showError(msg) {
+      document.getElementById('last-updated').textContent = '⚠️ Não foi possível carregar: ' + msg;
+      document.getElementById('stats-bar').innerHTML = `
+        <div class="col-span-4 bg-amber-50 border border-amber-200 rounded-2xl p-4 text-amber-800 text-sm">
+          <strong>results.json não encontrado.</strong> Execute o monitor ao menos uma vez para gerar os dados.
+          <br/><code class="text-xs bg-amber-100 px-1 rounded">cd app && python main.py</code>
+        </div>`;
+      document.getElementById('latest-run').innerHTML = '';
+      document.getElementById('posts-container').innerHTML = '';
+    }
+
+    function render(data) {
+      const latest = data.latest || {};
+      allPosts = data.all_posts || [];
+
+      // Last updated
+      document.getElementById('last-updated').textContent =
+        'Última atualização: ' + fmtDate(data.last_run);
+
+      // Stats
+      const history = data.history || [];
+      const totalPosts = allPosts.length;
+      const totalRuns = history.length;
+      const lastCount = latest.posts_found ?? 0;
+      const feedsOk = (latest.feeds_checked || 0) - (latest.feeds_with_errors || 0);
+
+      document.getElementById('stats-bar').innerHTML = `
+        ${statCard('🇮🇹', 'Promoções totais', totalPosts, 'bg-blue-50 text-blue-700')}
+        ${statCard('🔄', 'Execuções', totalRuns, 'bg-violet-50 text-violet-700')}
+        ${statCard('✅', 'Feeds ativos', feedsOk + '/' + (latest.feeds_checked || 0), 'bg-emerald-50 text-emerald-700')}
+        ${statCard('🔥', 'Última rodada', lastCount + ' nova' + (lastCount !== 1 ? 's' : ''), 'bg-orange-50 text-orange-700')}
+      `;
+
+      // Latest run summary
+      document.getElementById('latest-run').innerHTML = `
+        <div class="bg-white rounded-2xl p-5 shadow-sm border border-slate-100 flex flex-col sm:flex-row gap-4 items-start sm:items-center">
+          <div class="flex-1 space-y-1">
+            <p class="text-sm text-slate-500">Executado em <strong>${fmtDate(latest.run_at)}</strong></p>
+            <p class="text-sm">Feeds verificados: <strong>${latest.feeds_checked || 0}</strong>
+              ${latest.feeds_with_errors ? `· <span class="text-red-500">${latest.feeds_with_errors} com erro</span>` : ''}
+            </p>
+          </div>
+          <div class="px-5 py-3 rounded-xl font-bold text-lg ${lastCount > 0 ? 'bg-emerald-100 text-emerald-700' : 'bg-slate-100 text-slate-500'}">
+            ${lastCount > 0 ? '🔥 ' + lastCount + ' nova' + (lastCount !== 1 ? 's' : '') : '😴 0 novas'}
+          </div>
+        </div>`;
+
+      renderPosts(allPosts);
+      renderHistory(history);
+    }
+
+    function renderPosts(posts) {
+      const container = document.getElementById('posts-container');
+      const noPostsEl = document.getElementById('no-posts');
+      if (!posts.length) {
+        container.innerHTML = '';
+        noPostsEl.classList.remove('hidden');
+        return;
+      }
+      noPostsEl.classList.add('hidden');
+      container.innerHTML = posts.map(postCard).join('');
+    }
+
+    function postCard(p) {
+      const date = p.published ? fmtDate(p.published) : (p.discovered_at ? 'Detectado: ' + fmtDate(p.discovered_at) : '');
+      const summary = p.summary ? `<p class="text-slate-500 text-sm mt-1 line-clamp-2">${esc(p.summary)}</p>` : '';
+      return `
+        <a href="${esc(p.link)}" target="_blank" rel="noopener"
+          class="card-hover block bg-white rounded-2xl p-4 shadow-sm border border-slate-100 hover:border-blue-200">
+          <div class="flex items-start justify-between gap-3">
+            <div class="flex-1 min-w-0">
+              <span class="inline-block text-xs font-semibold bg-blue-50 text-blue-600 rounded-full px-2 py-0.5 mb-1">${esc(p.feed_name)}</span>
+              <h3 class="font-semibold text-slate-800 leading-snug">${esc(p.title)}</h3>
+              ${summary}
+            </div>
+            <div class="shrink-0 text-right text-xs text-slate-400 whitespace-nowrap mt-1">${date}</div>
+          </div>
+        </a>`;
+    }
+
+    function renderHistory(history) {
+      const container = document.getElementById('history-container');
+      if (!history.length) { container.innerHTML = '<p class="text-slate-400 text-sm">Sem histórico.</p>'; return; }
+      container.innerHTML = history.map((run, i) => `
+        <details class="bg-white rounded-xl border border-slate-100 shadow-sm overflow-hidden">
+          <summary class="flex items-center justify-between px-4 py-3 select-none hover:bg-slate-50 transition">
+            <span class="text-sm font-medium">${fmtDate(run.run_at)}</span>
+            <div class="flex items-center gap-3 text-xs text-slate-500">
+              <span>${run.feeds_checked || 0} feeds</span>
+              <span class="font-bold ${run.posts_found > 0 ? 'text-emerald-600' : 'text-slate-400'}">
+                ${run.posts_found > 0 ? '🔥 ' + run.posts_found + ' prom.' : '0 promoções'}
+              </span>
+              <span class="text-slate-300">▼</span>
+            </div>
+          </summary>
+          ${run.posts && run.posts.length ? `
+            <div class="px-4 pb-4 space-y-2 border-t border-slate-100 pt-3">
+              ${run.posts.map(p => `
+                <a href="${esc(p.link)}" target="_blank" rel="noopener"
+                  class="flex items-start gap-2 hover:text-blue-600 transition text-sm">
+                  <span class="shrink-0 text-blue-300 mt-0.5">↗</span>
+                  <span>${esc(p.title)}</span>
+                </a>`).join('')}
+            </div>` : '<p class="px-4 pb-3 text-xs text-slate-400">Nenhuma promoção nesta execução.</p>'}
+        </details>`).join('');
+    }
+
+    function filterPosts() {
+      const q = document.getElementById('search').value.toLowerCase();
+      const filtered = q ? allPosts.filter(p =>
+        p.title.toLowerCase().includes(q) ||
+        (p.summary || '').toLowerCase().includes(q) ||
+        p.feed_name.toLowerCase().includes(q)
+      ) : allPosts;
+      renderPosts(filtered);
+    }
+
+    function statCard(icon, label, value, color) {
+      return `<div class="bg-white rounded-2xl p-4 shadow-sm border border-slate-100 flex flex-col gap-1">
+        <span class="text-2xl">${icon}</span>
+        <span class="text-xl font-bold ${color.split(' ')[1]}">${value}</span>
+        <span class="text-xs text-slate-400 font-medium">${label}</span>
+      </div>`;
+    }
+
+    function fmtDate(iso) {
+      if (!iso) return '—';
+      try {
+        return new Date(iso).toLocaleString('pt-BR', { day: '2-digit', month: '2-digit', year: 'numeric', hour: '2-digit', minute: '2-digit' });
+      } catch { return iso; }
+    }
+
+    function esc(s) {
+      return (s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    loadData();
+    // Auto-refresh every 5 minutes
+    setInterval(loadData, 5 * 60 * 1000);
+  </script>
+</body>
+</html>
