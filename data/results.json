@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-05-05T11:59:34.198749",
+  "last_run": "2026-05-05T17:16:09.599944",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-05T11:59:34.198749",
+    "run_at": "2026-05-05T17:16:09.599944",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=527869",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Buenos Aires inaugura a maior academia do mundo dentro de um aeroporto",
+        "link": "https://passageirodeprimeira.com/ezeiza-maior-academia-aeroporto/",
+        "published": "2026-05-05T15:22:44",
+        "discovered_at": "2026-05-05T17:15:51.671043",
+        "summary": "O Aeroporto de Ezeiza agora abriga a maior academia do mundo dentro de um terminal, oferecendo aos passageiros uma experiência única para otimizar o tempo de espera entre voos. Com uma estrutura completa e profissionais dedicados, o espaço promete transformar a rotina de quem passa pelo aeroporto, p"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-05T17:16:09.599944",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=527869",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Buenos Aires inaugura a maior academia do mundo dentro de um aeroporto",
+          "link": "https://passageirodeprimeira.com/ezeiza-maior-academia-aeroporto/",
+          "published": "2026-05-05T15:22:44",
+          "discovered_at": "2026-05-05T17:15:51.671043",
+          "summary": "O Aeroporto de Ezeiza agora abriga a maior academia do mundo dentro de um terminal, oferecendo aos passageiros uma experiência única para otimizar o tempo de espera entre voos. Com uma estrutura completa e profissionais dedicados, o espaço promete transformar a rotina de quem passa pelo aeroporto, p"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-05T11:59:34.198749",
       "destination": "Itália",
@@ -70,6 +98,15 @@
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=527869",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Buenos Aires inaugura a maior academia do mundo dentro de um aeroporto",
+      "link": "https://passageirodeprimeira.com/ezeiza-maior-academia-aeroporto/",
+      "published": "2026-05-05T15:22:44",
+      "discovered_at": "2026-05-05T17:15:51.671043",
+      "summary": "O Aeroporto de Ezeiza agora abriga a maior academia do mundo dentro de um terminal, oferecendo aos passageiros uma experiência única para otimizar o tempo de espera entre voos. Com uma estrutura completa e profissionais dedicados, o espaço promete transformar a rotina de quem passa pelo aeroporto, p"
+    },
     {
       "id": "Italy Magazine – Travel News:153216 at https://www.italymagazine.com",
       "feed_name": "Italy Magazine – Travel News",
