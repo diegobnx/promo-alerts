@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-06T12:24:54.743035",
+  "last_run": "2026-05-06T17:24:32.606591",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-06T12:24:54.743035",
+    "run_at": "2026-05-06T17:24:32.606591",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=528188",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Lufthansa lança nova experiência a bordo em voos de voos de longa distância",
-        "link": "https://passageirodeprimeira.com/lufthansa-lanca-nova-experiencia-a-bordo-em-voos-de-voos-de-longa-distancia/",
-        "published": "2026-05-05T22:00:55",
-        "discovered_at": "2026-05-06T12:24:36.676468",
-        "summary": "A Lufthansa lançou o FOX (Future Onboard Experience), seu novo conceito de serviço de bordo para voos de longa distância, que entra em operação a partir de 6 de maio.\nO post Lufthansa lança nova experiência a bordo em voos de voos de longa distância apareceu primeiro em Passageiro de Primeira."
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-06T17:24:32.606591",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-06T12:24:54.743035",
       "destination": "Itália",
