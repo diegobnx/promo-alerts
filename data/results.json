@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-05-06T21:52:12.547965",
+  "last_run": "2026-05-07T12:25:57.730062",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-06T21:52:12.547965",
+    "run_at": "2026-05-07T12:25:57.730062",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=528374",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM Pass oferece 25% de bônus na transferência de pontos do Banrisul",
-        "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-do-banrisul/",
-        "published": "2026-05-06T21:20:34",
-        "discovered_at": "2026-05-06T21:51:55.237842",
-        "summary": "O LATAM Pass está oferecendo 30% de bônus nas transferências de pontos do Banrisul. Além disso, caso esta seja a sua primeira transferência, ainda é possível receber 1.000 milhas bônus. A oferta é válida até sexta-feira (8).\nO post LATAM Pass oferece 25% de bônus na transferência de pontos do Banris"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147618",
-        "feed_name": "Qual Viagem",
-        "title": "Serra Negra recebe Festival do Café & Riquezas da Serra em maio",
-        "link": "https://www.qualviagem.com.br/serra-negra-recebe-festival-do-cafe-riquezas-da-serra-em-maio/",
-        "published": "2026-05-06T22:00:26",
-        "discovered_at": "2026-05-06T21:51:58.067776",
-        "summary": "O Festival do Café &#38; Riquezas da Serra promete movimentar Serra Negra entre os dias 22 e 24 de maio, reunindo o melhor da produção local em um evento que valoriza cultura, gastronomia e tradições da região. Realizado na Av....\nO post Serra Negra recebe Festival do Café &amp; Riquezas da Serra em"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-07T12:25:57.730062",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-06T21:52:12.547965",
       "destination": "Itália",
