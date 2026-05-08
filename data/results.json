@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-08T17:05:23.940840",
+  "last_run": "2026-05-08T21:52:53.146062",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-08T17:05:23.940840",
+    "run_at": "2026-05-08T21:52:53.146062",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=124033",
-        "feed_name": "Pontos pra Voar",
-        "title": "Itália enfrentará nova greve no transporte aéreo",
-        "link": "https://pontospravoar.com/greve-aerea-na-italia-provoca-cancelamentos-de-voos/",
-        "published": "2026-05-08T15:30:29",
-        "discovered_at": "2026-05-08T17:05:11.912984",
-        "summary": "A greve no setor aéreo da Itália nesta segunda-feira deve provocar dezenas de voos cancelados em aeroportos do país, afetando principalmente operações domésticas e europeias da ITA Airways. A Itália enfrentará uma nova paralisação no setor aéreo na próxima segunda-feira, 11 de maio de 2026, envolven"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-08T21:52:53.146062",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-08T17:05:23.940840",
       "destination": "Itália",
