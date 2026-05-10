@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-05-10T14:19:53.653742",
+  "last_run": "2026-05-10T21:46:03.603583",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-10T14:19:53.653742",
+    "run_at": "2026-05-10T21:46:03.603583",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=528240",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Air France apresenta nova experiência gastronômica na Premium Economy",
+        "link": "https://passageirodeprimeira.com/air-france-apresenta-nova-experiencia-gastronomica-na-premium-economy/",
+        "published": "2026-05-10T19:00:32",
+        "discovered_at": "2026-05-10T21:45:45.399046",
+        "summary": "A Air France anunciou a reformulação na experiência gastronômica da cabine Premium Economy em voos de longa duração.\nO post Air France apresenta nova experiência gastronômica na Premium Economy apareceu primeiro em Passageiro de Primeira."
+      },
+      {
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=120099",
+        "feed_name": "Pontos pra Voar",
+        "title": "Sistema de biometria facial começa a operar no aeroporto de Fernando de Noronha",
+        "link": "https://pontospravoar.com/sistema-biometria-facial-comeca-operar-aeroporto-fernando-noronha/",
+        "published": "2026-05-10T17:00:21",
+        "discovered_at": "2026-05-10T21:45:53.826566",
+        "summary": "O sistema de biometria facial começou a operar no aeroporto de Fernando de Noronha e marca uma nova etapa na digitalização do acesso à ilha. A novidade promete tornar o processo de entrada e saída mais ágil, mais automatizado e, ao mesmo tempo, mais organizado para moradores, prestadores de serviço "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-10T21:46:03.603583",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=528240",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Air France apresenta nova experiência gastronômica na Premium Economy",
+          "link": "https://passageirodeprimeira.com/air-france-apresenta-nova-experiencia-gastronomica-na-premium-economy/",
+          "published": "2026-05-10T19:00:32",
+          "discovered_at": "2026-05-10T21:45:45.399046",
+          "summary": "A Air France anunciou a reformulação na experiência gastronômica da cabine Premium Economy em voos de longa duração.\nO post Air France apresenta nova experiência gastronômica na Premium Economy apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=120099",
+          "feed_name": "Pontos pra Voar",
+          "title": "Sistema de biometria facial começa a operar no aeroporto de Fernando de Noronha",
+          "link": "https://pontospravoar.com/sistema-biometria-facial-comeca-operar-aeroporto-fernando-noronha/",
+          "published": "2026-05-10T17:00:21",
+          "discovered_at": "2026-05-10T21:45:53.826566",
+          "summary": "O sistema de biometria facial começou a operar no aeroporto de Fernando de Noronha e marca uma nova etapa na digitalização do acesso à ilha. A novidade promete tornar o processo de entrada e saída mais ágil, mais automatizado e, ao mesmo tempo, mais organizado para moradores, prestadores de serviço "
+        }
+      ]
+    },
     {
       "run_at": "2026-05-10T14:19:53.653742",
       "destination": "Itália",
@@ -251,6 +297,24 @@
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=528240",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Air France apresenta nova experiência gastronômica na Premium Economy",
+      "link": "https://passageirodeprimeira.com/air-france-apresenta-nova-experiencia-gastronomica-na-premium-economy/",
+      "published": "2026-05-10T19:00:32",
+      "discovered_at": "2026-05-10T21:45:45.399046",
+      "summary": "A Air France anunciou a reformulação na experiência gastronômica da cabine Premium Economy em voos de longa duração.\nO post Air France apresenta nova experiência gastronômica na Premium Economy apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=120099",
+      "feed_name": "Pontos pra Voar",
+      "title": "Sistema de biometria facial começa a operar no aeroporto de Fernando de Noronha",
+      "link": "https://pontospravoar.com/sistema-biometria-facial-comeca-operar-aeroporto-fernando-noronha/",
+      "published": "2026-05-10T17:00:21",
+      "discovered_at": "2026-05-10T21:45:53.826566",
+      "summary": "O sistema de biometria facial começou a operar no aeroporto de Fernando de Noronha e marca uma nova etapa na digitalização do acesso à ilha. A novidade promete tornar o processo de entrada e saída mais ágil, mais automatizado e, ao mesmo tempo, mais organizado para moradores, prestadores de serviço "
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=124033",
       "feed_name": "Pontos pra Voar",
