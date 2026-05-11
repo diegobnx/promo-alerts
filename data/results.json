@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-05-11T13:40:04.169077",
+  "last_run": "2026-05-11T17:50:23.747323",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-11T13:40:04.169077",
+    "run_at": "2026-05-11T17:50:23.747323",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-11T17:50:23.747323",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-11T13:40:04.169077",
       "destination": "Itália",
