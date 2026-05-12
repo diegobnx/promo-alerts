@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-05-12T13:01:43.910846",
+  "last_run": "2026-05-12T17:54:09.253172",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-12T13:01:43.910846",
+    "run_at": "2026-05-12T17:54:09.253172",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=529400",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Qatar Airways anuncia voos para Colômbia e Venezuela",
-        "link": "https://passageirodeprimeira.com/qatar-airways-anuncia-voos-para-colombia-e-venezuela/",
-        "published": "2026-05-12T11:09:09",
-        "discovered_at": "2026-05-12T13:01:26.848340",
-        "summary": "A Qatar Airways anunciou novos voos para Bogotá (BOG) e Caracas (CCS) a partir de julho de 2026, ampliando sua presença na América do Sul. A companhia será a primeira do Oriente Médio a operar voos para a Venezuela e a oferecer ligações diretas entre Doha (DOH) e a Colômbia.\nO post Qatar Airways anu"
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147789",
+        "feed_name": "Qual Viagem",
+        "title": "Cinco destinos mais românticos do mundo mostram por que o inglês faz a diferença em viagens internacionais a dois",
+        "link": "https://www.qualviagem.com.br/cinco-destinos-mais-romanticos-do-mundo-mostram-por-que-o-ingles-faz-a-diferenca-em-viagens-internacionais-a-dois/",
+        "published": "2026-05-12T18:05:00",
+        "discovered_at": "2026-05-12T17:53:53.570573",
+        "summary": "Levantamento da Go2Africa analisou quase 1,5 milhão de avaliações feitas por casais em mais de 200 destinos pelo mundo para identificar os lugares mais românticos para viajar a dois no Dia dos Namorados. Especialistas reforçam que o ranking também evidencia...\nO post Cinco destinos mais românticos d"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-05-12T17:54:09.253172",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147789",
+          "feed_name": "Qual Viagem",
+          "title": "Cinco destinos mais românticos do mundo mostram por que o inglês faz a diferença em viagens internacionais a dois",
+          "link": "https://www.qualviagem.com.br/cinco-destinos-mais-romanticos-do-mundo-mostram-por-que-o-ingles-faz-a-diferenca-em-viagens-internacionais-a-dois/",
+          "published": "2026-05-12T18:05:00",
+          "discovered_at": "2026-05-12T17:53:53.570573",
+          "summary": "Levantamento da Go2Africa analisou quase 1,5 milhão de avaliações feitas por casais em mais de 200 destinos pelo mundo para identificar os lugares mais românticos para viajar a dois no Dia dos Namorados. Especialistas reforçam que o ranking também evidencia...\nO post Cinco destinos mais românticos d"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-12T13:01:43.910846",
       "destination": "Itália",
@@ -330,6 +348,15 @@
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147789",
+      "feed_name": "Qual Viagem",
+      "title": "Cinco destinos mais românticos do mundo mostram por que o inglês faz a diferença em viagens internacionais a dois",
+      "link": "https://www.qualviagem.com.br/cinco-destinos-mais-romanticos-do-mundo-mostram-por-que-o-ingles-faz-a-diferenca-em-viagens-internacionais-a-dois/",
+      "published": "2026-05-12T18:05:00",
+      "discovered_at": "2026-05-12T17:53:53.570573",
+      "summary": "Levantamento da Go2Africa analisou quase 1,5 milhão de avaliações feitas por casais em mais de 200 destinos pelo mundo para identificar os lugares mais românticos para viajar a dois no Dia dos Namorados. Especialistas reforçam que o ranking também evidencia...\nO post Cinco destinos mais românticos d"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=529400",
       "feed_name": "Passageiro de Primeira",
