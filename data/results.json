@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-12T17:54:09.253172",
+  "last_run": "2026-05-12T22:06:09.142329",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-12T17:54:09.253172",
+    "run_at": "2026-05-12T22:06:09.142329",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147789",
-        "feed_name": "Qual Viagem",
-        "title": "Cinco destinos mais românticos do mundo mostram por que o inglês faz a diferença em viagens internacionais a dois",
-        "link": "https://www.qualviagem.com.br/cinco-destinos-mais-romanticos-do-mundo-mostram-por-que-o-ingles-faz-a-diferenca-em-viagens-internacionais-a-dois/",
-        "published": "2026-05-12T18:05:00",
-        "discovered_at": "2026-05-12T17:53:53.570573",
-        "summary": "Levantamento da Go2Africa analisou quase 1,5 milhão de avaliações feitas por casais em mais de 200 destinos pelo mundo para identificar os lugares mais românticos para viajar a dois no Dia dos Namorados. Especialistas reforçam que o ranking também evidencia...\nO post Cinco destinos mais românticos d"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-12T22:06:09.142329",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-12T17:54:09.253172",
       "destination": "Itália",
