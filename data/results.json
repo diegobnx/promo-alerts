@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-13T22:05:40.359925",
+  "last_run": "2026-05-14T12:22:23.659691",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-13T22:05:40.359925",
+    "run_at": "2026-05-14T12:22:23.659691",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147914",
-        "feed_name": "Qual Viagem",
-        "title": "Serra Bela Eco Pousada é referência de boa hospedagem em Urubici",
-        "link": "https://www.qualviagem.com.br/serra-bela-eco-pousada-e-referencia-de-boa-hospedagem-em-urubici/",
-        "published": "2026-05-13T23:24:25",
-        "discovered_at": "2026-05-13T22:05:21.528844",
-        "summary": "A Serra Bela Eco Pousada, com mais de 25 anos de abertura, foi uma das precursoras do desenvolvimento de Urubici como referência no turismo na Serra Catarinense. O empreendimento já está consolidado em termos de hospedagem na região e dispõe...\nO post Serra Bela Eco Pousada é referência de boa hospe"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-14T12:22:23.659691",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-13T22:05:40.359925",
       "destination": "Itália",
