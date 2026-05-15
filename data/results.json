@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-05-14T22:03:58.493406",
+  "last_run": "2026-05-15T12:28:18.377973",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-14T22:03:58.493406",
+    "run_at": "2026-05-15T12:28:18.377973",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=614113",
-        "feed_name": "Melhores Destinos",
-        "title": "Europa 2×1! Passagens para a Espanha mais Portugal ou outros países a partir de R$ 3.753",
-        "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-espanha-mais-portugal-14mai26",
-        "published": "2026-05-14T18:23:56",
-        "discovered_at": "2026-05-14T22:03:40.521940",
-        "summary": "Que tal uma Eurotrip para dois incríveis países? Viaje para o Velho Continente com a comodidade dos voos 2 em 1, onde todos os trechos aéreos estão incluídos na mesma passagem. Encontramos passagens aéreas 2 em 1 para a Espanha mais Portugal, Inglaterra, Itália e outros países a partir de R$ 3.753. "
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530918",
+        "feed_name": "Passageiro de Primeira",
+        "title": "AMBAAR anuncia nova sala VIP em Fernando de Noronha",
+        "link": "https://passageirodeprimeira.com/ambaar-anuncia-nova-sala-vip-em-fernando-de-noronha/",
+        "published": "2026-05-15T10:50:06",
+        "discovered_at": "2026-05-15T12:28:02.745137",
+        "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-05-15T12:28:18.377973",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530918",
+          "feed_name": "Passageiro de Primeira",
+          "title": "AMBAAR anuncia nova sala VIP em Fernando de Noronha",
+          "link": "https://passageirodeprimeira.com/ambaar-anuncia-nova-sala-vip-em-fernando-de-noronha/",
+          "published": "2026-05-15T10:50:06",
+          "discovered_at": "2026-05-15T12:28:02.745137",
+          "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
+        }
+      ]
+    },
     {
       "run_at": "2026-05-14T22:03:58.493406",
       "destination": "Itália",
@@ -434,6 +452,15 @@
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530918",
+      "feed_name": "Passageiro de Primeira",
+      "title": "AMBAAR anuncia nova sala VIP em Fernando de Noronha",
+      "link": "https://passageirodeprimeira.com/ambaar-anuncia-nova-sala-vip-em-fernando-de-noronha/",
+      "published": "2026-05-15T10:50:06",
+      "discovered_at": "2026-05-15T12:28:02.745137",
+      "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=614113",
       "feed_name": "Melhores Destinos",
