@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-15T12:28:18.377973",
+  "last_run": "2026-05-15T17:22:51.557511",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-15T12:28:18.377973",
+    "run_at": "2026-05-15T17:22:51.557511",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530918",
-        "feed_name": "Passageiro de Primeira",
-        "title": "AMBAAR anuncia nova sala VIP em Fernando de Noronha",
-        "link": "https://passageirodeprimeira.com/ambaar-anuncia-nova-sala-vip-em-fernando-de-noronha/",
-        "published": "2026-05-15T10:50:06",
-        "discovered_at": "2026-05-15T12:28:02.745137",
-        "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-15T17:22:51.557511",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-15T12:28:18.377973",
       "destination": "Itália",
