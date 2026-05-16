@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-05-15T21:52:32.977388",
+  "last_run": "2026-05-16T14:21:40.520459",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-15T21:52:32.977388",
+    "run_at": "2026-05-16T14:21:40.520459",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148084",
-        "feed_name": "Qual Viagem",
-        "title": "Rota Moveleira: o legado da indústria que transformou Rio Negrinho em referência nacional do design",
-        "link": "https://www.qualviagem.com.br/rota-moveleira-o-legado-da-industria-que-transformou-rio-negrinho-em-referencia-nacional-do-design/",
-        "published": "2026-05-15T22:37:49",
-        "discovered_at": "2026-05-15T21:52:18.114538",
-        "summary": "A Rota Moveleira no Norte de Santa Catarina está diretamente associada ao desenvolvimento industrial iniciado no começo do século XX em Rio Negrinho. A partir de 1912, imigrantes alemães estabeleceram na cidade as primeiras bases de produção de mobiliário, introduzindo...\nO post Rota Moveleira: o le"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148075",
-        "feed_name": "Qual Viagem",
-        "title": "Hotel Transamerica International Plaza (SP) anuncia parceria com musical O Mágico de Oz",
-        "link": "https://www.qualviagem.com.br/hotel-transamerica-international-plaza-sp-anuncia-parceria-com-musical-o-magico-de-oz/",
-        "published": "2026-05-15T21:45:04",
-        "discovered_at": "2026-05-15T21:52:18.115065",
-        "summary": "O Transamerica International Plaza, empreendimento administrado pela Atlantica Hospitality International, acaba de anunciar uma parceria com o musical O Mágico de Oz, em cartaz no Teatro VillaLobos, em São Paulo. A iniciativa busca ampliar a experiência de hospedagem ao integrar...\nO post Hotel Tran"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-16T14:21:40.520459",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-15T21:52:32.977388",
       "destination": "Itália",
