@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-05-17T14:25:24.551350",
+  "last_run": "2026-05-17T21:54:14.434279",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-17T14:25:24.551350",
+    "run_at": "2026-05-17T21:54:14.434279",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530325",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Air Europa anuncia transferência para o New Terminal One do JFK",
+        "link": "https://passageirodeprimeira.com/air-europa-transferencia-new-terminal-one-jfk/",
+        "published": "2026-05-17T20:20:37",
+        "discovered_at": "2026-05-17T21:53:56.038312",
+        "summary": "A Air Europa anunciou que transferirá suas operações em Nova York para o novo terminal internacional do John F. Kennedy International Airport, o New Terminal One, quando este iniciar suas operações ainda este ano.\nO post Air Europa anuncia transferência para o New Terminal One do JFK apareceu primei"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-17T21:54:14.434279",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530325",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Air Europa anuncia transferência para o New Terminal One do JFK",
+          "link": "https://passageirodeprimeira.com/air-europa-transferencia-new-terminal-one-jfk/",
+          "published": "2026-05-17T20:20:37",
+          "discovered_at": "2026-05-17T21:53:56.038312",
+          "summary": "A Air Europa anunciou que transferirá suas operações em Nova York para o novo terminal internacional do John F. Kennedy International Airport, o New Terminal One, quando este iniciar suas operações ainda este ano.\nO post Air Europa anuncia transferência para o New Terminal One do JFK apareceu primei"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-17T14:25:24.551350",
       "destination": "Itália",
@@ -501,6 +529,15 @@
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=530325",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Air Europa anuncia transferência para o New Terminal One do JFK",
+      "link": "https://passageirodeprimeira.com/air-europa-transferencia-new-terminal-one-jfk/",
+      "published": "2026-05-17T20:20:37",
+      "discovered_at": "2026-05-17T21:53:56.038312",
+      "summary": "A Air Europa anunciou que transferirá suas operações em Nova York para o novo terminal internacional do John F. Kennedy International Airport, o New Terminal One, quando este iniciar suas operações ainda este ano.\nO post Air Europa anuncia transferência para o New Terminal One do JFK apareceu primei"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148084",
       "feed_name": "Qual Viagem",
