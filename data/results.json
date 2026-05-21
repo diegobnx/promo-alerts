@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-21T13:58:11.336109",
+  "last_run": "2026-05-21T17:52:19.187289",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-21T13:58:11.336109",
+    "run_at": "2026-05-21T17:52:19.187289",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147988",
-        "feed_name": "Qual Viagem",
-        "title": "Resort de luxo na Flórida anuncia a renovação do primeiro hotel do complexo",
-        "link": "https://www.qualviagem.com.br/resort-de-luxo-na-florida-anuncia-a-renovacao-do-primeiro-hotel-do-complexo/",
-        "published": "2026-05-21T14:21:00",
-        "discovered_at": "2026-05-21T13:57:56.716696",
-        "summary": "No sul da Flórida, o The Boca Raton, um dos clubes e resorts privados mais históricos dos Estados Unidos e que completa 100 anos em 2026, anuncia um novo design dos quartos e suítes do Cloister – o hotel original...\nO post Resort de luxo na Flórida anuncia a renovação do primeiro hotel do complexo a"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-21T17:52:19.187289",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-21T13:58:11.336109",
       "destination": "Itália",
@@ -618,24 +616,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-04T14:41:10.827213",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Italy Magazine – Travel News:153216 at https://www.italymagazine.com",
-          "feed_name": "Italy Magazine – Travel News",
-          "title": "Genoa & Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia",
-          "link": "https://www.italymagazine.com/experience-in-italy/genoa-cinque-terre-authentic-ligurian-experience-locals-italia-sweet-italia",
-          "published": "2025-07-08T14:53:36",
-          "discovered_at": "2026-05-04T14:41:07.727544",
-          "summary": "      Genoa &amp; Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia\n    \n\nitaliasweetitalia\n\nTue, 07/08/2025 - 10:53\n\n\n            Embark on an 8-day journey to uncover the heart of Liguria, where the azure sea meets the vibrant tapestry of Italian life. This is mor"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -827,15 +807,6 @@
       "published": "2026-05-05T15:22:44",
       "discovered_at": "2026-05-05T17:15:51.671043",
       "summary": "O Aeroporto de Ezeiza agora abriga a maior academia do mundo dentro de um terminal, oferecendo aos passageiros uma experiência única para otimizar o tempo de espera entre voos. Com uma estrutura completa e profissionais dedicados, o espaço promete transformar a rotina de quem passa pelo aeroporto, p"
-    },
-    {
-      "id": "Italy Magazine – Travel News:153216 at https://www.italymagazine.com",
-      "feed_name": "Italy Magazine – Travel News",
-      "title": "Genoa & Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia",
-      "link": "https://www.italymagazine.com/experience-in-italy/genoa-cinque-terre-authentic-ligurian-experience-locals-italia-sweet-italia",
-      "published": "2025-07-08T14:53:36",
-      "discovered_at": "2026-05-04T14:41:07.727544",
-      "summary": "      Genoa &amp; Cinque Terre: An Authentic Ligurian Experience with Locals with Italia Sweet Italia\n    \n\nitaliasweetitalia\n\nTue, 07/08/2025 - 10:53\n\n\n            Embark on an 8-day journey to uncover the heart of Liguria, where the azure sea meets the vibrant tapestry of Italian life. This is mor"
     }
   ]
 }
