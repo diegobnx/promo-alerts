@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-05-22T22:00:28.507210",
+  "last_run": "2026-05-23T14:28:26.240136",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-22T22:00:28.507210",
+    "run_at": "2026-05-23T14:28:26.240136",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-23T14:28:26.240136",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-22T22:00:28.507210",
       "destination": "Itália",
@@ -618,14 +626,6 @@
           "summary": "O Aeroporto de Ezeiza agora abriga a maior academia do mundo dentro de um terminal, oferecendo aos passageiros uma experiência única para otimizar o tempo de espera entre voos. Com uma estrutura completa e profissionais dedicados, o espaço promete transformar a rotina de quem passa pelo aeroporto, p"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-05T11:59:34.198749",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
