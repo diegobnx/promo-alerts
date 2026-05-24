@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-05-23T21:53:51.814282",
+  "last_run": "2026-05-24T14:23:35.174003",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-23T21:53:51.814282",
+    "run_at": "2026-05-24T14:23:35.174003",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532400",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Porto Bank e Visa sorteiam até R$ 60 mil e experiência durante a Copa do Mundo",
+        "link": "https://passageirodeprimeira.com/porto-bank-e-visa-sorteiam-ate-r-60-mil-e-experiencia-durante-a-copa-do-mundo/",
+        "published": "2026-05-24T12:46:00",
+        "discovered_at": "2026-05-24T14:23:17.827787",
+        "summary": "Participe da promoção \"Com Visa e Porto Bank É BOLA NA REDE!\" e tenha a chance de ganhar até R$ 60 mil, além de experiências exclusivas durante a Copa do Mundo. Com cada R$ 200 em compras, você acumula números da sorte, transformando seus gastos em prêmios e momentos inesquecíveis.\nO post Porto Bank"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-24T14:23:35.174003",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532400",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Porto Bank e Visa sorteiam até R$ 60 mil e experiência durante a Copa do Mundo",
+          "link": "https://passageirodeprimeira.com/porto-bank-e-visa-sorteiam-ate-r-60-mil-e-experiencia-durante-a-copa-do-mundo/",
+          "published": "2026-05-24T12:46:00",
+          "discovered_at": "2026-05-24T14:23:17.827787",
+          "summary": "Participe da promoção \"Com Visa e Porto Bank É BOLA NA REDE!\" e tenha a chance de ganhar até R$ 60 mil, além de experiências exclusivas durante a Copa do Mundo. Com cada R$ 200 em compras, você acumula números da sorte, transformando seus gastos em prêmios e momentos inesquecíveis.\nO post Porto Bank"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-23T21:53:51.814282",
       "destination": "Itália",
@@ -608,17 +636,18 @@
           "summary": "A Lufthansa lançou o FOX (Future Onboard Experience), seu novo conceito de serviço de bordo para voos de longa distância, que entra em operação a partir de 6 de maio.\nO post Lufthansa lança nova experiência a bordo em voos de voos de longa distância apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-05-05T21:56:00.719899",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532400",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Porto Bank e Visa sorteiam até R$ 60 mil e experiência durante a Copa do Mundo",
+      "link": "https://passageirodeprimeira.com/porto-bank-e-visa-sorteiam-ate-r-60-mil-e-experiencia-durante-a-copa-do-mundo/",
+      "published": "2026-05-24T12:46:00",
+      "discovered_at": "2026-05-24T14:23:17.827787",
+      "summary": "Participe da promoção \"Com Visa e Porto Bank É BOLA NA REDE!\" e tenha a chance de ganhar até R$ 60 mil, além de experiências exclusivas durante a Copa do Mundo. Com cada R$ 200 em compras, você acumula números da sorte, transformando seus gastos em prêmios e momentos inesquecíveis.\nO post Porto Bank"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148340",
       "feed_name": "Qual Viagem",
