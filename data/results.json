@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-05-25T17:28:49.406250",
+  "last_run": "2026-05-25T22:03:09.791741",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-25T17:28:49.406250",
+    "run_at": "2026-05-25T22:03:09.791741",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=535275",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Air Europa lança plano para elevar experiência dos passageiros",
+        "link": "https://passageirodeprimeira.com/air-europa-lanca-plano-elevar-experiencia-passageiros/",
+        "published": "2026-05-25T22:00:23",
+        "discovered_at": "2026-05-25T22:02:51.571314",
+        "summary": "Novo plano da Air Europa prevê investimentos em conforto, Wi-Fi, serviços de bordo e operações para aprimorar a experiência de viagem.\nO post Air Europa lança plano para elevar experiência dos passageiros apareceu primeiro em Passageiro de Primeira."
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148405",
+        "feed_name": "Qual Viagem",
+        "title": "MSC Cruzeiros lança concierge com IA para personalizar experiência a bordo",
+        "link": "https://www.qualviagem.com.br/msc-cruzeiros-lanca-concierge-com-ia-para-personalizar-experiencia-a-bordo/",
+        "published": "2026-05-25T20:58:50",
+        "discovered_at": "2026-05-25T22:02:54.304892",
+        "summary": "A MSC Cruzeiros apresentou sua mais recente evolução na experiência do hóspede: o MSC Concierge. Como um concierge no bolso dos hóspedes, o novo assistente de inteligência artificial aprimora o ecossistema digital MSC for Me, ajudando os hóspedes a gerenciar...\nO post MSC Cruzeiros lança concierge c"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-25T22:03:09.791741",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=535275",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Air Europa lança plano para elevar experiência dos passageiros",
+          "link": "https://passageirodeprimeira.com/air-europa-lanca-plano-elevar-experiencia-passageiros/",
+          "published": "2026-05-25T22:00:23",
+          "discovered_at": "2026-05-25T22:02:51.571314",
+          "summary": "Novo plano da Air Europa prevê investimentos em conforto, Wi-Fi, serviços de bordo e operações para aprimorar a experiência de viagem.\nO post Air Europa lança plano para elevar experiência dos passageiros apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148405",
+          "feed_name": "Qual Viagem",
+          "title": "MSC Cruzeiros lança concierge com IA para personalizar experiência a bordo",
+          "link": "https://www.qualviagem.com.br/msc-cruzeiros-lanca-concierge-com-ia-para-personalizar-experiencia-a-bordo/",
+          "published": "2026-05-25T20:58:50",
+          "discovered_at": "2026-05-25T22:02:54.304892",
+          "summary": "A MSC Cruzeiros apresentou sua mais recente evolução na experiência do hóspede: o MSC Concierge. Como um concierge no bolso dos hóspedes, o novo assistente de inteligência artificial aprimora o ecossistema digital MSC for Me, ajudando os hóspedes a gerenciar...\nO post MSC Cruzeiros lança concierge c"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-25T17:28:49.406250",
       "destination": "Itália",
@@ -599,17 +645,27 @@
           "summary": "Os pontos qualificáveis da promoção de transferência entre Itaú e Smiles já estão sendo creditados, permitindo que muitos participantes avancem rapidamente nas categorias do programa de fidelidade da GOL. \nO post Pontos qualificáveis da campanha de transferência entre Itaú e Smiles já estão sendo cr"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-07T12:25:57.730062",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=535275",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Air Europa lança plano para elevar experiência dos passageiros",
+      "link": "https://passageirodeprimeira.com/air-europa-lanca-plano-elevar-experiencia-passageiros/",
+      "published": "2026-05-25T22:00:23",
+      "discovered_at": "2026-05-25T22:02:51.571314",
+      "summary": "Novo plano da Air Europa prevê investimentos em conforto, Wi-Fi, serviços de bordo e operações para aprimorar a experiência de viagem.\nO post Air Europa lança plano para elevar experiência dos passageiros apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148405",
+      "feed_name": "Qual Viagem",
+      "title": "MSC Cruzeiros lança concierge com IA para personalizar experiência a bordo",
+      "link": "https://www.qualviagem.com.br/msc-cruzeiros-lanca-concierge-com-ia-para-personalizar-experiencia-a-bordo/",
+      "published": "2026-05-25T20:58:50",
+      "discovered_at": "2026-05-25T22:02:54.304892",
+      "summary": "A MSC Cruzeiros apresentou sua mais recente evolução na experiência do hóspede: o MSC Concierge. Como um concierge no bolso dos hóspedes, o novo assistente de inteligência artificial aprimora o ecossistema digital MSC for Me, ajudando os hóspedes a gerenciar...\nO post MSC Cruzeiros lança concierge c"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532688",
       "feed_name": "Passageiro de Primeira",
