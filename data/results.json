@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-05-26T13:50:43.440699",
+  "last_run": "2026-05-26T18:19:08.554400",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-26T13:50:43.440699",
+    "run_at": "2026-05-26T18:19:08.554400",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-26T18:19:08.554400",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-26T13:50:43.440699",
       "destination": "Itália",
@@ -608,14 +616,6 @@
           "summary": "Participe da promoção \"Com Visa e Porto Bank É BOLA NA REDE!\" e tenha a chance de ganhar até R$ 60 mil, além de experiências exclusivas durante a Copa do Mundo. Com cada R$ 200 em compras, você acumula números da sorte, transformando seus gastos em prêmios e momentos inesquecíveis.\nO post Porto Bank"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-07T21:48:43.613107",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
