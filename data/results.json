@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-05-27T14:22:10.909667",
+  "last_run": "2026-05-27T18:20:57.922147",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-27T14:22:10.909667",
+    "run_at": "2026-05-27T18:20:57.922147",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=125428",
+        "feed_name": "Pontos pra Voar",
+        "title": "Itália terá paralisação no setor aéreo e voos podem ser cancelados",
+        "link": "https://pontospravoar.com/italia-tera-paralisacao-no-setor-aereo-e-voos-podem-ser-cancelados/",
+        "published": "2026-05-27T17:30:19",
+        "discovered_at": "2026-05-27T18:20:49.612019",
+        "summary": "A Itália terá uma greve geral no setor aéreo nesta sexta-feira (29), com previsão de cancelamentos e atrasos de voos em diversos aeroportos do país. Uma nova greve geral na Itália deverá afetar o transporte aéreo nesta sexta-feira, 29 de maio. A paralisação terá duração de 24 horas e contará com par"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-27T18:20:57.922147",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=125428",
+          "feed_name": "Pontos pra Voar",
+          "title": "Itália terá paralisação no setor aéreo e voos podem ser cancelados",
+          "link": "https://pontospravoar.com/italia-tera-paralisacao-no-setor-aereo-e-voos-podem-ser-cancelados/",
+          "published": "2026-05-27T17:30:19",
+          "discovered_at": "2026-05-27T18:20:49.612019",
+          "summary": "A Itália terá uma greve geral no setor aéreo nesta sexta-feira (29), com previsão de cancelamentos e atrasos de voos em diversos aeroportos do país. Uma nova greve geral na Itália deverá afetar o transporte aéreo nesta sexta-feira, 29 de maio. A paralisação terá duração de 24 horas e contará com par"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-27T14:22:10.909667",
       "destination": "Itália",
@@ -598,17 +626,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-08T21:52:53.146062",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=125428",
+      "feed_name": "Pontos pra Voar",
+      "title": "Itália terá paralisação no setor aéreo e voos podem ser cancelados",
+      "link": "https://pontospravoar.com/italia-tera-paralisacao-no-setor-aereo-e-voos-podem-ser-cancelados/",
+      "published": "2026-05-27T17:30:19",
+      "discovered_at": "2026-05-27T18:20:49.612019",
+      "summary": "A Itália terá uma greve geral no setor aéreo nesta sexta-feira (29), com previsão de cancelamentos e atrasos de voos em diversos aeroportos do país. Uma nova greve geral na Itália deverá afetar o transporte aéreo nesta sexta-feira, 29 de maio. A paralisação terá duração de 24 horas e contará com par"
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=615816",
       "feed_name": "Melhores Destinos",
