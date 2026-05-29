@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-29T18:27:45.399298",
+  "last_run": "2026-05-29T22:24:34.689725",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-29T18:27:45.399298",
+    "run_at": "2026-05-29T22:24:34.689725",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148546",
-        "feed_name": "Qual Viagem",
-        "title": "Dia dos Namorados: Fazenda Sant’Anna Hotel propõe experiência de wellness a dois no interior de São Paulo",
-        "link": "https://www.qualviagem.com.br/dia-dos-namorados-fazenda-santanna-hotel-propoe-experiencia-de-wellness-a-dois-no-interior-de-sao-paulo/",
-        "published": "2026-05-29T17:35:18",
-        "discovered_at": "2026-05-29T18:27:29.553565",
-        "summary": "O Dia dos Namorados está chegando e muitos casais já estão em busca de destinos que combinem conforto e romantismo para uma viagem a dois. Em Amparo, no interior de São Paulo, a Fazenda Sant’Anna Hotel and Wellness surge como...\nO post Dia dos Namorados: Fazenda Sant&#8217;Anna Hotel propõe experiên"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-29T22:24:34.689725",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-29T18:27:45.399298",
       "destination": "Itália",
@@ -648,14 +646,6 @@
           "summary": "A Qatar Airways anunciou novos voos para Bogotá (BOG) e Caracas (CCS) a partir de julho de 2026, ampliando sua presença na América do Sul. A companhia será a primeira do Oriente Médio a operar voos para a Venezuela e a oferecer ligações diretas entre Doha (DOH) e a Colômbia.\nO post Qatar Airways anu"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-11T21:59:27.347944",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
