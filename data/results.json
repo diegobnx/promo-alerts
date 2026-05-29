@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-05-28T22:28:19.247218",
+  "last_run": "2026-05-29T13:54:13.345388",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-28T22:28:19.247218",
+    "run_at": "2026-05-29T13:54:13.345388",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148532",
-        "feed_name": "Qual Viagem",
-        "title": "Grupo Águia Branca lança Flex Passagens e aposta no atendimento humano para transformar experiência digital no transporte rodoviário",
-        "link": "https://www.qualviagem.com.br/grupo-aguia-branca-lanca-flex-passagens-e-aposta-no-atendimento-humano-para-transformar-experiencia-digital-no-transporte-rodoviario/",
-        "published": "2026-05-28T21:59:56",
-        "discovered_at": "2026-05-28T22:28:03.781922",
-        "summary": "Nova plataforma da Divisão Passageiros reúne mais de 200 viações parceiras e amplia presença da Viação Águia Branca no mercado digital de mobilidade rodoviária&#160; O Grupo Águia Branca lançou nesta sexta-feira, 22 de maio, o Flex Passagens, nova plataforma de...\nO post Grupo Águia Branca lança Fle"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148529",
-        "feed_name": "Qual Viagem",
-        "title": "Tauá aposta em cashback para ampliar recorrência e impulsionar nova fase em João Pessoa",
-        "link": "https://www.qualviagem.com.br/taua-aposta-em-cashback-para-ampliar-recorrencia-e-impulsionar-nova-fase-em-joao-pessoa/",
-        "published": "2026-05-28T21:36:05",
-        "discovered_at": "2026-05-28T22:28:03.782270",
-        "summary": "Nova frente do grupo oferece até 12% de retorno em hospedagens e reforça estratégia de relacionamento em meio à abertura do Tauá João Pessoa O Grupo Tauá deu mais um passo em sua estratégia de relacionamento com clientes em meio...\nO post Tauá aposta em cashback para ampliar recorrência e impulsiona"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-29T13:54:13.345388",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-28T22:28:19.247218",
       "destination": "Itália",
@@ -642,14 +631,6 @@
     },
     {
       "run_at": "2026-05-11T17:50:23.747323",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-05-11T13:40:04.169077",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
