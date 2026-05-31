@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-05-31T14:43:37.992404",
+  "last_run": "2026-05-31T21:58:07.246394",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-31T14:43:37.992404",
+    "run_at": "2026-05-31T21:58:07.246394",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=536849",
+        "feed_name": "Passageiro de Primeira",
+        "title": "China Eastern aumenta frequência de voos para Argentina",
+        "link": "https://passageirodeprimeira.com/china-eastern-aumenta-frequencia-voos-argentina/",
+        "published": "2026-05-31T19:31:12",
+        "discovered_at": "2026-05-31T21:57:51.041137",
+        "summary": "Em busca de aumentar a operação de voos na América do Sul, o Instituto Nacional de Promoção Turística (INPROTUR) anunciou, na terça-feira (26), que a China Eastern Airlines está ampliando a frequência da rota Xangai-Auckland-Buenos Aires (EZE).\nO post China Eastern aumenta frequência de voos para Ar"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-05-31T21:58:07.246394",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=536849",
+          "feed_name": "Passageiro de Primeira",
+          "title": "China Eastern aumenta frequência de voos para Argentina",
+          "link": "https://passageirodeprimeira.com/china-eastern-aumenta-frequencia-voos-argentina/",
+          "published": "2026-05-31T19:31:12",
+          "discovered_at": "2026-05-31T21:57:51.041137",
+          "summary": "Em busca de aumentar a operação de voos na América do Sul, o Instituto Nacional de Promoção Turística (INPROTUR) anunciou, na terça-feira (26), que a China Eastern Airlines está ampliando a frequência da rota Xangai-Auckland-Buenos Aires (EZE).\nO post China Eastern aumenta frequência de voos para Ar"
+        }
+      ]
+    },
     {
       "run_at": "2026-05-31T14:43:37.992404",
       "destination": "Itália",
@@ -628,17 +656,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-13T13:07:26.776018",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=536849",
+      "feed_name": "Passageiro de Primeira",
+      "title": "China Eastern aumenta frequência de voos para Argentina",
+      "link": "https://passageirodeprimeira.com/china-eastern-aumenta-frequencia-voos-argentina/",
+      "published": "2026-05-31T19:31:12",
+      "discovered_at": "2026-05-31T21:57:51.041137",
+      "summary": "Em busca de aumentar a operação de voos na América do Sul, o Instituto Nacional de Promoção Turística (INPROTUR) anunciou, na terça-feira (26), que a China Eastern Airlines está ampliando a frequência da rota Xangai-Auckland-Buenos Aires (EZE).\nO post China Eastern aumenta frequência de voos para Ar"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=535610",
       "feed_name": "Passageiro de Primeira",
