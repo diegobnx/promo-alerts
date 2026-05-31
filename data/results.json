@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-05-30T22:00:45.900130",
+  "last_run": "2026-05-31T14:43:37.992404",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-05-30T22:00:45.900130",
+    "run_at": "2026-05-31T14:43:37.992404",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=535610",
-        "feed_name": "Passageiro de Primeira",
-        "title": "TAAG anuncia voos sazonais entre Luanda e Porto",
-        "link": "https://passageirodeprimeira.com/taag-anuncia-voos-sazonais-entre-luanda-porto/",
-        "published": "2026-05-30T19:21:57",
-        "discovered_at": "2026-05-30T22:00:26.591671",
-        "summary": "A principal companhia aérea da Angola, a TAAG Linhas Aéreas, anunciou a implementação de voos sazonais entre Luanda, capital da Angola, e Porto, em Portugal, durante o período das férias do fim do ano.\nO post TAAG anuncia voos sazonais entre Luanda e Porto apareceu primeiro em Passageiro de Primeira"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-05-31T14:43:37.992404",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-05-30T22:00:45.900130",
       "destination": "Itália",
@@ -633,14 +631,6 @@
     },
     {
       "run_at": "2026-05-13T13:07:26.776018",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-05-12T22:06:09.142329",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
