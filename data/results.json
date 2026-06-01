@@ -1,25 +1,61 @@
 {
-  "last_run": "2026-06-01T16:32:37.980976",
+  "last_run": "2026-06-01T22:57:44.955444",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-01T16:32:37.980976",
+    "run_at": "2026-06-01T22:57:44.955444",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
+    "posts_found": 2,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537871",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Santander anuncia incorporação da Esfera",
-        "link": "https://passageirodeprimeira.com/santander-anuncia-incorporacao-da-esfera/",
-        "published": "2026-06-01T15:35:51",
-        "discovered_at": "2026-06-01T16:32:20.048006",
-        "summary": "Em fato relevante divulgado ao mercado, o Santander informou a incorporação da Esfera, programa de fidelidade do Grupo, que deixará de existir como empresa independente.\nO post Santander anuncia incorporação da Esfera apareceu primeiro em Passageiro de Primeira."
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148616",
+        "feed_name": "Qual Viagem",
+        "title": "Romance nas alturas: atração inédita chega ao Mundo a Vapor na Serra Gaúcha",
+        "link": "https://www.qualviagem.com.br/romance-nas-alturas-atracao-inedita-chega-ao-mundo-a-vapor-na-serra-gaucha/",
+        "published": "2026-06-01T22:29:28",
+        "discovered_at": "2026-06-01T22:57:30.929423",
+        "summary": "Os casais que visitarem o Mundo a Vapor a partir de 1º de junho, em Canela, encontrarão uma nova forma de celebrar bons momentos a dois na Serra Gaúcha. Inspiradas em experiências cenográficas e no universo das viagens afetivas, as...\nO post Romance nas alturas: atração inédita chega ao Mundo a Vapo"
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148607",
+        "feed_name": "Qual Viagem",
+        "title": "Ruínas de igreja do século 18 são símbolo de preservação histórica no interior do RJ",
+        "link": "https://www.qualviagem.com.br/ruinas-de-igreja-do-seculo-18-sao-simbolo-de-preservacao-historica-no-interior-do-rj/",
+        "published": "2026-06-01T21:08:07",
+        "discovered_at": "2026-06-01T22:57:30.929884",
+        "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-01T22:57:44.955444",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148616",
+          "feed_name": "Qual Viagem",
+          "title": "Romance nas alturas: atração inédita chega ao Mundo a Vapor na Serra Gaúcha",
+          "link": "https://www.qualviagem.com.br/romance-nas-alturas-atracao-inedita-chega-ao-mundo-a-vapor-na-serra-gaucha/",
+          "published": "2026-06-01T22:29:28",
+          "discovered_at": "2026-06-01T22:57:30.929423",
+          "summary": "Os casais que visitarem o Mundo a Vapor a partir de 1º de junho, em Canela, encontrarão uma nova forma de celebrar bons momentos a dois na Serra Gaúcha. Inspiradas em experiências cenográficas e no universo das viagens afetivas, as...\nO post Romance nas alturas: atração inédita chega ao Mundo a Vapo"
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148607",
+          "feed_name": "Qual Viagem",
+          "title": "Ruínas de igreja do século 18 são símbolo de preservação histórica no interior do RJ",
+          "link": "https://www.qualviagem.com.br/ruinas-de-igreja-do-seculo-18-sao-simbolo-de-preservacao-historica-no-interior-do-rj/",
+          "published": "2026-06-01T21:08:07",
+          "discovered_at": "2026-06-01T22:57:30.929884",
+          "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
+        }
+      ]
+    },
     {
       "run_at": "2026-06-01T16:32:37.980976",
       "destination": "Itália",
@@ -648,27 +684,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-13T22:05:40.359925",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147914",
-          "feed_name": "Qual Viagem",
-          "title": "Serra Bela Eco Pousada é referência de boa hospedagem em Urubici",
-          "link": "https://www.qualviagem.com.br/serra-bela-eco-pousada-e-referencia-de-boa-hospedagem-em-urubici/",
-          "published": "2026-05-13T23:24:25",
-          "discovered_at": "2026-05-13T22:05:21.528844",
-          "summary": "A Serra Bela Eco Pousada, com mais de 25 anos de abertura, foi uma das precursoras do desenvolvimento de Urubici como referência no turismo na Serra Catarinense. O empreendimento já está consolidado em termos de hospedagem na região e dispõe...\nO post Serra Bela Eco Pousada é referência de boa hospe"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148616",
+      "feed_name": "Qual Viagem",
+      "title": "Romance nas alturas: atração inédita chega ao Mundo a Vapor na Serra Gaúcha",
+      "link": "https://www.qualviagem.com.br/romance-nas-alturas-atracao-inedita-chega-ao-mundo-a-vapor-na-serra-gaucha/",
+      "published": "2026-06-01T22:29:28",
+      "discovered_at": "2026-06-01T22:57:30.929423",
+      "summary": "Os casais que visitarem o Mundo a Vapor a partir de 1º de junho, em Canela, encontrarão uma nova forma de celebrar bons momentos a dois na Serra Gaúcha. Inspiradas em experiências cenográficas e no universo das viagens afetivas, as...\nO post Romance nas alturas: atração inédita chega ao Mundo a Vapo"
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148607",
+      "feed_name": "Qual Viagem",
+      "title": "Ruínas de igreja do século 18 são símbolo de preservação histórica no interior do RJ",
+      "link": "https://www.qualviagem.com.br/ruinas-de-igreja-do-seculo-18-sao-simbolo-de-preservacao-historica-no-interior-do-rj/",
+      "published": "2026-06-01T21:08:07",
+      "discovered_at": "2026-06-01T22:57:30.929884",
+      "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537871",
       "feed_name": "Passageiro de Primeira",
@@ -884,15 +920,6 @@
       "published": "2026-05-14T18:35:00",
       "discovered_at": "2026-05-14T17:43:24.742856",
       "summary": "O evento acontece de 3 a 7 de junho e promete reunir vinhos, gastronomia e experiências em meio às belezas de Búzios O evento que vem se consolidando como um dos mais aguardados do calendário local ao unir vinho, gastronomia...\nO post Búzios pronta para brindar: Wine in Búzios confirma data de sua 7"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147914",
-      "feed_name": "Qual Viagem",
-      "title": "Serra Bela Eco Pousada é referência de boa hospedagem em Urubici",
-      "link": "https://www.qualviagem.com.br/serra-bela-eco-pousada-e-referencia-de-boa-hospedagem-em-urubici/",
-      "published": "2026-05-13T23:24:25",
-      "discovered_at": "2026-05-13T22:05:21.528844",
-      "summary": "A Serra Bela Eco Pousada, com mais de 25 anos de abertura, foi uma das precursoras do desenvolvimento de Urubici como referência no turismo na Serra Catarinense. O empreendimento já está consolidado em termos de hospedagem na região e dispõe...\nO post Serra Bela Eco Pousada é referência de boa hospe"
     }
   ]
 }
