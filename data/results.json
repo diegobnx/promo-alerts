@@ -1,34 +1,61 @@
 {
-  "last_run": "2026-06-02T19:37:18.682017",
+  "last_run": "2026-06-02T22:55:52.639730",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-02T19:37:18.682017",
+    "run_at": "2026-06-02T22:55:52.639730",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 2,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538318",
         "feed_name": "Passageiro de Primeira",
-        "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
-        "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
-        "published": "2026-06-02T17:40:53",
-        "discovered_at": "2026-06-02T19:36:58.810124",
-        "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
+        "title": "Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais",
+        "link": "https://passageirodeprimeira.com/esfera-oferece-7-pontos-por-real-gasto-na-gama-italy-extra-mais/",
+        "published": "2026-06-02T22:50:13",
+        "discovered_at": "2026-06-02T22:55:36.402178",
+        "summary": "A Esfera está oferecendo até 7 pontos por real gasto na Gama Italy, Extra e mais. As ofertas contam com prazo de validade e pontuações diferentes.\nO post Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais apareceu primeiro em Passageiro de Primeira."
       },
       {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
-        "feed_name": "Pontos pra Voar",
-        "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
-        "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
-        "published": "2026-06-02T19:00:43",
-        "discovered_at": "2026-06-02T19:37:08.505348",
-        "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=617356",
+        "feed_name": "Melhores Destinos",
+        "title": "Último dia! Cupom 20% OFF em passagens aéreas da ITA Airways para Europa, Ásia ou África",
+        "link": "https://www.melhoresdestinos.com.br/promocao/cupom-passagens-ita-junho-2026",
+        "published": "2026-06-02T16:52:53",
+        "discovered_at": "2026-06-02T22:55:37.890409",
+        "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-02T22:55:52.639730",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538318",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais",
+          "link": "https://passageirodeprimeira.com/esfera-oferece-7-pontos-por-real-gasto-na-gama-italy-extra-mais/",
+          "published": "2026-06-02T22:50:13",
+          "discovered_at": "2026-06-02T22:55:36.402178",
+          "summary": "A Esfera está oferecendo até 7 pontos por real gasto na Gama Italy, Extra e mais. As ofertas contam com prazo de validade e pontuações diferentes.\nO post Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=617356",
+          "feed_name": "Melhores Destinos",
+          "title": "Último dia! Cupom 20% OFF em passagens aéreas da ITA Airways para Europa, Ásia ou África",
+          "link": "https://www.melhoresdestinos.com.br/promocao/cupom-passagens-ita-junho-2026",
+          "published": "2026-06-02T16:52:53",
+          "discovered_at": "2026-06-02T22:55:37.890409",
+          "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-02T19:37:18.682017",
       "destination": "Itália",
@@ -675,27 +702,27 @@
           "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
         }
       ]
-    },
-    {
-      "run_at": "2026-05-14T22:03:58.493406",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=614113",
-          "feed_name": "Melhores Destinos",
-          "title": "Europa 2×1! Passagens para a Espanha mais Portugal ou outros países a partir de R$ 3.753",
-          "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-espanha-mais-portugal-14mai26",
-          "published": "2026-05-14T18:23:56",
-          "discovered_at": "2026-05-14T22:03:40.521940",
-          "summary": "Que tal uma Eurotrip para dois incríveis países? Viaje para o Velho Continente com a comodidade dos voos 2 em 1, onde todos os trechos aéreos estão incluídos na mesma passagem. Encontramos passagens aéreas 2 em 1 para a Espanha mais Portugal, Inglaterra, Itália e outros países a partir de R$ 3.753. "
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538318",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais",
+      "link": "https://passageirodeprimeira.com/esfera-oferece-7-pontos-por-real-gasto-na-gama-italy-extra-mais/",
+      "published": "2026-06-02T22:50:13",
+      "discovered_at": "2026-06-02T22:55:36.402178",
+      "summary": "A Esfera está oferecendo até 7 pontos por real gasto na Gama Italy, Extra e mais. As ofertas contam com prazo de validade e pontuações diferentes.\nO post Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=617356",
+      "feed_name": "Melhores Destinos",
+      "title": "Último dia! Cupom 20% OFF em passagens aéreas da ITA Airways para Europa, Ásia ou África",
+      "link": "https://www.melhoresdestinos.com.br/promocao/cupom-passagens-ita-junho-2026",
+      "published": "2026-06-02T16:52:53",
+      "discovered_at": "2026-06-02T22:55:37.890409",
+      "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
       "feed_name": "Passageiro de Primeira",
@@ -929,15 +956,6 @@
       "published": "2026-05-15T10:50:06",
       "discovered_at": "2026-05-15T12:28:02.745137",
       "summary": "A AMBAAR acaba de informar que contará com mais uma sala VIP nos aeroportos brasileiros: Fernando de Noronha. O anúncio oficial ocorrerá hoje (15), junto com a entrega da primeira etapa do novo terminal de passageiros pela Dix Aeroportos, empresa do Grupo Agemar.\nO post AMBAAR anuncia nova sala VIP "
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=614113",
-      "feed_name": "Melhores Destinos",
-      "title": "Europa 2×1! Passagens para a Espanha mais Portugal ou outros países a partir de R$ 3.753",
-      "link": "https://www.melhoresdestinos.com.br/promocao/europa-2x1-passagens-para-espanha-mais-portugal-14mai26",
-      "published": "2026-05-14T18:23:56",
-      "discovered_at": "2026-05-14T22:03:40.521940",
-      "summary": "Que tal uma Eurotrip para dois incríveis países? Viaje para o Velho Continente com a comodidade dos voos 2 em 1, onde todos os trechos aéreos estão incluídos na mesma passagem. Encontramos passagens aéreas 2 em 1 para a Espanha mais Portugal, Inglaterra, Itália e outros países a partir de R$ 3.753. "
     }
   ]
 }
