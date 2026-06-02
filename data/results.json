@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-06-01T22:57:44.955444",
+  "last_run": "2026-06-02T14:46:00.309935",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-01T22:57:44.955444",
+    "run_at": "2026-06-02T14:46:00.309935",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148616",
-        "feed_name": "Qual Viagem",
-        "title": "Romance nas alturas: atração inédita chega ao Mundo a Vapor na Serra Gaúcha",
-        "link": "https://www.qualviagem.com.br/romance-nas-alturas-atracao-inedita-chega-ao-mundo-a-vapor-na-serra-gaucha/",
-        "published": "2026-06-01T22:29:28",
-        "discovered_at": "2026-06-01T22:57:30.929423",
-        "summary": "Os casais que visitarem o Mundo a Vapor a partir de 1º de junho, em Canela, encontrarão uma nova forma de celebrar bons momentos a dois na Serra Gaúcha. Inspiradas em experiências cenográficas e no universo das viagens afetivas, as...\nO post Romance nas alturas: atração inédita chega ao Mundo a Vapo"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148607",
-        "feed_name": "Qual Viagem",
-        "title": "Ruínas de igreja do século 18 são símbolo de preservação histórica no interior do RJ",
-        "link": "https://www.qualviagem.com.br/ruinas-de-igreja-do-seculo-18-sao-simbolo-de-preservacao-historica-no-interior-do-rj/",
-        "published": "2026-06-01T21:08:07",
-        "discovered_at": "2026-06-01T22:57:30.929884",
-        "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-02T14:46:00.309935",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-01T22:57:44.955444",
       "destination": "Itália",
@@ -676,14 +665,6 @@
           "summary": "O evento acontece de 3 a 7 de junho e promete reunir vinhos, gastronomia e experiências em meio às belezas de Búzios O evento que vem se consolidando como um dos mais aguardados do calendário local ao unir vinho, gastronomia...\nO post Búzios pronta para brindar: Wine in Búzios confirma data de sua 7"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-14T12:22:23.659691",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
