@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-06-02T14:46:00.309935",
+  "last_run": "2026-06-02T19:37:18.682017",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-02T14:46:00.309935",
+    "run_at": "2026-06-02T19:37:18.682017",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
+        "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
+        "published": "2026-06-02T17:40:53",
+        "discovered_at": "2026-06-02T19:36:58.810124",
+        "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
+      },
+      {
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
+        "feed_name": "Pontos pra Voar",
+        "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
+        "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
+        "published": "2026-06-02T19:00:43",
+        "discovered_at": "2026-06-02T19:37:08.505348",
+        "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-06-02T19:37:18.682017",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
+          "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
+          "published": "2026-06-02T17:40:53",
+          "discovered_at": "2026-06-02T19:36:58.810124",
+          "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
+        },
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
+          "feed_name": "Pontos pra Voar",
+          "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
+          "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
+          "published": "2026-06-02T19:00:43",
+          "discovered_at": "2026-06-02T19:37:08.505348",
+          "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-02T14:46:00.309935",
       "destination": "Itália",
@@ -647,27 +693,27 @@
           "summary": "Que tal uma Eurotrip para dois incríveis países? Viaje para o Velho Continente com a comodidade dos voos 2 em 1, onde todos os trechos aéreos estão incluídos na mesma passagem. Encontramos passagens aéreas 2 em 1 para a Espanha mais Portugal, Inglaterra, Itália e outros países a partir de R$ 3.753. "
         }
       ]
-    },
-    {
-      "run_at": "2026-05-14T17:43:39.157819",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147845",
-          "feed_name": "Qual Viagem",
-          "title": "Búzios pronta para brindar: Wine in Búzios confirma data de sua 7ª Edição",
-          "link": "https://www.qualviagem.com.br/buzios-pronta-para-brindar-wine-in-buzios-confirma-data-de-sua-7a-edicao/",
-          "published": "2026-05-14T18:35:00",
-          "discovered_at": "2026-05-14T17:43:24.742856",
-          "summary": "O evento acontece de 3 a 7 de junho e promete reunir vinhos, gastronomia e experiências em meio às belezas de Búzios O evento que vem se consolidando como um dos mais aguardados do calendário local ao unir vinho, gastronomia...\nO post Búzios pronta para brindar: Wine in Búzios confirma data de sua 7"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
+      "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
+      "published": "2026-06-02T17:40:53",
+      "discovered_at": "2026-06-02T19:36:58.810124",
+      "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
+    },
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
+      "feed_name": "Pontos pra Voar",
+      "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
+      "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
+      "published": "2026-06-02T19:00:43",
+      "discovered_at": "2026-06-02T19:37:08.505348",
+      "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148616",
       "feed_name": "Qual Viagem",
@@ -892,15 +938,6 @@
       "published": "2026-05-14T18:23:56",
       "discovered_at": "2026-05-14T22:03:40.521940",
       "summary": "Que tal uma Eurotrip para dois incríveis países? Viaje para o Velho Continente com a comodidade dos voos 2 em 1, onde todos os trechos aéreos estão incluídos na mesma passagem. Encontramos passagens aéreas 2 em 1 para a Espanha mais Portugal, Inglaterra, Itália e outros países a partir de R$ 3.753. "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=147845",
-      "feed_name": "Qual Viagem",
-      "title": "Búzios pronta para brindar: Wine in Búzios confirma data de sua 7ª Edição",
-      "link": "https://www.qualviagem.com.br/buzios-pronta-para-brindar-wine-in-buzios-confirma-data-de-sua-7a-edicao/",
-      "published": "2026-05-14T18:35:00",
-      "discovered_at": "2026-05-14T17:43:24.742856",
-      "summary": "O evento acontece de 3 a 7 de junho e promete reunir vinhos, gastronomia e experiências em meio às belezas de Búzios O evento que vem se consolidando como um dos mais aguardados do calendário local ao unir vinho, gastronomia...\nO post Búzios pronta para brindar: Wine in Búzios confirma data de sua 7"
     }
   ]
 }
