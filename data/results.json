@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-06-06T14:28:58.885825",
+  "last_run": "2026-06-06T22:02:18.091162",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-06T14:28:58.885825",
+    "run_at": "2026-06-06T22:02:18.091162",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538771",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Voe para Roma a partir de 64 mil milhas LATAM Pass + taxas",
-        "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-64-mil-milhas-latam-pass-taxas/",
-        "published": "2026-06-06T12:01:04",
-        "discovered_at": "2026-06-06T14:28:40.082132",
-        "summary": "Voe para Roma a partir de 64 mil milhas LATAM Pass + taxas\nO post Voe para Roma a partir de 64 mil milhas LATAM Pass + taxas apareceu primeiro em Passageiro de Primeira."
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-06T22:02:18.091162",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-06T14:28:58.885825",
       "destination": "Itália",
@@ -671,14 +669,6 @@
     },
     {
       "run_at": "2026-05-19T17:58:40.074385",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-05-19T13:52:29.870752",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
