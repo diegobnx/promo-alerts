@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-06-06T22:02:18.091162",
+  "last_run": "2026-06-07T14:51:15.816480",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-06T22:02:18.091162",
+    "run_at": "2026-06-07T14:51:15.816480",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538679",
+        "feed_name": "Passageiro de Primeira",
+        "title": "GOL retoma quarta frequência semanal para a Venezuela",
+        "link": "https://passageirodeprimeira.com/gol-retoma-quarta-frequencia-semanal-venezuela/",
+        "published": "2026-06-07T14:42:52",
+        "discovered_at": "2026-06-07T14:50:59.442447",
+        "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-06-07T14:51:15.816480",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538679",
+          "feed_name": "Passageiro de Primeira",
+          "title": "GOL retoma quarta frequência semanal para a Venezuela",
+          "link": "https://passageirodeprimeira.com/gol-retoma-quarta-frequencia-semanal-venezuela/",
+          "published": "2026-06-07T14:42:52",
+          "discovered_at": "2026-06-07T14:50:59.442447",
+          "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-06T22:02:18.091162",
       "destination": "Itália",
@@ -666,17 +694,18 @@
           "summary": "O Juma Ópera Hotel, referência em elegância e hospitalidade no coração de Manaus, apresenta uma experiência única inspirada em um dos maiores espetáculos naturais do mundo: o&#160;Encontro das Águas. A proposta convida os hóspedes a vivenciarem a grandiosidade da Amazônia...\nO post Juma Ópera aposta"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-19T17:58:40.074385",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538679",
+      "feed_name": "Passageiro de Primeira",
+      "title": "GOL retoma quarta frequência semanal para a Venezuela",
+      "link": "https://passageirodeprimeira.com/gol-retoma-quarta-frequencia-semanal-venezuela/",
+      "published": "2026-06-07T14:42:52",
+      "discovered_at": "2026-06-07T14:50:59.442447",
+      "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538771",
       "feed_name": "Passageiro de Primeira",
