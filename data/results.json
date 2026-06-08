@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-07T22:02:42.754511",
+  "last_run": "2026-06-08T14:43:15.565233",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-07T22:02:42.754511",
+    "run_at": "2026-06-08T14:43:15.565233",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-08T14:43:15.565233",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-07T22:02:42.754511",
       "destination": "Itália",
@@ -656,24 +664,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-20T13:33:30.472556",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532053",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Riyadh Air inicia venda de passagens para primeiros voos comerciais",
-          "link": "https://passageirodeprimeira.com/riyadh-air-inicia-venda-de-passagens-para-primeiros-voos-comerciais/",
-          "published": "2026-05-20T12:45:45",
-          "discovered_at": "2026-05-20T13:33:13.099410",
-          "summary": "Riyadh Air inicia venda de passagens para seus primeiros voos comerciais\nO post Riyadh Air inicia venda de passagens para primeiros voos comerciais apareceu primeiro em Passageiro de Primeira."
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -910,15 +900,6 @@
       "published": "2026-05-21T14:21:00",
       "discovered_at": "2026-05-21T13:57:56.716696",
       "summary": "No sul da Flórida, o The Boca Raton, um dos clubes e resorts privados mais históricos dos Estados Unidos e que completa 100 anos em 2026, anuncia um novo design dos quartos e suítes do Cloister – o hotel original...\nO post Resort de luxo na Flórida anuncia a renovação do primeiro hotel do complexo a"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532053",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Riyadh Air inicia venda de passagens para primeiros voos comerciais",
-      "link": "https://passageirodeprimeira.com/riyadh-air-inicia-venda-de-passagens-para-primeiros-voos-comerciais/",
-      "published": "2026-05-20T12:45:45",
-      "discovered_at": "2026-05-20T13:33:13.099410",
-      "summary": "Riyadh Air inicia venda de passagens para seus primeiros voos comerciais\nO post Riyadh Air inicia venda de passagens para primeiros voos comerciais apareceu primeiro em Passageiro de Primeira."
     }
   ]
 }
