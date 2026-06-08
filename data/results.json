@@ -1,43 +1,23 @@
 {
-  "last_run": "2026-06-08T18:20:13.628577",
+  "last_run": "2026-06-08T22:20:05.210783",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-08T18:20:13.628577",
+    "run_at": "2026-06-08T22:20:05.210783",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148733",
-        "feed_name": "Qual Viagem",
-        "title": "WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados",
-        "link": "https://www.qualviagem.com.br/wz-hotel-jardins-lanca-pacote-romantico-para-o-dia-dos-namorados/",
-        "published": "2026-06-08T20:59:12",
-        "discovered_at": "2026-06-08T18:19:58.193005",
-        "summary": "Em um dos endereços mais prestigiados de São Paulo, o WZ Hotel Jardins é o lugar certo para celebrar o Dia dos Namorados com uma experiência completa. De forma exclusiva entre os dias 11 e 13 de junho, está disponível...\nO post WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados aparece"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148723",
-        "feed_name": "Qual Viagem",
-        "title": "Monte Verde aposta no clima de serra para impulsionar turismo romântico",
-        "link": "https://www.qualviagem.com.br/monte-verde-aposta-no-clima-de-serra-para-impulsionar-turismo-romantico/",
-        "published": "2026-06-08T20:34:59",
-        "discovered_at": "2026-06-08T18:19:58.193716",
-        "summary": "Para quem deixou os planos para a última hora, ainda há tempo de organizar uma viagem a dois e fazer algo especial com seu par. Monte Verde, localizado em Camanducaia, na Serra da Mantiqueira, é o destino ideal para escapadas...\nO post Monte Verde aposta no clima de serra para impulsionar turismo ro"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148718",
-        "feed_name": "Qual Viagem",
-        "title": "Sebrae transforma reconhecimento profissional em imersão internacional de excelência na Disney",
-        "link": "https://www.qualviagem.com.br/sebrae-transforma-reconhecimento-profissional-em-imersao-internacional-de-excelencia-na-disney/",
-        "published": "2026-06-08T19:56:55",
-        "discovered_at": "2026-06-08T18:19:58.193960",
-        "summary": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — Sebrae — inovou mais uma vez ao transformar reconhecimento profissional em uma experiência internacional de capacitação e encantamento. Os vencedores do programa “Histórias de Quem Atende” participaram, em Orlando,...\nO post Sebrae transfo"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-08T22:20:05.210783",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-08T18:20:13.628577",
       "destination": "Itália",
@@ -712,14 +692,6 @@
           "summary": "No sul da Flórida, o The Boca Raton, um dos clubes e resorts privados mais históricos dos Estados Unidos e que completa 100 anos em 2026, anuncia um novo design dos quartos e suítes do Cloister – o hotel original...\nO post Resort de luxo na Flórida anuncia a renovação do primeiro hotel do complexo a"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-20T22:20:15.648585",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
