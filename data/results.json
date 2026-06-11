@@ -1,43 +1,23 @@
 {
-  "last_run": "2026-06-10T22:48:36.539084",
+  "last_run": "2026-06-11T14:31:57.406361",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-10T22:48:36.539084",
+    "run_at": "2026-06-11T14:31:57.406361",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148815",
-        "feed_name": "Qual Viagem",
-        "title": "Bacuri lança menu especial para celebrar o Dia dos Namorados em Bonito",
-        "link": "https://www.qualviagem.com.br/bacuri-lanca-menu-especial-para-celebrar-o-dia-dos-namorados-em-bonito/",
-        "published": "2026-06-10T23:16:19",
-        "discovered_at": "2026-06-10T22:48:23.880255",
-        "summary": "Para celebrar a data mais romântica do ano, o Bacuri Cozinha Regional vai transformar o jantar de Dia dos Namorados em uma experiência elegante e repleta de sabor na cidade de Bonito/MS. Inspirado nas mais autênticas tradições gastronômicas do Mato...\nO post Bacuri lança menu especial para celebrar "
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148802",
-        "feed_name": "Qual Viagem",
-        "title": "Passaporte europeu ou visto de residência? Entenda qual opção faz mais sentido para quem planeja viver na Europa",
-        "link": "https://www.qualviagem.com.br/passaporte-europeu-ou-visto-de-residencia-entenda-qual-opcao-faz-mais-sentido-para-quem-planeja-viver-na-europa/",
-        "published": "2026-06-10T22:35:14",
-        "discovered_at": "2026-06-10T22:48:23.880750",
-        "summary": "Especialista explica as diferenças entre os dois caminhos e destaca os impactos na mobilidade, segurança jurídica e planejamento familiar   Com as mudanças nas regras migratórias europeias e o aumento do interesse de brasileiros em morar no exterior, cresce também...\nO post Passaporte europeu ou vis"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148799",
-        "feed_name": "Qual Viagem",
-        "title": "O Wet’n Wild, um dos maiores e mais cobiçados parques aquáticos do Brasil, anuncia oficialmente o retorno de um de seus eventos mais aguardados e aclamados pelo público: as Noites Macabras",
-        "link": "https://www.qualviagem.com.br/o-wetn-wild-um-dos-maiores-e-mais-cobicados-parques-aquaticos-do-brasil-anuncia-oficialmente-o-retorno-de-um-de-seus-eventos-mais-aguardados-e-aclamados-pelo-publico-as-noites-macabras/",
-        "published": "2026-06-10T22:28:34",
-        "discovered_at": "2026-06-10T22:48:23.881094",
-        "summary": "Celebrando uma marca histórica, o evento chega à sua 10ª edição consolidado como uma iniciativa premiada pelo seu pioneirismo e sucesso absoluto no setor de entretenimento noturno em parques aquáticos. A temporada de arrepios e muita adrenalina já tem data...\nO post O Wet&#8217;n Wild, um dos maiore"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-11T14:31:57.406361",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-10T22:48:36.539084",
       "destination": "Itália",
@@ -762,14 +742,6 @@
     },
     {
       "run_at": "2026-05-23T21:53:51.814282",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-05-23T14:28:26.240136",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
