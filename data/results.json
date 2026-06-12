@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-12T18:00:30.738220",
+  "last_run": "2026-06-12T22:19:01.034517",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-12T18:00:30.738220",
+    "run_at": "2026-06-12T22:19:01.034517",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-12T22:19:01.034517",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-12T18:00:30.738220",
       "destination": "Itália",
@@ -719,14 +727,6 @@
           "summary": "A MSC Cruzeiros apresentou sua mais recente evolução na experiência do hóspede: o MSC Concierge. Como um concierge no bolso dos hóspedes, o novo assistente de inteligência artificial aprimora o ecossistema digital MSC for Me, ajudando os hóspedes a gerenciar...\nO post MSC Cruzeiros lança concierge c"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-25T17:28:49.406250",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
