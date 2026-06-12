@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-11T22:47:39.202400",
+  "last_run": "2026-06-12T13:59:06.461161",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-11T22:47:39.202400",
+    "run_at": "2026-06-12T13:59:06.461161",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-12T13:59:06.461161",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-11T22:47:39.202400",
       "destination": "Itália",
@@ -719,24 +727,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-24T21:55:50.892509",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532688",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Azul terá mais de 100 voos extras para o feriado de Corpus Christi",
-          "link": "https://passageirodeprimeira.com/azul-anuncia-100-voos-extras-feriado/",
-          "published": "2026-05-24T18:06:18",
-          "discovered_at": "2026-05-24T21:55:35.537792",
-          "summary": "A Azul anuncia operação especial para o feriado prolongado de Corpus Christi, a companhia disponibilizará 109 voos extras e mais de 15,5 mil assentos adicionais para 22 destinos em todo o Brasil.\nO post Azul terá mais de 100 voos extras para o feriado de Corpus Christi apareceu primeiro em Passageir"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -1036,15 +1026,6 @@
       "published": "2026-05-25T20:58:50",
       "discovered_at": "2026-05-25T22:02:54.304892",
       "summary": "A MSC Cruzeiros apresentou sua mais recente evolução na experiência do hóspede: o MSC Concierge. Como um concierge no bolso dos hóspedes, o novo assistente de inteligência artificial aprimora o ecossistema digital MSC for Me, ajudando os hóspedes a gerenciar...\nO post MSC Cruzeiros lança concierge c"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=532688",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Azul terá mais de 100 voos extras para o feriado de Corpus Christi",
-      "link": "https://passageirodeprimeira.com/azul-anuncia-100-voos-extras-feriado/",
-      "published": "2026-05-24T18:06:18",
-      "discovered_at": "2026-05-24T21:55:35.537792",
-      "summary": "A Azul anuncia operação especial para o feriado prolongado de Corpus Christi, a companhia disponibilizará 109 voos extras e mais de 15,5 mil assentos adicionais para 22 destinos em todo o Brasil.\nO post Azul terá mais de 100 voos extras para o feriado de Corpus Christi apareceu primeiro em Passageir"
     }
   ]
 }
