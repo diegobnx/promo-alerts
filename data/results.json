@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-13T22:02:44.071857",
+  "last_run": "2026-06-14T15:07:19.671557",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-13T22:02:44.071857",
+    "run_at": "2026-06-14T15:07:19.671557",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-14T15:07:19.671557",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-13T22:02:44.071857",
       "destination": "Itália",
@@ -700,14 +708,6 @@
           "summary": "A Itália é um dos destinos mais completos do planeta: tem história, belezas naturais, grandes cidades, vilarejos, montanha, praia, sem falar na gastronomia que é um capítulo à parte! Aproveite que encontramos passagens aéreas para  Roma, Milão, Veneza ou Nápoli a partir de R$ 3.611 ida e volta. Conf"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-26T18:19:08.554400",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
