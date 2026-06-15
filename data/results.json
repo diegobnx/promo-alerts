@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-14T22:07:39.653283",
+  "last_run": "2026-06-15T16:13:31.267345",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-14T22:07:39.653283",
+    "run_at": "2026-06-15T16:13:31.267345",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-15T16:13:31.267345",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-14T22:07:39.653283",
       "destination": "Itália",
@@ -690,14 +698,6 @@
           "summary": "A Itália terá uma greve geral no setor aéreo nesta sexta-feira (29), com previsão de cancelamentos e atrasos de voos em diversos aeroportos do país. Uma nova greve geral na Itália deverá afetar o transporte aéreo nesta sexta-feira, 29 de maio. A paralisação terá duração de 24 horas e contará com par"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-27T14:22:10.909667",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
