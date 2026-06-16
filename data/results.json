@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-06-15T22:58:25.753546",
+  "last_run": "2026-06-16T15:49:22.347888",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-15T22:58:25.753546",
+    "run_at": "2026-06-16T15:49:22.347888",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148905",
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148908",
         "feed_name": "Qual Viagem",
-        "title": "Vila Galé celebra São João com programação temática em seus resorts",
-        "link": "https://www.qualviagem.com.br/vila-gale-celebra-sao-joao-com-programacao-tematica-em-seus-resorts/",
-        "published": "2026-06-16T00:33:57",
-        "discovered_at": "2026-06-15T22:58:11.045155",
-        "summary": "Uma das épocas mais animadas do ano está chegando e a Vila Galé não poderia ficar de fora. A tradicional Vila do Forró – Tradições Nordestinas está de volta para comemorar o São João e promete não deixar ninguém parado....\nO post Vila Galé celebra São João com programação temática em seus resorts ap"
+        "title": "Café Capô: Novo espaço transforma experiência cultural em ponto de encontro em São Paulo",
+        "link": "https://www.qualviagem.com.br/cafe-capo-novo-espaco-transforma-experiencia-cultural-em-ponto-de-encontro-em-sao-paulo/",
+        "published": "2026-06-16T02:37:21",
+        "discovered_at": "2026-06-16T15:49:07.716952",
+        "summary": "Com gastronomia da chef Ariana Turca e projeto da arquiteta Ana Terra Capobianco, o espaço amplia a experiência dos eventos no Instituto Capobianco ao reunir público, artistas, programação musical e encontros antes e depois dos espetáculos; Inauguração acontece no dia...\nO post Café Capô: Novo espaç"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-16T15:49:22.347888",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148908",
+          "feed_name": "Qual Viagem",
+          "title": "Café Capô: Novo espaço transforma experiência cultural em ponto de encontro em São Paulo",
+          "link": "https://www.qualviagem.com.br/cafe-capo-novo-espaco-transforma-experiencia-cultural-em-ponto-de-encontro-em-sao-paulo/",
+          "published": "2026-06-16T02:37:21",
+          "discovered_at": "2026-06-16T15:49:07.716952",
+          "summary": "Com gastronomia da chef Ariana Turca e projeto da arquiteta Ana Terra Capobianco, o espaço amplia a experiência dos eventos no Instituto Capobianco ao reunir público, artistas, programação musical e encontros antes e depois dos espetáculos; Inauguração acontece no dia...\nO post Café Capô: Novo espaç"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-15T22:58:25.753546",
       "destination": "Itália",
@@ -690,27 +708,18 @@
           "summary": "O Grupo Tauá deu mais um passo em sua estratégia de relacionamento com clientes em meio aos preparativos para a abertura do Tauá João Pessoa ao público, marcada para 1º de julho. A empresa apresenta o Tauá Cashback, iniciativa voltada...\nO post Grupo Tauá aposta em cashback para ampliar recorrência "
         }
       ]
-    },
-    {
-      "run_at": "2026-05-27T22:26:38.897803",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148495",
-          "feed_name": "Qual Viagem",
-          "title": "Anguilla e St. Barths lançam experiência integrada no Caribe",
-          "link": "https://www.qualviagem.com.br/anguilla-e-st-barths-lancam-experiencia-integrada-no-caribe/",
-          "published": "2026-05-27T22:22:14",
-          "discovered_at": "2026-05-27T22:26:26.094719",
-          "summary": "O Conselho de Turismo de Anguilla (ATB) anuncia que o Malliouhana Resort &#38; Spa, em Anguilla, e o Le Barthélemy Hotel &#38; Spa, em St. Barths, se uniram na iniciativa &#8220;Two Islands, One Journey&#8221;, uma parceria exclusiva que busca redefinir...\nO post Anguilla e St. Barths lançam experiê"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148908",
+      "feed_name": "Qual Viagem",
+      "title": "Café Capô: Novo espaço transforma experiência cultural em ponto de encontro em São Paulo",
+      "link": "https://www.qualviagem.com.br/cafe-capo-novo-espaco-transforma-experiencia-cultural-em-ponto-de-encontro-em-sao-paulo/",
+      "published": "2026-06-16T02:37:21",
+      "discovered_at": "2026-06-16T15:49:07.716952",
+      "summary": "Com gastronomia da chef Ariana Turca e projeto da arquiteta Ana Terra Capobianco, o espaço amplia a experiência dos eventos no Instituto Capobianco ao reunir público, artistas, programação musical e encontros antes e depois dos espetáculos; Inauguração acontece no dia...\nO post Café Capô: Novo espaç"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148905",
       "feed_name": "Qual Viagem",
@@ -971,15 +980,6 @@
       "published": "2026-05-28T17:10:23",
       "discovered_at": "2026-05-28T14:30:58.655150",
       "summary": "O Grupo Tauá deu mais um passo em sua estratégia de relacionamento com clientes em meio aos preparativos para a abertura do Tauá João Pessoa ao público, marcada para 1º de julho. A empresa apresenta o Tauá Cashback, iniciativa voltada...\nO post Grupo Tauá aposta em cashback para ampliar recorrência "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148495",
-      "feed_name": "Qual Viagem",
-      "title": "Anguilla e St. Barths lançam experiência integrada no Caribe",
-      "link": "https://www.qualviagem.com.br/anguilla-e-st-barths-lancam-experiencia-integrada-no-caribe/",
-      "published": "2026-05-27T22:22:14",
-      "discovered_at": "2026-05-27T22:26:26.094719",
-      "summary": "O Conselho de Turismo de Anguilla (ATB) anuncia que o Malliouhana Resort &#38; Spa, em Anguilla, e o Le Barthélemy Hotel &#38; Spa, em St. Barths, se uniram na iniciativa &#8220;Two Islands, One Journey&#8221;, uma parceria exclusiva que busca redefinir...\nO post Anguilla e St. Barths lançam experiê"
     }
   ]
 }
