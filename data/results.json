@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-06-16T22:49:33.808528",
+  "last_run": "2026-06-17T14:23:56.060673",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-16T22:49:33.808528",
+    "run_at": "2026-06-17T14:23:56.060673",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=542178",
+        "feed_name": "Passageiro de Primeira",
+        "title": "BTG inicia parceria com o TAP Miles&Go e oferece 20% de bônus nas transferências",
+        "link": "https://passageirodeprimeira.com/btg-inicia-parceria-com-o-tap-milesgo-e-oferece-20-de-bonus-nas-transferencias/",
+        "published": "2026-06-17T13:20:57",
+        "discovered_at": "2026-06-17T14:23:37.694095",
+        "summary": "O TAP Miles&#038;Go está oferecendo 20% de bônus nas transferências de pontos do BTG. \nO post BTG inicia parceria com o TAP Miles&#038;Go e oferece 20% de bônus nas transferências apareceu primeiro em Passageiro de Primeira."
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148928",
+        "feed_name": "Qual Viagem",
+        "title": "Minor Hotels anuncia novo resort de luxo no Rio Grande do Norte",
+        "link": "https://www.qualviagem.com.br/minor-hotels-anuncia-novo-resort-de-luxo-no-rio-grande-do-norte/",
+        "published": "2026-06-17T13:53:30",
+        "discovered_at": "2026-06-17T14:23:41.026902",
+        "summary": "A intocada Baía Formosa, no Rio Grande do Norte, será em breve um novo destino de luxo no Nordeste com a inauguração do Aventora Baía Formosa Resort, Minor Reserve Collection. Previsto para ser lançado em 2028, esta será a primeira...\nO post Minor Hotels anuncia novo resort de luxo no Rio Grande do "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-06-17T14:23:56.060673",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=542178",
+          "feed_name": "Passageiro de Primeira",
+          "title": "BTG inicia parceria com o TAP Miles&Go e oferece 20% de bônus nas transferências",
+          "link": "https://passageirodeprimeira.com/btg-inicia-parceria-com-o-tap-milesgo-e-oferece-20-de-bonus-nas-transferencias/",
+          "published": "2026-06-17T13:20:57",
+          "discovered_at": "2026-06-17T14:23:37.694095",
+          "summary": "O TAP Miles&#038;Go está oferecendo 20% de bônus nas transferências de pontos do BTG. \nO post BTG inicia parceria com o TAP Miles&#038;Go e oferece 20% de bônus nas transferências apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148928",
+          "feed_name": "Qual Viagem",
+          "title": "Minor Hotels anuncia novo resort de luxo no Rio Grande do Norte",
+          "link": "https://www.qualviagem.com.br/minor-hotels-anuncia-novo-resort-de-luxo-no-rio-grande-do-norte/",
+          "published": "2026-06-17T13:53:30",
+          "discovered_at": "2026-06-17T14:23:41.026902",
+          "summary": "A intocada Baía Formosa, no Rio Grande do Norte, será em breve um novo destino de luxo no Nordeste com a inauguração do Aventora Baía Formosa Resort, Minor Reserve Collection. Previsto para ser lançado em 2028, esta será a primeira...\nO post Minor Hotels anuncia novo resort de luxo no Rio Grande do "
+        }
+      ]
+    },
     {
       "run_at": "2026-06-16T22:49:33.808528",
       "destination": "Itália",
@@ -671,36 +717,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-05-28T22:28:19.247218",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148532",
-          "feed_name": "Qual Viagem",
-          "title": "Grupo Águia Branca lança Flex Passagens e aposta no atendimento humano para transformar experiência digital no transporte rodoviário",
-          "link": "https://www.qualviagem.com.br/grupo-aguia-branca-lanca-flex-passagens-e-aposta-no-atendimento-humano-para-transformar-experiencia-digital-no-transporte-rodoviario/",
-          "published": "2026-05-28T21:59:56",
-          "discovered_at": "2026-05-28T22:28:03.781922",
-          "summary": "Nova plataforma da Divisão Passageiros reúne mais de 200 viações parceiras e amplia presença da Viação Águia Branca no mercado digital de mobilidade rodoviária&#160; O Grupo Águia Branca lançou nesta sexta-feira, 22 de maio, o Flex Passagens, nova plataforma de...\nO post Grupo Águia Branca lança Fle"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148529",
-          "feed_name": "Qual Viagem",
-          "title": "Tauá aposta em cashback para ampliar recorrência e impulsionar nova fase em João Pessoa",
-          "link": "https://www.qualviagem.com.br/taua-aposta-em-cashback-para-ampliar-recorrencia-e-impulsionar-nova-fase-em-joao-pessoa/",
-          "published": "2026-05-28T21:36:05",
-          "discovered_at": "2026-05-28T22:28:03.782270",
-          "summary": "Nova frente do grupo oferece até 12% de retorno em hospedagens e reforça estratégia de relacionamento em meio à abertura do Tauá João Pessoa O Grupo Tauá deu mais um passo em sua estratégia de relacionamento com clientes em meio...\nO post Tauá aposta em cashback para ampliar recorrência e impulsiona"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=542178",
+      "feed_name": "Passageiro de Primeira",
+      "title": "BTG inicia parceria com o TAP Miles&Go e oferece 20% de bônus nas transferências",
+      "link": "https://passageirodeprimeira.com/btg-inicia-parceria-com-o-tap-milesgo-e-oferece-20-de-bonus-nas-transferencias/",
+      "published": "2026-06-17T13:20:57",
+      "discovered_at": "2026-06-17T14:23:37.694095",
+      "summary": "O TAP Miles&#038;Go está oferecendo 20% de bônus nas transferências de pontos do BTG. \nO post BTG inicia parceria com o TAP Miles&#038;Go e oferece 20% de bônus nas transferências apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148928",
+      "feed_name": "Qual Viagem",
+      "title": "Minor Hotels anuncia novo resort de luxo no Rio Grande do Norte",
+      "link": "https://www.qualviagem.com.br/minor-hotels-anuncia-novo-resort-de-luxo-no-rio-grande-do-norte/",
+      "published": "2026-06-17T13:53:30",
+      "discovered_at": "2026-06-17T14:23:41.026902",
+      "summary": "A intocada Baía Formosa, no Rio Grande do Norte, será em breve um novo destino de luxo no Nordeste com a inauguração do Aventora Baía Formosa Resort, Minor Reserve Collection. Previsto para ser lançado em 2028, esta será a primeira...\nO post Minor Hotels anuncia novo resort de luxo no Rio Grande do "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=541020",
       "feed_name": "Passageiro de Primeira",
@@ -952,24 +989,6 @@
       "published": "2026-05-29T17:35:18",
       "discovered_at": "2026-05-29T18:27:29.553565",
       "summary": "O Dia dos Namorados está chegando e muitos casais já estão em busca de destinos que combinem conforto e romantismo para uma viagem a dois. Em Amparo, no interior de São Paulo, a Fazenda Sant’Anna Hotel and Wellness surge como...\nO post Dia dos Namorados: Fazenda Sant&#8217;Anna Hotel propõe experiên"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148532",
-      "feed_name": "Qual Viagem",
-      "title": "Grupo Águia Branca lança Flex Passagens e aposta no atendimento humano para transformar experiência digital no transporte rodoviário",
-      "link": "https://www.qualviagem.com.br/grupo-aguia-branca-lanca-flex-passagens-e-aposta-no-atendimento-humano-para-transformar-experiencia-digital-no-transporte-rodoviario/",
-      "published": "2026-05-28T21:59:56",
-      "discovered_at": "2026-05-28T22:28:03.781922",
-      "summary": "Nova plataforma da Divisão Passageiros reúne mais de 200 viações parceiras e amplia presença da Viação Águia Branca no mercado digital de mobilidade rodoviária&#160; O Grupo Águia Branca lançou nesta sexta-feira, 22 de maio, o Flex Passagens, nova plataforma de...\nO post Grupo Águia Branca lança Fle"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148529",
-      "feed_name": "Qual Viagem",
-      "title": "Tauá aposta em cashback para ampliar recorrência e impulsionar nova fase em João Pessoa",
-      "link": "https://www.qualviagem.com.br/taua-aposta-em-cashback-para-ampliar-recorrencia-e-impulsionar-nova-fase-em-joao-pessoa/",
-      "published": "2026-05-28T21:36:05",
-      "discovered_at": "2026-05-28T22:28:03.782270",
-      "summary": "Nova frente do grupo oferece até 12% de retorno em hospedagens e reforça estratégia de relacionamento em meio à abertura do Tauá João Pessoa O Grupo Tauá deu mais um passo em sua estratégia de relacionamento com clientes em meio...\nO post Tauá aposta em cashback para ampliar recorrência e impulsiona"
     }
   ]
 }
