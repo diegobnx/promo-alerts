@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-06-17T14:23:56.060673",
+  "last_run": "2026-06-17T18:09:35.402666",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-17T14:23:56.060673",
+    "run_at": "2026-06-17T18:09:35.402666",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=542178",
-        "feed_name": "Passageiro de Primeira",
-        "title": "BTG inicia parceria com o TAP Miles&Go e oferece 20% de bônus nas transferências",
-        "link": "https://passageirodeprimeira.com/btg-inicia-parceria-com-o-tap-milesgo-e-oferece-20-de-bonus-nas-transferencias/",
-        "published": "2026-06-17T13:20:57",
-        "discovered_at": "2026-06-17T14:23:37.694095",
-        "summary": "O TAP Miles&#038;Go está oferecendo 20% de bônus nas transferências de pontos do BTG. \nO post BTG inicia parceria com o TAP Miles&#038;Go e oferece 20% de bônus nas transferências apareceu primeiro em Passageiro de Primeira."
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148928",
-        "feed_name": "Qual Viagem",
-        "title": "Minor Hotels anuncia novo resort de luxo no Rio Grande do Norte",
-        "link": "https://www.qualviagem.com.br/minor-hotels-anuncia-novo-resort-de-luxo-no-rio-grande-do-norte/",
-        "published": "2026-06-17T13:53:30",
-        "discovered_at": "2026-06-17T14:23:41.026902",
-        "summary": "A intocada Baía Formosa, no Rio Grande do Norte, será em breve um novo destino de luxo no Nordeste com a inauguração do Aventora Baía Formosa Resort, Minor Reserve Collection. Previsto para ser lançado em 2028, esta será a primeira...\nO post Minor Hotels anuncia novo resort de luxo no Rio Grande do "
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-17T18:09:35.402666",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-17T14:23:56.060673",
       "destination": "Itália",
@@ -709,14 +698,6 @@
           "summary": "O Dia dos Namorados está chegando e muitos casais já estão em busca de destinos que combinem conforto e romantismo para uma viagem a dois. Em Amparo, no interior de São Paulo, a Fazenda Sant’Anna Hotel and Wellness surge como...\nO post Dia dos Namorados: Fazenda Sant&#8217;Anna Hotel propõe experiên"
         }
       ]
-    },
-    {
-      "run_at": "2026-05-29T13:54:13.345388",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
