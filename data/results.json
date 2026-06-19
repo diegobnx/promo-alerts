@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-19T17:48:38.529453",
+  "last_run": "2026-06-19T21:58:45.694107",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-19T17:48:38.529453",
+    "run_at": "2026-06-19T21:58:45.694107",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-19T21:58:45.694107",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-19T17:48:38.529453",
       "destination": "Itália",
@@ -689,24 +697,6 @@
           "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
         }
       ]
-    },
-    {
-      "run_at": "2026-06-01T16:32:37.980976",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537871",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Santander anuncia incorporação da Esfera",
-          "link": "https://passageirodeprimeira.com/santander-anuncia-incorporacao-da-esfera/",
-          "published": "2026-06-01T15:35:51",
-          "discovered_at": "2026-06-01T16:32:20.048006",
-          "summary": "Em fato relevante divulgado ao mercado, o Santander informou a incorporação da Esfera, programa de fidelidade do Grupo, que deixará de existir como empresa independente.\nO post Santander anuncia incorporação da Esfera apareceu primeiro em Passageiro de Primeira."
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -979,15 +969,6 @@
       "published": "2026-06-01T21:08:07",
       "discovered_at": "2026-06-01T22:57:30.929884",
       "summary": "Cachoeiras de Macacu, município do interior do Rio de Janeiro, ganha um novo capítulo em sua história a partir deste ano. Um trabalho de preservação das ruínas de uma igreja construída no século 18 promete ser um símbolo nacional de...\nO post Ruínas de igreja do século 18 são símbolo de preservação "
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537871",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Santander anuncia incorporação da Esfera",
-      "link": "https://passageirodeprimeira.com/santander-anuncia-incorporacao-da-esfera/",
-      "published": "2026-06-01T15:35:51",
-      "discovered_at": "2026-06-01T16:32:20.048006",
-      "summary": "Em fato relevante divulgado ao mercado, o Santander informou a incorporação da Esfera, programa de fidelidade do Grupo, que deixará de existir como empresa independente.\nO post Santander anuncia incorporação da Esfera apareceu primeiro em Passageiro de Primeira."
     }
   ]
 }
