@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-20T15:02:51.412042",
+  "last_run": "2026-06-20T22:04:54.353913",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-20T15:02:51.412042",
+    "run_at": "2026-06-20T22:04:54.353913",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-20T22:04:54.353913",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-20T15:02:51.412042",
       "destination": "Itália",
@@ -670,14 +678,6 @@
           "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-02T14:46:00.309935",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
