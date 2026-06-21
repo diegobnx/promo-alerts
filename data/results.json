@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-21T15:10:40.697274",
+  "last_run": "2026-06-21T22:13:34.411643",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-21T15:10:40.697274",
+    "run_at": "2026-06-21T22:13:34.411643",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-21T22:13:34.411643",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-21T15:10:40.697274",
       "destination": "Itália",
@@ -632,33 +640,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-02T22:55:52.639730",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538318",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais",
-          "link": "https://passageirodeprimeira.com/esfera-oferece-7-pontos-por-real-gasto-na-gama-italy-extra-mais/",
-          "published": "2026-06-02T22:50:13",
-          "discovered_at": "2026-06-02T22:55:36.402178",
-          "summary": "A Esfera está oferecendo até 7 pontos por real gasto na Gama Italy, Extra e mais. As ofertas contam com prazo de validade e pontuações diferentes.\nO post Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais apareceu primeiro em Passageiro de Primeira."
-        },
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=617356",
-          "feed_name": "Melhores Destinos",
-          "title": "Último dia! Cupom 20% OFF em passagens aéreas da ITA Airways para Europa, Ásia ou África",
-          "link": "https://www.melhoresdestinos.com.br/promocao/cupom-passagens-ita-junho-2026",
-          "published": "2026-06-02T16:52:53",
-          "discovered_at": "2026-06-02T22:55:37.890409",
-          "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -877,24 +858,6 @@
       "published": "2026-06-03T21:59:12",
       "discovered_at": "2026-06-03T19:42:32.695156",
       "summary": "Hotel inaugura sua área de eventos pra ampliar público final Águas de Lindóia está localizada a 190 km de São Paulo e faz parte do Circuito das Águas Paulista. Entre as principais atrações da cidade estão os jardins projetados por...\nO post Grande Hotel Glória é referência arquitetônica e gastronômi"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538318",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais",
-      "link": "https://passageirodeprimeira.com/esfera-oferece-7-pontos-por-real-gasto-na-gama-italy-extra-mais/",
-      "published": "2026-06-02T22:50:13",
-      "discovered_at": "2026-06-02T22:55:36.402178",
-      "summary": "A Esfera está oferecendo até 7 pontos por real gasto na Gama Italy, Extra e mais. As ofertas contam com prazo de validade e pontuações diferentes.\nO post Esfera oferece até 7 pontos por real gasto na Gama Italy, Extra e mais apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=617356",
-      "feed_name": "Melhores Destinos",
-      "title": "Último dia! Cupom 20% OFF em passagens aéreas da ITA Airways para Europa, Ásia ou África",
-      "link": "https://www.melhoresdestinos.com.br/promocao/cupom-passagens-ita-junho-2026",
-      "published": "2026-06-02T16:52:53",
-      "discovered_at": "2026-06-02T22:55:37.890409",
-      "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
     }
   ]
 }
