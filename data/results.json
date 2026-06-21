@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-20T22:04:54.353913",
+  "last_run": "2026-06-21T15:10:40.697274",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-20T22:04:54.353913",
+    "run_at": "2026-06-21T15:10:40.697274",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-21T15:10:40.697274",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-20T22:04:54.353913",
       "destination": "Itália",
@@ -651,33 +659,6 @@
           "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-02T19:37:18.682017",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
-          "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
-          "published": "2026-06-02T17:40:53",
-          "discovered_at": "2026-06-02T19:36:58.810124",
-          "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
-        },
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
-          "feed_name": "Pontos pra Voar",
-          "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
-          "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
-          "published": "2026-06-02T19:00:43",
-          "discovered_at": "2026-06-02T19:37:08.505348",
-          "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -914,24 +895,6 @@
       "published": "2026-06-02T16:52:53",
       "discovered_at": "2026-06-02T22:55:37.890409",
       "summary": "Corre que hoje é o último dia para você aproveitar a excelente promoção da ITA Airways! Com o cupom ITALY você ganha 20% de desconto em passagens aéreas saindo de São Paulo e do Rio de Janeiro para vários destinos na Europa, Ásia e África.  A promoção vale para compras realizadas diretamente no site"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=537621",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Flying Blue anuncia 25% de desconto em passagens da Air France e KLM",
-      "link": "https://passageirodeprimeira.com/flying-blue-anuncia-deconto-passagens-air-france-klm/",
-      "published": "2026-06-02T17:40:53",
-      "discovered_at": "2026-06-02T19:36:58.810124",
-      "summary": "O programa Flying Blue da Air France-KLM, acaba de publicar uma nova lista de promoções para a emissão de passagens Promo Rewards durante o mês de junho e com saídas até novembro de 2026. Estão incluídos voos da/para a Europa operados pela Air France e KLM, além de conexões dentro da Europa (ida ou "
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=125880",
-      "feed_name": "Pontos pra Voar",
-      "title": "Resgate passagens nacionais a partir de 4.439 milhas LATAM Pass + taxas",
-      "link": "https://pontospravoar.com/resgate-passagens-nacionais-partir-4439-milhas-latam-pass-taxas/",
-      "published": "2026-06-02T19:00:43",
-      "discovered_at": "2026-06-02T19:37:08.505348",
-      "summary": "Pensando em emitir passagens com suas milhas? Desta vez, reunimos trechos nacionais a partir de 4.439 milhas LATAM Pass + taxas, oferecendo alternativas para quem deseja explorar novos destinos sem comprometer o orçamento. Confira os detalhes e aproveite. Passagens nacionais no LATAM Pass Para garan"
     }
   ]
 }
