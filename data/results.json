@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-21T22:13:34.411643",
+  "last_run": "2026-06-22T15:47:54.599105",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-21T22:13:34.411643",
+    "run_at": "2026-06-22T15:47:54.599105",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-22T15:47:54.599105",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-21T22:13:34.411643",
       "destination": "Itália",
@@ -632,14 +640,6 @@
           "summary": "Hotel inaugura sua área de eventos pra ampliar público final Águas de Lindóia está localizada a 190 km de São Paulo e faz parte do Circuito das Águas Paulista. Entre as principais atrações da cidade estão os jardins projetados por...\nO post Grande Hotel Glória é referência arquitetônica e gastronômi"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-03T15:25:31.820901",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
