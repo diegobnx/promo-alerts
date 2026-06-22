@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-22T15:47:54.599105",
+  "last_run": "2026-06-22T19:19:12.617393",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-22T15:47:54.599105",
+    "run_at": "2026-06-22T19:19:12.617393",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-22T19:19:12.617393",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-22T15:47:54.599105",
       "destination": "Itália",
@@ -622,24 +630,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-03T19:42:48.508865",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148679",
-          "feed_name": "Qual Viagem",
-          "title": "Grande Hotel Glória é referência arquitetônica e gastronômica em Águas de Lindóia",
-          "link": "https://www.qualviagem.com.br/grande-hotel-gloria-e-referencia-arquitetonica-e-gastronomica-em-aguas-de-lindoia/",
-          "published": "2026-06-03T21:59:12",
-          "discovered_at": "2026-06-03T19:42:32.695156",
-          "summary": "Hotel inaugura sua área de eventos pra ampliar público final Águas de Lindóia está localizada a 190 km de São Paulo e faz parte do Circuito das Águas Paulista. Entre as principais atrações da cidade estão os jardins projetados por...\nO post Grande Hotel Glória é referência arquitetônica e gastronômi"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -849,15 +839,6 @@
       "published": "2026-06-05T12:16:16",
       "discovered_at": "2026-06-05T22:10:38.848495",
       "summary": "Poucos lugares no mundo oferecem tanta diversidade quanto a Itália. Em uma mesma viagem, você pode explorar cidades centenárias, se perder por vilarejos, admirar a natureza, relaxar à beira-mar e ainda provar uma das culinárias mais incríveis do mundo. Aproveite que encontramos passagens aéreas para"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148679",
-      "feed_name": "Qual Viagem",
-      "title": "Grande Hotel Glória é referência arquitetônica e gastronômica em Águas de Lindóia",
-      "link": "https://www.qualviagem.com.br/grande-hotel-gloria-e-referencia-arquitetonica-e-gastronomica-em-aguas-de-lindoia/",
-      "published": "2026-06-03T21:59:12",
-      "discovered_at": "2026-06-03T19:42:32.695156",
-      "summary": "Hotel inaugura sua área de eventos pra ampliar público final Águas de Lindóia está localizada a 190 km de São Paulo e faz parte do Circuito das Águas Paulista. Entre as principais atrações da cidade estão os jardins projetados por...\nO post Grande Hotel Glória é referência arquitetônica e gastronômi"
     }
   ]
 }
