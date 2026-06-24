@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-24T13:12:52.873931",
+  "last_run": "2026-06-24T17:48:30.218516",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-24T13:12:52.873931",
+    "run_at": "2026-06-24T17:48:30.218516",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-24T17:48:30.218516",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-24T13:12:52.873931",
       "destination": "Itália",
@@ -641,14 +649,6 @@
           "summary": "Poucos lugares no mundo oferecem tanta diversidade quanto a Itália. Em uma mesma viagem, você pode explorar cidades centenárias, se perder por vilarejos, admirar a natureza, relaxar à beira-mar e ainda provar uma das culinárias mais incríveis do mundo. Aproveite que encontramos passagens aéreas para"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-05T17:48:26.146334",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
