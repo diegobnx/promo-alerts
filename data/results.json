@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-06-25T18:04:28.235056",
+  "last_run": "2026-06-25T22:16:10.828595",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-25T18:04:28.235056",
+    "run_at": "2026-06-25T22:16:10.828595",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
-        "feed_name": "Qual Viagem",
-        "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
-        "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
-        "published": "2026-06-25T20:19:07",
-        "discovered_at": "2026-06-25T18:04:13.347320",
-        "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545296",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Livelo oferece até 35% de desconto em voos para Itália e Suíça",
+        "link": "https://passageirodeprimeira.com/livelo-oferece-ate-35-de-desconto-em-voos-para-italia-e-suica/",
+        "published": "2026-06-25T21:10:26",
+        "discovered_at": "2026-06-25T22:15:52.764827",
+        "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-25T22:16:10.828595",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545296",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Livelo oferece até 35% de desconto em voos para Itália e Suíça",
+          "link": "https://passageirodeprimeira.com/livelo-oferece-ate-35-de-desconto-em-voos-para-italia-e-suica/",
+          "published": "2026-06-25T21:10:26",
+          "discovered_at": "2026-06-25T22:15:52.764827",
+          "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-25T18:04:28.235056",
       "destination": "Itália",
@@ -641,27 +659,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-07T14:51:15.816480",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538679",
-          "feed_name": "Passageiro de Primeira",
-          "title": "GOL retoma quarta frequência semanal para a Venezuela",
-          "link": "https://passageirodeprimeira.com/gol-retoma-quarta-frequencia-semanal-venezuela/",
-          "published": "2026-06-07T14:42:52",
-          "discovered_at": "2026-06-07T14:50:59.442447",
-          "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545296",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Livelo oferece até 35% de desconto em voos para Itália e Suíça",
+      "link": "https://passageirodeprimeira.com/livelo-oferece-ate-35-de-desconto-em-voos-para-italia-e-suica/",
+      "published": "2026-06-25T21:10:26",
+      "discovered_at": "2026-06-25T22:15:52.764827",
+      "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
       "feed_name": "Qual Viagem",
@@ -877,15 +886,6 @@
       "published": "2026-06-08T19:56:55",
       "discovered_at": "2026-06-08T18:19:58.193960",
       "summary": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — Sebrae — inovou mais uma vez ao transformar reconhecimento profissional em uma experiência internacional de capacitação e encantamento. Os vencedores do programa “Histórias de Quem Atende” participaram, em Orlando,...\nO post Sebrae transfo"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=538679",
-      "feed_name": "Passageiro de Primeira",
-      "title": "GOL retoma quarta frequência semanal para a Venezuela",
-      "link": "https://passageirodeprimeira.com/gol-retoma-quarta-frequencia-semanal-venezuela/",
-      "published": "2026-06-07T14:42:52",
-      "discovered_at": "2026-06-07T14:50:59.442447",
-      "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
     }
   ]
 }
