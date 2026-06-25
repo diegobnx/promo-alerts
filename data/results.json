@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-06-25T13:12:32.029806",
+  "last_run": "2026-06-25T18:04:28.235056",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-25T13:12:32.029806",
+    "run_at": "2026-06-25T18:04:28.235056",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544925",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Iberia Club começa a creditar o bônus de transferência da campanha com a Esfera",
-        "link": "https://passageirodeprimeira.com/iberia-club-comeca-a-creditar-o-bonus-de-transferencia-da-campanha-com-a-esfera-6/",
-        "published": "2026-06-25T12:00:04",
-        "discovered_at": "2026-06-25T13:12:16.049748",
-        "summary": "As milhas bônus do programa Iberia Club, da última campanha com a Esfera, começam a ser creditadas. \nO post Iberia Club começa a creditar o bônus de transferência da campanha com a Esfera apareceu primeiro em Passageiro de Primeira."
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
+        "feed_name": "Qual Viagem",
+        "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
+        "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
+        "published": "2026-06-25T20:19:07",
+        "discovered_at": "2026-06-25T18:04:13.347320",
+        "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-25T18:04:28.235056",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
+          "feed_name": "Qual Viagem",
+          "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
+          "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
+          "published": "2026-06-25T20:19:07",
+          "discovered_at": "2026-06-25T18:04:13.347320",
+          "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
+        }
+      ]
+    },
     {
       "run_at": "2026-06-25T13:12:32.029806",
       "destination": "Itália",
@@ -641,17 +659,18 @@
           "summary": "A GOL vai retomar a quarta frequência semanal da rota entre São Paulo (GRU) e Caracas (CCS), na Venezuela. O aumento, passa a valer a partir de 4 de julho e as passagens já estão disponíveis para a compra.\nO post GOL retoma quarta frequência semanal para a Venezuela apareceu primeiro em Passageiro d"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-06T22:02:18.091162",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
+      "feed_name": "Qual Viagem",
+      "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
+      "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
+      "published": "2026-06-25T20:19:07",
+      "discovered_at": "2026-06-25T18:04:13.347320",
+      "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544925",
       "feed_name": "Passageiro de Primeira",
