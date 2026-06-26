@@ -1,25 +1,61 @@
 {
-  "last_run": "2026-06-26T17:41:22.596349",
+  "last_run": "2026-06-26T22:04:33.006043",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-26T17:41:22.596349",
+    "run_at": "2026-06-26T22:04:33.006043",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
+    "posts_found": 2,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
-        "feed_name": "Qual Viagem",
-        "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
-        "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
-        "published": "2026-06-26T20:13:09",
-        "discovered_at": "2026-06-26T17:41:06.881929",
-        "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545707",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Confira 4 promoções para transferência de pontos com bônus vigentes hoje",
+        "link": "https://passageirodeprimeira.com/confira-4-promocoes-para-transferencia-de-pontos-com-bonus-vigentes-hoje/",
+        "published": "2026-06-26T20:30:04",
+        "discovered_at": "2026-06-26T22:04:16.553167",
+        "summary": "Confira as promoções de transferência bonificada que estão em vigência nesta sexta-feira para maximizar seu saldo!\nO post Confira 4 promoções para transferência de pontos com bônus vigentes hoje apareceu primeiro em Passageiro de Primeira."
+      },
+      {
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=622238",
+        "feed_name": "Melhores Destinos",
+        "title": "Voos Nordeste-Europa! Itália, França e Portugal a partir de R$ 3.397 saindo de Fortaleza, Recife e Salvador e mais cidades",
+        "link": "https://www.melhoresdestinos.com.br/promocao/voos-nordeste-europa-3397",
+        "published": "2026-06-26T18:22:18",
+        "discovered_at": "2026-06-26T22:04:17.839403",
+        "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-26T22:04:33.006043",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545707",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Confira 4 promoções para transferência de pontos com bônus vigentes hoje",
+          "link": "https://passageirodeprimeira.com/confira-4-promocoes-para-transferencia-de-pontos-com-bonus-vigentes-hoje/",
+          "published": "2026-06-26T20:30:04",
+          "discovered_at": "2026-06-26T22:04:16.553167",
+          "summary": "Confira as promoções de transferência bonificada que estão em vigência nesta sexta-feira para maximizar seu saldo!\nO post Confira 4 promoções para transferência de pontos com bônus vigentes hoje apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=622238",
+          "feed_name": "Melhores Destinos",
+          "title": "Voos Nordeste-Europa! Itália, França e Portugal a partir de R$ 3.397 saindo de Fortaleza, Recife e Salvador e mais cidades",
+          "link": "https://www.melhoresdestinos.com.br/promocao/voos-nordeste-europa-3397",
+          "published": "2026-06-26T18:22:18",
+          "discovered_at": "2026-06-26T22:04:17.839403",
+          "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
+        }
+      ]
+    },
     {
       "run_at": "2026-06-26T17:41:22.596349",
       "destination": "Itália",
@@ -661,45 +697,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-08T18:20:13.628577",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 3,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148733",
-          "feed_name": "Qual Viagem",
-          "title": "WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados",
-          "link": "https://www.qualviagem.com.br/wz-hotel-jardins-lanca-pacote-romantico-para-o-dia-dos-namorados/",
-          "published": "2026-06-08T20:59:12",
-          "discovered_at": "2026-06-08T18:19:58.193005",
-          "summary": "Em um dos endereços mais prestigiados de São Paulo, o WZ Hotel Jardins é o lugar certo para celebrar o Dia dos Namorados com uma experiência completa. De forma exclusiva entre os dias 11 e 13 de junho, está disponível...\nO post WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados aparece"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148723",
-          "feed_name": "Qual Viagem",
-          "title": "Monte Verde aposta no clima de serra para impulsionar turismo romântico",
-          "link": "https://www.qualviagem.com.br/monte-verde-aposta-no-clima-de-serra-para-impulsionar-turismo-romantico/",
-          "published": "2026-06-08T20:34:59",
-          "discovered_at": "2026-06-08T18:19:58.193716",
-          "summary": "Para quem deixou os planos para a última hora, ainda há tempo de organizar uma viagem a dois e fazer algo especial com seu par. Monte Verde, localizado em Camanducaia, na Serra da Mantiqueira, é o destino ideal para escapadas...\nO post Monte Verde aposta no clima de serra para impulsionar turismo ro"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148718",
-          "feed_name": "Qual Viagem",
-          "title": "Sebrae transforma reconhecimento profissional em imersão internacional de excelência na Disney",
-          "link": "https://www.qualviagem.com.br/sebrae-transforma-reconhecimento-profissional-em-imersao-internacional-de-excelencia-na-disney/",
-          "published": "2026-06-08T19:56:55",
-          "discovered_at": "2026-06-08T18:19:58.193960",
-          "summary": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — Sebrae — inovou mais uma vez ao transformar reconhecimento profissional em uma experiência internacional de capacitação e encantamento. Os vencedores do programa “Histórias de Quem Atende” participaram, em Orlando,...\nO post Sebrae transfo"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545707",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Confira 4 promoções para transferência de pontos com bônus vigentes hoje",
+      "link": "https://passageirodeprimeira.com/confira-4-promocoes-para-transferencia-de-pontos-com-bonus-vigentes-hoje/",
+      "published": "2026-06-26T20:30:04",
+      "discovered_at": "2026-06-26T22:04:16.553167",
+      "summary": "Confira as promoções de transferência bonificada que estão em vigência nesta sexta-feira para maximizar seu saldo!\nO post Confira 4 promoções para transferência de pontos com bônus vigentes hoje apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=622238",
+      "feed_name": "Melhores Destinos",
+      "title": "Voos Nordeste-Europa! Itália, França e Portugal a partir de R$ 3.397 saindo de Fortaleza, Recife e Salvador e mais cidades",
+      "link": "https://www.melhoresdestinos.com.br/promocao/voos-nordeste-europa-3397",
+      "published": "2026-06-26T18:22:18",
+      "discovered_at": "2026-06-26T22:04:17.839403",
+      "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
       "feed_name": "Qual Viagem",
@@ -933,33 +951,6 @@
       "published": "2026-06-09T13:00:57",
       "discovered_at": "2026-06-09T13:39:03.363301",
       "summary": "Quer viajar pelo Brasil sem comprometer o saldo de pontos?No Alerta PPV de hoje, nossa equipe encontrou 20 oportunidades de emissões nacionais a partir de 3.900 pontos no Azul Fidelidade + taxas. Confira os trechos selecionados e aproveite para planejar sua próxima viagem gastando menos pontos! Pass"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148733",
-      "feed_name": "Qual Viagem",
-      "title": "WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados",
-      "link": "https://www.qualviagem.com.br/wz-hotel-jardins-lanca-pacote-romantico-para-o-dia-dos-namorados/",
-      "published": "2026-06-08T20:59:12",
-      "discovered_at": "2026-06-08T18:19:58.193005",
-      "summary": "Em um dos endereços mais prestigiados de São Paulo, o WZ Hotel Jardins é o lugar certo para celebrar o Dia dos Namorados com uma experiência completa. De forma exclusiva entre os dias 11 e 13 de junho, está disponível...\nO post WZ Hotel Jardins lança pacote romântico para o Dia dos Namorados aparece"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148723",
-      "feed_name": "Qual Viagem",
-      "title": "Monte Verde aposta no clima de serra para impulsionar turismo romântico",
-      "link": "https://www.qualviagem.com.br/monte-verde-aposta-no-clima-de-serra-para-impulsionar-turismo-romantico/",
-      "published": "2026-06-08T20:34:59",
-      "discovered_at": "2026-06-08T18:19:58.193716",
-      "summary": "Para quem deixou os planos para a última hora, ainda há tempo de organizar uma viagem a dois e fazer algo especial com seu par. Monte Verde, localizado em Camanducaia, na Serra da Mantiqueira, é o destino ideal para escapadas...\nO post Monte Verde aposta no clima de serra para impulsionar turismo ro"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148718",
-      "feed_name": "Qual Viagem",
-      "title": "Sebrae transforma reconhecimento profissional em imersão internacional de excelência na Disney",
-      "link": "https://www.qualviagem.com.br/sebrae-transforma-reconhecimento-profissional-em-imersao-internacional-de-excelencia-na-disney/",
-      "published": "2026-06-08T19:56:55",
-      "discovered_at": "2026-06-08T18:19:58.193960",
-      "summary": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — Sebrae — inovou mais uma vez ao transformar reconhecimento profissional em uma experiência internacional de capacitação e encantamento. Os vencedores do programa “Histórias de Quem Atende” participaram, em Orlando,...\nO post Sebrae transfo"
     }
   ]
 }
