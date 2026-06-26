@@ -1,43 +1,43 @@
 {
-  "last_run": "2026-06-26T13:04:50.357145",
+  "last_run": "2026-06-26T17:41:22.596349",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-26T13:04:50.357145",
+    "run_at": "2026-06-26T17:41:22.596349",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545295",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Wyndham Rewards anuncia mudanças tabela de resgates de hospedagens",
-        "link": "https://passageirodeprimeira.com/wyndham-rewards-anuncia-mudancas-tabela-de-resgates-de-hospedagens/",
-        "published": "2026-06-26T10:40:57",
-        "discovered_at": "2026-06-26T13:04:30.224210",
-        "summary": "O Wyndham Rewards, programa de fidelidade da rede hoteleira Wyndham, anunciou mudanças em sua tabela de resgates de hospedagens com pontos.\nO post Wyndham Rewards anuncia mudanças tabela de resgates de hospedagens apareceu primeiro em Passageiro de Primeira."
-      },
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=621669",
-        "feed_name": "Melhores Destinos",
-        "title": "Após autorização da Anac, companhia aérea volta a prometer voos do Brasil para a Nigéria",
-        "link": "https://www.melhoresdestinos.com.br/voos-sao-paulo-lagos-nigeria-air-peace.html",
-        "published": "2026-06-24T17:56:31",
-        "discovered_at": "2026-06-26T13:04:31.545238",
-        "summary": "A companhia aérea Air Peace, da Nigéria, voltou a prometer voos diretos entre o Aeroporto Internacional de Guarulhos, em São Paulo, e Lagos, maior cidade do país africano. Em uma postagem feita no início da tarde de hoje nas redes sociais, a empresa disse que a operação começará &#8220;em breve&#822"
-      },
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=128554",
-        "feed_name": "Pontos pra Voar",
-        "title": "Itália e outros países europeus podem suspender o EES no verão para evitar colapso nos aeroportos",
-        "link": "https://pontospravoar.com/italia-e-outros-paises-europeus-podem-suspender-o-ees-no-verao-para-evitar-colapso-nos-aeroportos/",
-        "published": "2026-06-26T12:30:53",
-        "discovered_at": "2026-06-26T13:04:38.828542",
-        "summary": "A Itália e outros países da Europa podem suspender temporariamente o EES durante os meses de verão para evitar filas ainda maiores nos aeroportos. O alerta veio da administração dos aeroportos de Roma e reacende a preocupação com o novo sistema de controle migratório da União Europeia, que já provoc"
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
+        "feed_name": "Qual Viagem",
+        "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
+        "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
+        "published": "2026-06-26T20:13:09",
+        "discovered_at": "2026-06-26T17:41:06.881929",
+        "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-26T17:41:22.596349",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
+          "feed_name": "Qual Viagem",
+          "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
+          "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
+          "published": "2026-06-26T20:13:09",
+          "discovered_at": "2026-06-26T17:41:06.881929",
+          "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-26T13:04:50.357145",
       "destination": "Itália",
@@ -697,17 +697,18 @@
           "summary": "O Serviço Brasileiro de Apoio às Micro e Pequenas Empresas — Sebrae — inovou mais uma vez ao transformar reconhecimento profissional em uma experiência internacional de capacitação e encantamento. Os vencedores do programa “Histórias de Quem Atende” participaram, em Orlando,...\nO post Sebrae transfo"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-08T14:43:15.565233",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
+      "feed_name": "Qual Viagem",
+      "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
+      "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
+      "published": "2026-06-26T20:13:09",
+      "discovered_at": "2026-06-26T17:41:06.881929",
+      "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545295",
       "feed_name": "Passageiro de Primeira",
