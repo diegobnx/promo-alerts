@@ -1,34 +1,43 @@
 {
-  "last_run": "2026-06-26T22:04:33.006043",
+  "last_run": "2026-06-27T14:28:17.368816",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-26T22:04:33.006043",
+    "run_at": "2026-06-27T14:28:17.368816",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545707",
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
         "feed_name": "Passageiro de Primeira",
-        "title": "Confira 4 promoções para transferência de pontos com bônus vigentes hoje",
-        "link": "https://passageirodeprimeira.com/confira-4-promocoes-para-transferencia-de-pontos-com-bonus-vigentes-hoje/",
-        "published": "2026-06-26T20:30:04",
-        "discovered_at": "2026-06-26T22:04:16.553167",
-        "summary": "Confira as promoções de transferência bonificada que estão em vigência nesta sexta-feira para maximizar seu saldo!\nO post Confira 4 promoções para transferência de pontos com bônus vigentes hoje apareceu primeiro em Passageiro de Primeira."
-      },
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=622238",
-        "feed_name": "Melhores Destinos",
-        "title": "Voos Nordeste-Europa! Itália, França e Portugal a partir de R$ 3.397 saindo de Fortaleza, Recife e Salvador e mais cidades",
-        "link": "https://www.melhoresdestinos.com.br/promocao/voos-nordeste-europa-3397",
-        "published": "2026-06-26T18:22:18",
-        "discovered_at": "2026-06-26T22:04:17.839403",
-        "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
+        "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
+        "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
+        "published": "2026-06-27T14:26:39",
+        "discovered_at": "2026-06-27T14:27:59.677931",
+        "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-06-27T14:28:17.368816",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
+          "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
+          "published": "2026-06-27T14:26:39",
+          "discovered_at": "2026-06-27T14:27:59.677931",
+          "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-26T22:04:33.006043",
       "destination": "Itália",
@@ -689,17 +698,18 @@
           "summary": "Quer viajar pelo Brasil sem comprometer o saldo de pontos?No Alerta PPV de hoje, nossa equipe encontrou 20 oportunidades de emissões nacionais a partir de 3.900 pontos no Azul Fidelidade + taxas. Confira os trechos selecionados e aproveite para planejar sua próxima viagem gastando menos pontos! Pass"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-08T22:20:05.210783",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
+      "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
+      "published": "2026-06-27T14:26:39",
+      "discovered_at": "2026-06-27T14:27:59.677931",
+      "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545707",
       "feed_name": "Passageiro de Primeira",
