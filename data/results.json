@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-06-27T14:28:17.368816",
+  "last_run": "2026-06-27T22:01:29.235628",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-27T14:28:17.368816",
+    "run_at": "2026-06-27T22:01:29.235628",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
-        "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
-        "published": "2026-06-27T14:26:39",
-        "discovered_at": "2026-06-27T14:27:59.677931",
-        "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-27T22:01:29.235628",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-27T14:28:17.368816",
       "destination": "Itália",
@@ -680,24 +678,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-09T13:39:12.797171",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=126273",
-          "feed_name": "Pontos pra Voar",
-          "title": "Alerta de passagens PPV! Confira 20 oportunidades nacionais a partir de 3.900 pontos Azul Fidelidade",
-          "link": "https://pontospravoar.com/alerta-passagens-ppv-confira-20-oportunidades-nacionais-partir-3900-pontos-azul-fidelidade/",
-          "published": "2026-06-09T13:00:57",
-          "discovered_at": "2026-06-09T13:39:03.363301",
-          "summary": "Quer viajar pelo Brasil sem comprometer o saldo de pontos?No Alerta PPV de hoje, nossa equipe encontrou 20 oportunidades de emissões nacionais a partir de 3.900 pontos no Azul Fidelidade + taxas. Confira os trechos selecionados e aproveite para planejar sua próxima viagem gastando menos pontos! Pass"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -952,15 +932,6 @@
       "published": "2026-06-09T22:39:01",
       "discovered_at": "2026-06-09T22:18:24.806096",
       "summary": "J Balvin, Jon Batiste, Toto, Rubén Blades, Gente de Zona e Stephen Marley estão entre as atrações confirmadas para o festival  &#160; A vibrante ilha de Curaçao voltará a se transformar em um grande palco da música internacional com a...\nO post Curaçao North Sea Jazz Festival anuncia edição 2026 com"
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=126273",
-      "feed_name": "Pontos pra Voar",
-      "title": "Alerta de passagens PPV! Confira 20 oportunidades nacionais a partir de 3.900 pontos Azul Fidelidade",
-      "link": "https://pontospravoar.com/alerta-passagens-ppv-confira-20-oportunidades-nacionais-partir-3900-pontos-azul-fidelidade/",
-      "published": "2026-06-09T13:00:57",
-      "discovered_at": "2026-06-09T13:39:03.363301",
-      "summary": "Quer viajar pelo Brasil sem comprometer o saldo de pontos?No Alerta PPV de hoje, nossa equipe encontrou 20 oportunidades de emissões nacionais a partir de 3.900 pontos no Azul Fidelidade + taxas. Confira os trechos selecionados e aproveite para planejar sua próxima viagem gastando menos pontos! Pass"
     }
   ]
 }
