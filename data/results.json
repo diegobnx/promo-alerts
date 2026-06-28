@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-06-27T22:01:29.235628",
+  "last_run": "2026-06-28T14:47:19.659498",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-27T22:01:29.235628",
+    "run_at": "2026-06-28T14:47:19.659498",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-28T14:47:19.659498",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-27T22:01:29.235628",
       "destination": "Itália",
@@ -670,14 +678,6 @@
           "summary": "J Balvin, Jon Batiste, Toto, Rubén Blades, Gente de Zona e Stephen Marley estão entre as atrações confirmadas para o festival  &#160; A vibrante ilha de Curaçao voltará a se transformar em um grande palco da música internacional com a...\nO post Curaçao North Sea Jazz Festival anuncia edição 2026 com"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-09T17:54:28.026310",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
