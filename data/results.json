@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-06-28T14:47:19.659498",
+  "last_run": "2026-06-28T22:00:56.749327",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-28T14:47:19.659498",
+    "run_at": "2026-06-28T22:00:56.749327",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
+        "feed_name": "Pontos pra Voar",
+        "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
+        "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
+        "published": "2026-06-28T20:00:51",
+        "discovered_at": "2026-06-28T22:00:47.097691",
+        "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-06-28T22:00:56.749327",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
+          "feed_name": "Pontos pra Voar",
+          "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
+          "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
+          "published": "2026-06-28T20:00:51",
+          "discovered_at": "2026-06-28T22:00:47.097691",
+          "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
+        }
+      ]
+    },
     {
       "run_at": "2026-06-28T14:47:19.659498",
       "destination": "Itália",
@@ -633,54 +661,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-09T22:18:39.495008",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 4,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=540138",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Voe para Milão a partir de 124 mil pontos Azul ou R$ 1.447 + taxas",
-          "link": "https://passageirodeprimeira.com/voe-para-milao-a-partir-de-124-mil-pontos-azul-ou-r-1-447-taxas/",
-          "published": "2026-06-09T21:30:41",
-          "discovered_at": "2026-06-09T22:18:16.588790",
-          "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Milão (MXP). Os voos são operados pela Air Europa e a emissão pode ser feita a partir de 124.000 pontos Azul + taxas o trecho. Além disso, caso você não tenha pontos para realiza"
-        },
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=618391",
-          "feed_name": "Melhores Destinos",
-          "title": "Itália! Passagens para Roma a partir de R$ 3.814 ida e volta saindo de São Paulo",
-          "link": "https://www.melhoresdestinos.com.br/promocao/italia-passagens-para-roma-3814",
-          "published": "2026-06-09T18:52:29",
-          "discovered_at": "2026-06-09T22:18:17.849826",
-          "summary": "A Europa está com preços altos, mas Roma apareceu com tarifas interessantes para quem quer viajar à Itália nos próximos meses. Em nossas buscas, encontramos passagens aéreas a partir de R$ 3.814 ida e volta, com o menor preço saindo de São Paulo. Também há opções saindo de outras cidades, como Campi"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148769",
-          "feed_name": "Qual Viagem",
-          "title": "Orla TotalPass lança Arena das Nações e cria experiência premium e imersiva para viver a Copa em São Paulo",
-          "link": "https://www.qualviagem.com.br/orla-totalpass-lanca-arena-das-nacoes-e-cria-experiencia-premium-e-imersiva-para-viver-a-copa-em-sao-paulo/",
-          "published": "2026-06-09T23:02:16",
-          "discovered_at": "2026-06-09T22:18:24.805759",
-          "summary": "Com transmissão ao vivo de 70 jogos, shows, ativações culturais, gastronomia e experiências imersivas, espaço promete reunir torcedores de diferentes nacionalidades em uma programação inédita na capital A Orla TotalPass anuncia a Arena das Nações, um projeto inédito que transforma...\nO post Orla Tot"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148765",
-          "feed_name": "Qual Viagem",
-          "title": "Curaçao North Sea Jazz Festival anuncia edição 2026 com estrelas internacionais e clima caribenho",
-          "link": "https://www.qualviagem.com.br/curacao-north-sea-jazz-festival-anuncia-edicao-2026-com-estrelas-internacionais-e-clima-caribenho/",
-          "published": "2026-06-09T22:39:01",
-          "discovered_at": "2026-06-09T22:18:24.806096",
-          "summary": "J Balvin, Jon Batiste, Toto, Rubén Blades, Gente de Zona e Stephen Marley estão entre as atrações confirmadas para o festival  &#160; A vibrante ilha de Curaçao voltará a se transformar em um grande palco da música internacional com a...\nO post Curaçao North Sea Jazz Festival anuncia edição 2026 com"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
+      "feed_name": "Pontos pra Voar",
+      "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
+      "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
+      "published": "2026-06-28T20:00:51",
+      "discovered_at": "2026-06-28T22:00:47.097691",
+      "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
       "feed_name": "Passageiro de Primeira",
@@ -896,42 +888,6 @@
       "published": "2026-06-10T22:28:34",
       "discovered_at": "2026-06-10T22:48:23.881094",
       "summary": "Celebrando uma marca histórica, o evento chega à sua 10ª edição consolidado como uma iniciativa premiada pelo seu pioneirismo e sucesso absoluto no setor de entretenimento noturno em parques aquáticos. A temporada de arrepios e muita adrenalina já tem data...\nO post O Wet&#8217;n Wild, um dos maiore"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=540138",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Voe para Milão a partir de 124 mil pontos Azul ou R$ 1.447 + taxas",
-      "link": "https://passageirodeprimeira.com/voe-para-milao-a-partir-de-124-mil-pontos-azul-ou-r-1-447-taxas/",
-      "published": "2026-06-09T21:30:41",
-      "discovered_at": "2026-06-09T22:18:16.588790",
-      "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Milão (MXP). Os voos são operados pela Air Europa e a emissão pode ser feita a partir de 124.000 pontos Azul + taxas o trecho. Além disso, caso você não tenha pontos para realiza"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=618391",
-      "feed_name": "Melhores Destinos",
-      "title": "Itália! Passagens para Roma a partir de R$ 3.814 ida e volta saindo de São Paulo",
-      "link": "https://www.melhoresdestinos.com.br/promocao/italia-passagens-para-roma-3814",
-      "published": "2026-06-09T18:52:29",
-      "discovered_at": "2026-06-09T22:18:17.849826",
-      "summary": "A Europa está com preços altos, mas Roma apareceu com tarifas interessantes para quem quer viajar à Itália nos próximos meses. Em nossas buscas, encontramos passagens aéreas a partir de R$ 3.814 ida e volta, com o menor preço saindo de São Paulo. Também há opções saindo de outras cidades, como Campi"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148769",
-      "feed_name": "Qual Viagem",
-      "title": "Orla TotalPass lança Arena das Nações e cria experiência premium e imersiva para viver a Copa em São Paulo",
-      "link": "https://www.qualviagem.com.br/orla-totalpass-lanca-arena-das-nacoes-e-cria-experiencia-premium-e-imersiva-para-viver-a-copa-em-sao-paulo/",
-      "published": "2026-06-09T23:02:16",
-      "discovered_at": "2026-06-09T22:18:24.805759",
-      "summary": "Com transmissão ao vivo de 70 jogos, shows, ativações culturais, gastronomia e experiências imersivas, espaço promete reunir torcedores de diferentes nacionalidades em uma programação inédita na capital A Orla TotalPass anuncia a Arena das Nações, um projeto inédito que transforma...\nO post Orla Tot"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148765",
-      "feed_name": "Qual Viagem",
-      "title": "Curaçao North Sea Jazz Festival anuncia edição 2026 com estrelas internacionais e clima caribenho",
-      "link": "https://www.qualviagem.com.br/curacao-north-sea-jazz-festival-anuncia-edicao-2026-com-estrelas-internacionais-e-clima-caribenho/",
-      "published": "2026-06-09T22:39:01",
-      "discovered_at": "2026-06-09T22:18:24.806096",
-      "summary": "J Balvin, Jon Batiste, Toto, Rubén Blades, Gente de Zona e Stephen Marley estão entre as atrações confirmadas para o festival  &#160; A vibrante ilha de Curaçao voltará a se transformar em um grande palco da música internacional com a...\nO post Curaçao North Sea Jazz Festival anuncia edição 2026 com"
     }
   ]
 }
