@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-06-28T22:00:56.749327",
+  "last_run": "2026-06-29T14:42:58.582052",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-28T22:00:56.749327",
+    "run_at": "2026-06-29T14:42:58.582052",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
-        "feed_name": "Pontos pra Voar",
-        "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
-        "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
-        "published": "2026-06-28T20:00:51",
-        "discovered_at": "2026-06-28T22:00:47.097691",
-        "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-06-29T14:42:58.582052",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-06-28T22:00:56.749327",
       "destination": "Itália",
@@ -648,14 +646,6 @@
     },
     {
       "run_at": "2026-06-10T18:25:40.877318",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-06-10T14:19:09.331887",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
