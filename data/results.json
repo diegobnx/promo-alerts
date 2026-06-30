@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-06-29T22:04:50.935994",
+  "last_run": "2026-06-30T13:05:00.019818",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-06-29T22:04:50.935994",
+    "run_at": "2026-06-30T13:05:00.019818",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546194",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo",
+        "link": "https://passageirodeprimeira.com/so-hoje-latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-livelo-4/",
+        "published": "2026-06-30T13:01:49",
+        "discovered_at": "2026-06-30T13:04:41.925791",
+        "summary": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo\nO post Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo apareceu primeiro em Passageiro de Primeira."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-06-30T13:05:00.019818",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546194",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo",
+          "link": "https://passageirodeprimeira.com/so-hoje-latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-livelo-4/",
+          "published": "2026-06-30T13:01:49",
+          "discovered_at": "2026-06-30T13:04:41.925791",
+          "summary": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo\nO post Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo apareceu primeiro em Passageiro de Primeira."
+        }
+      ]
+    },
     {
       "run_at": "2026-06-29T22:04:50.935994",
       "destination": "Itália",
@@ -615,17 +643,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-11T14:31:57.406361",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546194",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo",
+      "link": "https://passageirodeprimeira.com/so-hoje-latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-livelo-4/",
+      "published": "2026-06-30T13:01:49",
+      "discovered_at": "2026-06-30T13:04:41.925791",
+      "summary": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo\nO post Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo apareceu primeiro em Passageiro de Primeira."
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
       "feed_name": "Pontos pra Voar",
