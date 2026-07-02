@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-07-02T17:28:58.681402",
+  "last_run": "2026-07-02T22:00:38.833515",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-02T17:28:58.681402",
+    "run_at": "2026-07-02T22:00:38.833515",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149396",
+        "feed_name": "Qual Viagem",
+        "title": "Oito endereços, um só padrão de excelência: conheça o Grupo Café Boteco em Serra Negra",
+        "link": "https://www.qualviagem.com.br/oito-enderecos-um-so-padrao-de-excelencia-conheca-o-grupo-cafe-boteco-em-serra-negra/",
+        "published": "2026-07-02T23:14:32",
+        "discovered_at": "2026-07-02T22:00:25.614630",
+        "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-02T22:00:38.833515",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149396",
+          "feed_name": "Qual Viagem",
+          "title": "Oito endereços, um só padrão de excelência: conheça o Grupo Café Boteco em Serra Negra",
+          "link": "https://www.qualviagem.com.br/oito-enderecos-um-so-padrao-de-excelencia-conheca-o-grupo-cafe-boteco-em-serra-negra/",
+          "published": "2026-07-02T23:14:32",
+          "discovered_at": "2026-07-02T22:00:25.614630",
+          "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-02T17:28:58.681402",
       "destination": "Itália",
@@ -654,17 +682,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-14T15:07:19.671557",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149396",
+      "feed_name": "Qual Viagem",
+      "title": "Oito endereços, um só padrão de excelência: conheça o Grupo Café Boteco em Serra Negra",
+      "link": "https://www.qualviagem.com.br/oito-enderecos-um-so-padrao-de-excelencia-conheca-o-grupo-cafe-boteco-em-serra-negra/",
+      "published": "2026-07-02T23:14:32",
+      "discovered_at": "2026-07-02T22:00:25.614630",
+      "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=125747",
       "feed_name": "Pontos pra Voar",
