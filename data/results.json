@@ -1,34 +1,43 @@
 {
-  "last_run": "2026-07-03T12:52:19.748857",
+  "last_run": "2026-07-03T17:15:02.325490",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-03T12:52:19.748857",
+    "run_at": "2026-07-03T17:15:02.325490",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546965",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Livelo oferece 25% de desconto no resgate de passagens para Barcelona e Roma",
-        "link": "https://passageirodeprimeira.com/livelo-oferece-25-de-desconto-no-resgate-de-passagens-para-barcelona-e-roma/",
-        "published": "2026-07-03T11:20:04",
-        "discovered_at": "2026-07-03T12:52:03.418233",
-        "summary": "A Livelo está oferecendo 25% de desconto no resgate de passagens para Barcelona (BCN) e Roma (FCO) exclusivamente para assinantes do Clube Livelo. A promoção é válida até hoje (3) e se aplica tanto a emissões em pontos quanto na opção de 'Pontos + Dinheiro'. Aproveite essa oportunidade para planejar"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546869",
-        "feed_name": "Passageiro de Primeira",
-        "title": "American Airlines anuncia nova rota de Chicago para Tóquio em 2027",
-        "link": "https://passageirodeprimeira.com/american-airlines-anuncia-nova-rota-de-chicago-para-toquio-em-2027/",
-        "published": "2026-07-03T10:40:10",
-        "discovered_at": "2026-07-03T12:52:03.418583",
-        "summary": "A American Airlines anunciou que irá lançar uma nova rota com voo direto entre Chicago (ORD) e o Aeroporto Internacional de Narita (NRT), em Tóquio, a partir de 27 de março de 2027. Operado em parceria com a Japan Airlines, o novo destino torna-se a 11ª rota de longa distância da companhia aérea a p"
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149413",
+        "feed_name": "Qual Viagem",
+        "title": "Férias de julho movimentam o Litoral Norte de SP com eventos e experiências",
+        "link": "https://www.qualviagem.com.br/ferias-de-julho-movimentam-o-litoral-norte-de-sp-com-eventos-e-experiencias/",
+        "published": "2026-07-03T17:30:04",
+        "discovered_at": "2026-07-03T17:14:47.659201",
+        "summary": "As férias de julho prometem movimentar o Circuito Litoral Norte de São Paulo. Reunindo Bertioga, Caraguatatuba, Ilhabela, São Sebastião e Ubatuba, a Região Turística preparou uma programação que combina festivais tradicionais, eventos esportivos, manifestações culturais, gastronomia caiçara e experi"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-07-03T17:15:02.325490",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149413",
+          "feed_name": "Qual Viagem",
+          "title": "Férias de julho movimentam o Litoral Norte de SP com eventos e experiências",
+          "link": "https://www.qualviagem.com.br/ferias-de-julho-movimentam-o-litoral-norte-de-sp-com-eventos-e-experiencias/",
+          "published": "2026-07-03T17:30:04",
+          "discovered_at": "2026-07-03T17:14:47.659201",
+          "summary": "As férias de julho prometem movimentar o Circuito Litoral Norte de São Paulo. Reunindo Bertioga, Caraguatatuba, Ilhabela, São Sebastião e Ubatuba, a Região Turística preparou uma programação que combina festivais tradicionais, eventos esportivos, manifestações culturais, gastronomia caiçara e experi"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-03T12:52:19.748857",
       "destination": "Itália",
@@ -702,17 +711,18 @@
           "summary": "Uma das épocas mais animadas do ano está chegando e a Vila Galé não poderia ficar de fora. A tradicional Vila do Forró – Tradições Nordestinas está de volta para comemorar o São João e promete não deixar ninguém parado....\nO post Vila Galé celebra São João com programação temática em seus resorts ap"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-15T16:13:31.267345",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149413",
+      "feed_name": "Qual Viagem",
+      "title": "Férias de julho movimentam o Litoral Norte de SP com eventos e experiências",
+      "link": "https://www.qualviagem.com.br/ferias-de-julho-movimentam-o-litoral-norte-de-sp-com-eventos-e-experiencias/",
+      "published": "2026-07-03T17:30:04",
+      "discovered_at": "2026-07-03T17:14:47.659201",
+      "summary": "As férias de julho prometem movimentar o Circuito Litoral Norte de São Paulo. Reunindo Bertioga, Caraguatatuba, Ilhabela, São Sebastião e Ubatuba, a Região Turística preparou uma programação que combina festivais tradicionais, eventos esportivos, manifestações culturais, gastronomia caiçara e experi"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546965",
       "feed_name": "Passageiro de Primeira",
