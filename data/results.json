@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-04T14:28:21.634981",
+  "last_run": "2026-07-04T21:58:04.568594",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-04T14:28:21.634981",
+    "run_at": "2026-07-04T21:58:04.568594",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-04T21:58:04.568594",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-04T14:28:21.634981",
       "destination": "Itália",
@@ -673,24 +681,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-16T19:29:14.803028",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=541020",
-          "feed_name": "Passageiro de Primeira",
-          "title": "ITA Airways mira expansão na América do Sul e no Brasil",
-          "link": "https://passageirodeprimeira.com/ita-airways-mira-expansao-america-sul-brasil/",
-          "published": "2026-06-16T18:00:59",
-          "discovered_at": "2026-06-16T19:28:54.097096",
-          "summary": "A ITA Airways pretende ampliar sua presença na América do Sul nos próximos anos e pode assumir um papel estratégico para o Grupo Lufthansa na região. A companhia italiana estuda novas rotas, avalia reforçar suas operações no Brasil e já trabalha para expandir sua malha aérea no continente.\nO post IT"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -945,15 +935,6 @@
       "published": "2026-06-17T13:53:30",
       "discovered_at": "2026-06-17T14:23:41.026902",
       "summary": "A intocada Baía Formosa, no Rio Grande do Norte, será em breve um novo destino de luxo no Nordeste com a inauguração do Aventora Baía Formosa Resort, Minor Reserve Collection. Previsto para ser lançado em 2028, esta será a primeira...\nO post Minor Hotels anuncia novo resort de luxo no Rio Grande do "
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=541020",
-      "feed_name": "Passageiro de Primeira",
-      "title": "ITA Airways mira expansão na América do Sul e no Brasil",
-      "link": "https://passageirodeprimeira.com/ita-airways-mira-expansao-america-sul-brasil/",
-      "published": "2026-06-16T18:00:59",
-      "discovered_at": "2026-06-16T19:28:54.097096",
-      "summary": "A ITA Airways pretende ampliar sua presença na América do Sul nos próximos anos e pode assumir um papel estratégico para o Grupo Lufthansa na região. A companhia italiana estuda novas rotas, avalia reforçar suas operações no Brasil e já trabalha para expandir sua malha aérea no continente.\nO post IT"
     }
   ]
 }
