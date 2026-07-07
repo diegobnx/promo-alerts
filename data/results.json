@@ -1,43 +1,23 @@
 {
-  "last_run": "2026-07-07T13:13:00.478625",
+  "last_run": "2026-07-07T17:52:54.033677",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-07T13:13:00.478625",
+    "run_at": "2026-07-07T17:52:54.033677",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
-    "posts": [
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=623661",
-        "feed_name": "Melhores Destinos",
-        "title": "Data dupla! 7.7 da Latam tem passagens aéreas nacionais com até 40% OFF, a partir de R$ 337 ida e volta!",
-        "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-7-7-latam-06-07-26",
-        "published": "2026-07-06T22:04:02",
-        "discovered_at": "2026-07-07T13:12:43.757127",
-        "summary": "Aa datas duplas estão em alta no comércio, e não é que elas também chegaram até as passagens aéreas? A data é amanhã, mas a Latam já se antecipou e está prometendo desconto de até 40% nos voos nacionais! São milhares de voos nacionais para voar entre 06/09/26 e 06/10/26. Pesquisamos também os menore"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149475",
-        "feed_name": "Qual Viagem",
-        "title": "Grand Mercure São Paulo Pinheiros abre as portas celebrando a essência da cidade",
-        "link": "https://www.qualviagem.com.br/grand-mercure-sao-paulo-pinheiros-abre-as-portas-celebrando-a-essencia-da-cidade/",
-        "published": "2026-07-07T16:11:03",
-        "discovered_at": "2026-07-07T13:12:45.732602",
-        "summary": "A Grand Mercure, marca da Accor, líder global em hospitalidade, reconhecida por celebrar a identidade de cada destino, anuncia a abertura do Grand Mercure São Paulo Pinheiros. A nova unidade convida os hóspedes a descobrir a capital paulista por meio de uma experiência inspirada na cultura local, no"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149471",
-        "feed_name": "Qual Viagem",
-        "title": "Vila Galé anuncia abertura de novo resort no Paiva",
-        "link": "https://www.qualviagem.com.br/vila-gale-anuncia-abertura-de-novo-resort-no-paiva/",
-        "published": "2026-07-07T15:59:31",
-        "discovered_at": "2026-07-07T13:12:45.732939",
-        "summary": "A Vila Galé amplia sua presença em Pernambuco com a chegada do Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club. O empreendimento, instalado no Paiva, no município de Cabo de Santo Agostinho, tem abertura prevista...\nO post Vila Galé anuncia abertura de novo resort"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-07T17:52:54.033677",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-07T13:13:00.478625",
       "destination": "Itália",
@@ -700,33 +680,6 @@
           "summary": "A União Europeia regulamentou novas regras para bagagem de mão que prometem mudar a forma como as companhias aéreas comercializam suas passagens. A medida busca ampliar a transparência na comparação de tarifas e pode impactar diretamente o modelo de negócios de empresas de baixo custo, como Ryanair "
         }
       ]
-    },
-    {
-      "run_at": "2026-06-18T22:52:36.199935",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149032",
-          "feed_name": "Qual Viagem",
-          "title": "Caminhos de Pedra: roteiro oferece imersão nas tradições italianas da Serra Gaúcha",
-          "link": "https://www.qualviagem.com.br/caminhos-de-pedra-roteiro-oferece-imersao-nas-tradicoes-italianas-da-serra-gaucha/",
-          "published": "2026-06-18T23:01:59",
-          "discovered_at": "2026-06-18T22:52:20.912055",
-          "summary": "Basta um curto trajeto de carro a partir do centro de Bento Gonçalves para que as paisagens urbanas deem lugar a um cenário que preserva o rigor e a estética da colonização italiana no Rio Grande do Sul. Percorrer os...\nO post Caminhos de Pedra: roteiro oferece imersão nas tradições italianas da Ser"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148956",
-          "feed_name": "Qual Viagem",
-          "title": "Lago a Lago: Nova travessia cênica entre hotéis conecta Suíça e Itália",
-          "link": "https://www.qualviagem.com.br/lago-a-lago-nova-travessia-cenica-entre-hoteis-conecta-suica-e-italia/",
-          "published": "2026-06-18T21:59:25",
-          "discovered_at": "2026-06-18T22:52:20.912727",
-          "summary": "&#160; Dois dos hotéis mais luxuosos dos Alpes europeus, o Il Sereno Lago di Como, no Norte da Itália, e o Kulm Hotel St. Moritz, na Suíça, propõem uma hospedagem combinada de quatro noites que une gastronomia, bem-estar e uma...\nO post Lago a Lago: Nova travessia cênica entre hotéis conecta Suíça e"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -981,24 +934,6 @@
       "published": "2026-06-19T13:30:05",
       "discovered_at": "2026-06-19T13:58:26.712191",
       "summary": "A União Europeia regulamentou novas regras para bagagem de mão que prometem mudar a forma como as companhias aéreas comercializam suas passagens. A medida busca ampliar a transparência na comparação de tarifas e pode impactar diretamente o modelo de negócios de empresas de baixo custo, como Ryanair "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149032",
-      "feed_name": "Qual Viagem",
-      "title": "Caminhos de Pedra: roteiro oferece imersão nas tradições italianas da Serra Gaúcha",
-      "link": "https://www.qualviagem.com.br/caminhos-de-pedra-roteiro-oferece-imersao-nas-tradicoes-italianas-da-serra-gaucha/",
-      "published": "2026-06-18T23:01:59",
-      "discovered_at": "2026-06-18T22:52:20.912055",
-      "summary": "Basta um curto trajeto de carro a partir do centro de Bento Gonçalves para que as paisagens urbanas deem lugar a um cenário que preserva o rigor e a estética da colonização italiana no Rio Grande do Sul. Percorrer os...\nO post Caminhos de Pedra: roteiro oferece imersão nas tradições italianas da Ser"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=148956",
-      "feed_name": "Qual Viagem",
-      "title": "Lago a Lago: Nova travessia cênica entre hotéis conecta Suíça e Itália",
-      "link": "https://www.qualviagem.com.br/lago-a-lago-nova-travessia-cenica-entre-hoteis-conecta-suica-e-italia/",
-      "published": "2026-06-18T21:59:25",
-      "discovered_at": "2026-06-18T22:52:20.912727",
-      "summary": "&#160; Dois dos hotéis mais luxuosos dos Alpes europeus, o Il Sereno Lago di Como, no Norte da Itália, e o Kulm Hotel St. Moritz, na Suíça, propõem uma hospedagem combinada de quatro noites que une gastronomia, bem-estar e uma...\nO post Lago a Lago: Nova travessia cênica entre hotéis conecta Suíça e"
     }
   ]
 }
