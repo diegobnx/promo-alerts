@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-07-10T17:41:33.616442",
+  "last_run": "2026-07-10T21:53:23.694043",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-10T17:41:33.616442",
+    "run_at": "2026-07-10T21:53:23.694043",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549816",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Air Europa anuncia nova rota entre Madri e Düsseldorf com voos diários",
+        "link": "https://passageirodeprimeira.com/air-europa-anuncia-nova-rota-entre-madri-e-dusseldorf-com-voos-diarios/",
+        "published": "2026-07-10T20:30:04",
+        "discovered_at": "2026-07-10T21:53:04.033745",
+        "summary": "A Air Europa comunicou recentemente a chegada de uma nova rota entre Madri (MAD) e Düsseldorf (DUS), na Alemanha. Os novos voos ampliam a conectividade entre um dos principais centros econômicos alemães e o aeroporto que é hub da companhia.\nO post Air Europa anuncia nova rota entre Madri e Düsseldor"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-10T21:53:23.694043",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549816",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Air Europa anuncia nova rota entre Madri e Düsseldorf com voos diários",
+          "link": "https://passageirodeprimeira.com/air-europa-anuncia-nova-rota-entre-madri-e-dusseldorf-com-voos-diarios/",
+          "published": "2026-07-10T20:30:04",
+          "discovered_at": "2026-07-10T21:53:04.033745",
+          "summary": "A Air Europa comunicou recentemente a chegada de uma nova rota entre Madri (MAD) e Düsseldorf (DUS), na Alemanha. Os novos voos ampliam a conectividade entre um dos principais centros econômicos alemães e o aeroporto que é hub da companhia.\nO post Air Europa anuncia nova rota entre Madri e Düsseldor"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-10T17:41:33.616442",
       "destination": "Itália",
@@ -683,36 +711,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-22T22:42:42.908920",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=543945",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Voe para Santiago a partir de 37 mil pontos Azul ou R$ 459 + taxas",
-          "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-37-mil-pontos-azul-ou-r-459-taxas/",
-          "published": "2026-06-22T21:10:53",
-          "discovered_at": "2026-06-22T22:42:26.819780",
-          "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Santiago (SCL). Os voos são operados pela Turkish Airlines e a emissão pode ser feita a partir de 37.225 pontos Azul Fidelidade + taxas o trecho. Além disso, caso você não tenha "
-        },
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=126515",
-          "feed_name": "Pontos pra Voar",
-          "title": "Emirates quer voos diários para Berlim e Stuttgart e promete investir mais de € 200 milhões por ano",
-          "link": "https://pontospravoar.com/emirates-quer-voos-diarios-para-berlim-e-stuttgart/",
-          "published": "2026-06-22T20:30:46",
-          "discovered_at": "2026-06-22T22:42:34.969178",
-          "summary": "A Emirates voltou a defender a ampliação de sua presença na Alemanha e afirmou estar pronta para iniciar voos diários para Berlim e Stuttgart. Segundo a companhia, as novas operações poderiam gerar centenas de empregos, ampliar a conectividade internacional das duas regiões e movimentar setores como"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549816",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Air Europa anuncia nova rota entre Madri e Düsseldorf com voos diários",
+      "link": "https://passageirodeprimeira.com/air-europa-anuncia-nova-rota-entre-madri-e-dusseldorf-com-voos-diarios/",
+      "published": "2026-07-10T20:30:04",
+      "discovered_at": "2026-07-10T21:53:04.033745",
+      "summary": "A Air Europa comunicou recentemente a chegada de uma nova rota entre Madri (MAD) e Düsseldorf (DUS), na Alemanha. Os novos voos ampliam a conectividade entre um dos principais centros econômicos alemães e o aeroporto que é hub da companhia.\nO post Air Europa anuncia nova rota entre Madri e Düsseldor"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149523",
       "feed_name": "Qual Viagem",
@@ -973,24 +983,6 @@
       "published": "2026-06-25T12:00:04",
       "discovered_at": "2026-06-25T13:12:16.049748",
       "summary": "As milhas bônus do programa Iberia Club, da última campanha com a Esfera, começam a ser creditadas. \nO post Iberia Club começa a creditar o bônus de transferência da campanha com a Esfera apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=543945",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Voe para Santiago a partir de 37 mil pontos Azul ou R$ 459 + taxas",
-      "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-37-mil-pontos-azul-ou-r-459-taxas/",
-      "published": "2026-06-22T21:10:53",
-      "discovered_at": "2026-06-22T22:42:26.819780",
-      "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Encontramos disponibilidade de bilhetes ida e volta entre São Paulo (GRU) e Santiago (SCL). Os voos são operados pela Turkish Airlines e a emissão pode ser feita a partir de 37.225 pontos Azul Fidelidade + taxas o trecho. Além disso, caso você não tenha "
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=126515",
-      "feed_name": "Pontos pra Voar",
-      "title": "Emirates quer voos diários para Berlim e Stuttgart e promete investir mais de € 200 milhões por ano",
-      "link": "https://pontospravoar.com/emirates-quer-voos-diarios-para-berlim-e-stuttgart/",
-      "published": "2026-06-22T20:30:46",
-      "discovered_at": "2026-06-22T22:42:34.969178",
-      "summary": "A Emirates voltou a defender a ampliação de sua presença na Alemanha e afirmou estar pronta para iniciar voos diários para Berlim e Stuttgart. Segundo a companhia, as novas operações poderiam gerar centenas de empregos, ampliar a conectividade internacional das duas regiões e movimentar setores como"
     }
   ]
 }
