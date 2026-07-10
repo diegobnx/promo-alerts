@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-10T13:05:02.055614",
+  "last_run": "2026-07-10T17:41:33.616442",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-10T13:05:02.055614",
+    "run_at": "2026-07-10T17:41:33.616442",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149523",
-        "feed_name": "Qual Viagem",
-        "title": "Sapucaia da Mata amplia experiência no Eco Lodge Natureza com cozinha autoral capixaba",
-        "link": "https://www.qualviagem.com.br/sapucaia-da-mata-amplia-experiencia-no-eco-lodge-natureza-com-cozinha-autoral-capixaba/",
-        "published": "2026-07-10T13:20:06",
-        "discovered_at": "2026-07-10T13:04:48.608375",
-        "summary": "Em meio às Montanhas Capixabas, cercado pela Mata Atlântica preservada da Reserva Ambiental Águia Branca, o restaurante Sapucaia da Mata – Cozinha Original abre as portas colocando os ingredientes do Espírito Santo no centro da experiência gastronômica. O espaço recém-inaugurado...\nO post Sapucaia d"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-10T17:41:33.616442",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-10T13:05:02.055614",
       "destination": "Itália",
@@ -712,14 +710,6 @@
           "summary": "A Emirates voltou a defender a ampliação de sua presença na Alemanha e afirmou estar pronta para iniciar voos diários para Berlim e Stuttgart. Segundo a companhia, as novas operações poderiam gerar centenas de empregos, ampliar a conectividade internacional das duas regiões e movimentar setores como"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-22T19:19:12.617393",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
