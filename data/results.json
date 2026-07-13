@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-13T13:12:58.176155",
+  "last_run": "2026-07-13T17:49:08.456093",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-13T13:12:58.176155",
+    "run_at": "2026-07-13T17:49:08.456093",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549641",
-        "feed_name": "Passageiro de Primeira",
-        "title": "TAP Air Portugal anuncia nova rota entre Porto e Cabo Verde",
-        "link": "https://passageirodeprimeira.com/tap-air-portugal-anuncia-nova-rota-entre-porto-e-cabo-verde/",
-        "published": "2026-07-13T12:00:19",
-        "discovered_at": "2026-07-13T13:12:40.229037",
-        "summary": "A TAP Air Portugal anunciou recentemente uma nova rota para Praia (RAI), capital de Cabo Verde. Os voos são operados três vezes na semana e são diretos.\nO post TAP Air Portugal anuncia nova rota entre Porto e Cabo Verde apareceu primeiro em Passageiro de Primeira."
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-13T17:49:08.456093",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-13T13:12:58.176155",
       "destination": "Itália",
@@ -723,14 +721,6 @@
           "summary": "As milhas bônus do programa Iberia Club, da última campanha com a Esfera, começam a ser creditadas. \nO post Iberia Club começa a creditar o bônus de transferência da campanha com a Esfera apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-06-24T22:09:26.171654",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
