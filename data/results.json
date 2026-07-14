@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-07-13T21:47:36.383114",
+  "last_run": "2026-07-14T12:06:11.431752",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-13T21:47:36.383114",
+    "run_at": "2026-07-14T12:06:11.431752",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149552",
-        "feed_name": "Qual Viagem",
-        "title": "Luzes, cores e água: Thermas da Mata anuncia experiência indoor inédita no Brasil",
-        "link": "https://www.qualviagem.com.br/luzes-cores-e-agua-thermas-da-mata-anuncia-experiencia-indoor-inedita-no-brasil/",
-        "published": "2026-07-13T21:12:02",
-        "discovered_at": "2026-07-13T21:47:22.339928",
-        "summary": "De olho na ampliação das experiências oferecidas aos visitantes, o Thermas da Mata Parque &#38; Hotel prepara uma novidade para o segundo semestre. O empreendimento, localizado em Cotia (SP), anuncia para 11 de outubro a inauguração do Aqualume, atração inédita...\nO post Luzes, cores e água: Thermas"
-      },
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=131134",
-        "feed_name": "Pontos pra Voar",
-        "title": "Alerta de Passagens PPV! Emissões para Roma a partir de 65 mil milhas LATAM Pass + taxas",
-        "link": "https://pontospravoar.com/alerta-de-passagens-ppv-emissoes-para-roma-a-partir-de-65-mil-milhas-latam-pass-taxas/",
-        "published": "2026-07-13T19:00:38",
-        "discovered_at": "2026-07-13T21:47:27.558702",
-        "summary": "Se Roma está entre os seus próximos destinos internacionais, o Alerta de Passagens PPV de hoje pode ajudar a economizar no resgate. Nossa equipe encontrou oportunidades de emissão no LATAM Pass, com passagens a partir de 65 mil milhas + taxas. Confira as opções que selecionamos e comece a planejar s"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-14T12:06:11.431752",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-13T21:47:36.383114",
       "destination": "Itália",
@@ -731,24 +720,6 @@
           "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-25T18:04:28.235056",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
-          "feed_name": "Qual Viagem",
-          "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
-          "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
-          "published": "2026-06-25T20:19:07",
-          "discovered_at": "2026-06-25T18:04:13.347320",
-          "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -1039,15 +1010,6 @@
       "published": "2026-06-25T21:10:26",
       "discovered_at": "2026-06-25T22:15:52.764827",
       "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149191",
-      "feed_name": "Qual Viagem",
-      "title": "Serra Catarinense registra frio recorde e inicia alta temporada de inverno",
-      "link": "https://www.qualviagem.com.br/serra-catarinense-registra-frio-recorde-e-inicia-alta-temporada-de-inverno/",
-      "published": "2026-06-25T20:19:07",
-      "discovered_at": "2026-06-25T18:04:13.347320",
-      "summary": "Poucos dias após o início oficial do inverno, a Serra Catarinense registrou sua madrugada mais fria de 2026. Em Bom Jardim da Serra, os termômetros marcaram -9,1°C nesta quarta-feira (24), enquanto a geada cobriu cidades de toda a região. O...\nO post Serra Catarinense registra frio recorde e inicia "
     }
   ]
 }
