@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-14T12:06:11.431752",
+  "last_run": "2026-07-14T17:05:13.594709",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-14T12:06:11.431752",
+    "run_at": "2026-07-14T17:05:13.594709",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-14T17:05:13.594709",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-14T12:06:11.431752",
       "destination": "Itália",
@@ -702,24 +710,6 @@
           "summary": "A Itália e outros países da Europa podem suspender temporariamente o EES durante os meses de verão para evitar filas ainda maiores nos aeroportos. O alerta veio da administração dos aeroportos de Roma e reacende a preocupação com o novo sistema de controle migratório da União Europeia, que já provoc"
         }
       ]
-    },
-    {
-      "run_at": "2026-06-25T22:16:10.828595",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545296",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Livelo oferece até 35% de desconto em voos para Itália e Suíça",
-          "link": "https://passageirodeprimeira.com/livelo-oferece-ate-35-de-desconto-em-voos-para-italia-e-suica/",
-          "published": "2026-06-25T21:10:26",
-          "discovered_at": "2026-06-25T22:15:52.764827",
-          "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -1001,15 +991,6 @@
       "published": "2026-06-26T12:30:53",
       "discovered_at": "2026-06-26T13:04:38.828542",
       "summary": "A Itália e outros países da Europa podem suspender temporariamente o EES durante os meses de verão para evitar filas ainda maiores nos aeroportos. O alerta veio da administração dos aeroportos de Roma e reacende a preocupação com o novo sistema de controle migratório da União Europeia, que já provoc"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=545296",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Livelo oferece até 35% de desconto em voos para Itália e Suíça",
-      "link": "https://passageirodeprimeira.com/livelo-oferece-ate-35-de-desconto-em-voos-para-italia-e-suica/",
-      "published": "2026-06-25T21:10:26",
-      "discovered_at": "2026-06-25T22:15:52.764827",
-      "summary": "Alerta de disponibilidade para HOJE 🚨 A Livelo está oferecendo um desconto de até 35% em voos para Itália e Suíça com o uso do cupom “ITALIASUICA35″[sem aspas]. A promoção é válida apenas nesta quinta-feira (25), das 14h às 23h59.\nO post Livelo oferece até 35% de desconto em voos para Itália e Suíça"
     }
   ]
 }
