@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-07-14T21:50:13.510818",
+  "last_run": "2026-07-15T12:10:04.308848",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-14T21:50:13.510818",
+    "run_at": "2026-07-15T12:10:04.308848",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149572",
-        "feed_name": "Qual Viagem",
-        "title": "Sheraton Grand Rio celebra as férias de julho com programação especial no “Domenica al Bene”",
-        "link": "https://www.qualviagem.com.br/sheraton-grand-rio-celebra-as-ferias-de-julho-com-programacao-especial-no-domenica-al-bene/",
-        "published": "2026-07-14T20:30:13",
-        "discovered_at": "2026-07-14T21:50:00.474260",
-        "summary": "Unindo o melhor da culinária italiana a atividades recreativas e visitas de personagens ilustres, o hotel eleva a experiência dos almoços de domingo em família. &#160; As férias de julho ganham um ingrediente extra de diversão no Sheraton Grand Rio...\nO post Sheraton Grand Rio celebra as férias de j"
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=550536",
+        "feed_name": "Passageiro de Primeira",
+        "title": "JetSMART anuncia Wi-Fi em seus voos via conectividade Starlink",
+        "link": "https://passageirodeprimeira.com/jetsmart-anuncia-wi-fi-em-seus-voos-via-conectividade-starlink/",
+        "published": "2026-07-15T10:41:32",
+        "discovered_at": "2026-07-15T12:09:48.123287",
+        "summary": "A JetSMART anunciou nesta terça-feira (14) que está incorporando a conectividade Starlink em suas aeronaves! Com isso, a companhia se torna  a primeira ultra low cost sul americana a oferecer Wi-Fi pela prestigiada subsidiária da Space X. \nO post JetSMART anuncia Wi-Fi em seus voos via conectividade"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-07-15T12:10:04.308848",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=550536",
+          "feed_name": "Passageiro de Primeira",
+          "title": "JetSMART anuncia Wi-Fi em seus voos via conectividade Starlink",
+          "link": "https://passageirodeprimeira.com/jetsmart-anuncia-wi-fi-em-seus-voos-via-conectividade-starlink/",
+          "published": "2026-07-15T10:41:32",
+          "discovered_at": "2026-07-15T12:09:48.123287",
+          "summary": "A JetSMART anunciou nesta terça-feira (14) que está incorporando a conectividade Starlink em suas aeronaves! Com isso, a companhia se torna  a primeira ultra low cost sul americana a oferecer Wi-Fi pela prestigiada subsidiária da Space X. \nO post JetSMART anuncia Wi-Fi em seus voos via conectividade"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-14T21:50:13.510818",
       "destination": "Itália",
@@ -684,27 +702,18 @@
           "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
         }
       ]
-    },
-    {
-      "run_at": "2026-06-26T17:41:22.596349",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
-          "feed_name": "Qual Viagem",
-          "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
-          "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
-          "published": "2026-06-26T20:13:09",
-          "discovered_at": "2026-06-26T17:41:06.881929",
-          "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=550536",
+      "feed_name": "Passageiro de Primeira",
+      "title": "JetSMART anuncia Wi-Fi em seus voos via conectividade Starlink",
+      "link": "https://passageirodeprimeira.com/jetsmart-anuncia-wi-fi-em-seus-voos-via-conectividade-starlink/",
+      "published": "2026-07-15T10:41:32",
+      "discovered_at": "2026-07-15T12:09:48.123287",
+      "summary": "A JetSMART anunciou nesta terça-feira (14) que está incorporando a conectividade Starlink em suas aeronaves! Com isso, a companhia se torna  a primeira ultra low cost sul americana a oferecer Wi-Fi pela prestigiada subsidiária da Space X. \nO post JetSMART anuncia Wi-Fi em seus voos via conectividade"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149572",
       "feed_name": "Qual Viagem",
@@ -956,15 +965,6 @@
       "published": "2026-06-26T18:22:18",
       "discovered_at": "2026-06-26T22:04:17.839403",
       "summary": "Fizemos uma grande seleção de tarifas para a Europa saindo do Nordeste e encontramos boas oportunidades para quem quer cruzar o Atlântico saindo da região. Tem passagens aéreas a partir de R$ 3.397 ida e volta, com opções saindo de Fortaleza, Maceió, Natal, Recife, Salvador e São Luís para destinos "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149229",
-      "feed_name": "Qual Viagem",
-      "title": "The Westin Porto de Galinhas: onde cada estadia se torna uma experiência memorável",
-      "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-onde-cada-estadia-se-torna-uma-experiencia-memoravel/",
-      "published": "2026-06-26T20:13:09",
-      "discovered_at": "2026-06-26T17:41:06.881929",
-      "summary": "Mais do que oferecer uma estrutura completa e serviços de alto padrão, o The Westin Porto de Galinhas busca surpreender através da personalização, da atenção genuína e da transformação de momentos simples em experiências especiais, proporcionando uma estadia em que os...\nO post The Westin Porto de G"
     }
   ]
 }
