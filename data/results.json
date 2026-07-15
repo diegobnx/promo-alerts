@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-15T17:07:35.346584",
+  "last_run": "2026-07-15T21:51:03.324460",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-15T17:07:35.346584",
+    "run_at": "2026-07-15T21:51:03.324460",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-15T21:51:03.324460",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-15T17:07:35.346584",
       "destination": "Itália",
@@ -655,24 +663,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-27T14:28:17.368816",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
-          "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
-          "published": "2026-06-27T14:26:39",
-          "discovered_at": "2026-06-27T14:27:59.677931",
-          "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -909,15 +899,6 @@
       "published": "2026-06-28T20:00:51",
       "discovered_at": "2026-06-28T22:00:47.097691",
       "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=544643",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Chrome integra Carteira do Google para preencher dados de viagem e mais",
-      "link": "https://passageirodeprimeira.com/chrome-carteira-google-preencher-dados-complexos-formularios/",
-      "published": "2026-06-27T14:26:39",
-      "discovered_at": "2026-06-27T14:27:59.677931",
-      "summary": "O Google Chrome anunciou uma nova atualização na Carteira do Google para realizar o preenchimento automático de dados mais complexos em formulários, incluindo detalhes de voos e informações do veículo, como a matrícula e o número do chassi (VIN). As funcionalidades estão disponíveis para usuários do"
     }
   ]
 }
