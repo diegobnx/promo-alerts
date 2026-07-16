@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-07-16T17:05:28.620163",
+  "last_run": "2026-07-16T21:57:28.655428",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-16T17:05:28.620163",
+    "run_at": "2026-07-16T21:57:28.655428",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149629",
-        "feed_name": "Qual Viagem",
-        "title": "Grupo Café Boteco reúne pratos que transformam Serra Negra em um roteiro gastronômico completo",
-        "link": "https://www.qualviagem.com.br/grupo-cafe-boteco-reune-pratos-que-transformam-serra-negra-em-um-roteiro-gastronomico-completo/",
-        "published": "2026-07-16T18:16:44",
-        "discovered_at": "2026-07-16T17:05:13.493105",
-        "summary": "Sete casas e um roteiro que atravessa o dia: os pratos-assinatura do grupo que transformou Serra Negra em destino para viajar pelo paladar. Da padaria de inspiração francesa à massa artesanal e gastronomia italiana contemporânea, cada casa do grupo tem...\nO post Grupo Café Boteco reúne pratos que tr"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149617",
-        "feed_name": "Qual Viagem",
-        "title": "GOL inicia voos diretos do RJ para Nova York com experiência premium",
-        "link": "https://www.qualviagem.com.br/gol-inicia-voos-diretos-do-rj-para-nova-york-com-experiencia-premium/",
-        "published": "2026-07-16T16:27:45",
-        "discovered_at": "2026-07-16T17:05:13.493594",
-        "summary": "A GOL iniciou neste 8 de julho um novo e inédito capítulo na consolidação de seu plano de expansão internacional. Nesta quarta-feira, às 21h55, no Aeroporto Internacional Tom Jobim, o RIOgaleão (GIG), a GOL decolou rumo a Nova York (JFK)...\nO post GOL inicia voos diretos do RJ para Nova York com exp"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-16T21:57:28.655428",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-16T17:05:28.620163",
       "destination": "Itália",
@@ -683,24 +672,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-28T22:00:56.749327",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
-          "feed_name": "Pontos pra Voar",
-          "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
-          "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
-          "published": "2026-06-28T20:00:51",
-          "discovered_at": "2026-06-28T22:00:47.097691",
-          "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -946,15 +917,6 @@
       "published": "2026-06-30T13:01:49",
       "discovered_at": "2026-06-30T13:04:41.925791",
       "summary": "Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo\nO post Só hoje! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=128050",
-      "feed_name": "Pontos pra Voar",
-      "title": "Qantas anuncia primeiro destino para seus voos ultralongos do Projeto Sunrise",
-      "link": "https://pontospravoar.com/qantas-anuncia-primeiro-destino-voos-ultralongos-projeto-sunrise/",
-      "published": "2026-06-28T20:00:51",
-      "discovered_at": "2026-06-28T22:00:47.097691",
-      "summary": "A Qantas confirmou que Londres será o primeiro destino atendido pelos voos ultralongos do Projeto Sunrise. A nova rota direta entre Sydney e a capital britânica deverá entrar em operação em outubro de 2027. Com essa rota a Qantas promete estabelecer um novo marco na aviação comercial realizando voos"
     }
   ]
 }
