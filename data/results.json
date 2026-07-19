@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-18T21:49:03.531083",
+  "last_run": "2026-07-19T14:23:15.080871",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-18T21:49:03.531083",
+    "run_at": "2026-07-19T14:23:15.080871",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=94555",
-        "feed_name": "Pontos pra Voar",
-        "title": "Itália fora do óbvio! País investe em roteiros menos explorados",
-        "link": "https://pontospravoar.com/italia-fora-obvio-pais-investe-roteiros-menos-explorados/",
-        "published": "2026-07-18T21:00:08",
-        "discovered_at": "2026-07-18T21:48:54.507566",
-        "summary": "“Made in Italy” e aplicativos que conectam lugares e moradores locais com visitantes prometem roteiros únicos e personalizados. Objetivo é fazer com que turistas conheçam a Itália com conexões mais autênticas e profundas, fora dos grandes e aglomerados centros. Diante de cada vez mais barreiras e ma"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-19T14:23:15.080871",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-18T21:49:03.531083",
       "destination": "Itália",
@@ -675,33 +673,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-06-30T22:10:38.812606",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149332",
-          "feed_name": "Qual Viagem",
-          "title": "Fattoria é nova atração turística e gastronômica em Campos do Jordão",
-          "link": "https://www.qualviagem.com.br/fattoria-e-nova-atracao-turistica-e-gastronomica-em-campos-do-jordao/",
-          "published": "2026-06-30T23:44:06",
-          "discovered_at": "2026-06-30T22:10:24.977391",
-          "summary": "Os empresários José Carlos Carvalho e Giuliano Longobardo, à frente do grupo Fattoria, anunciam o lançamento da Fattoria Campos do Jordão, um empreendimento turístico e gastronômico que promete proporcionar aos visitantes uma verdadeira imersão no universo da produção artesanal e...\nO post Fattoria "
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149321",
-          "feed_name": "Qual Viagem",
-          "title": "Vila Galé celebra 40 anos e anuncia nova fase de expansão em Portugal e no Brasil",
-          "link": "https://www.qualviagem.com.br/vila-gale-celebra-40-anos-e-anuncia-nova-fase-de-expansao-em-portugal-e-no-brasil/",
-          "published": "2026-06-30T21:53:20",
-          "discovered_at": "2026-06-30T22:10:24.978076",
-          "summary": "O Grupo Vila Galé comemorou, no último dia 27 de junho, o seu 40º aniversário com uma festa no Vila Galé Sintra, em Portugal. A celebração reuniu mais de 500 convidados, entre representantes institucionais, parceiros, colaboradores e amigos. Com uma...\nO post Vila Galé celebra 40 anos e anuncia nova"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -947,24 +918,6 @@
       "published": "2026-07-01T17:00:28",
       "discovered_at": "2026-07-01T17:47:22.542348",
       "summary": "Dando sequência à série “Compartilhando Emissões” aqui no Pontos pra Voar, iremos continuar a falar sobre uma sequência de emissões que realizei, sendo neste post para uma viagem de Milão para Madri, para dois passageiros, voando na classe executiva do A321XLR da Iberia, utilizando avios do programa"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149332",
-      "feed_name": "Qual Viagem",
-      "title": "Fattoria é nova atração turística e gastronômica em Campos do Jordão",
-      "link": "https://www.qualviagem.com.br/fattoria-e-nova-atracao-turistica-e-gastronomica-em-campos-do-jordao/",
-      "published": "2026-06-30T23:44:06",
-      "discovered_at": "2026-06-30T22:10:24.977391",
-      "summary": "Os empresários José Carlos Carvalho e Giuliano Longobardo, à frente do grupo Fattoria, anunciam o lançamento da Fattoria Campos do Jordão, um empreendimento turístico e gastronômico que promete proporcionar aos visitantes uma verdadeira imersão no universo da produção artesanal e...\nO post Fattoria "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149321",
-      "feed_name": "Qual Viagem",
-      "title": "Vila Galé celebra 40 anos e anuncia nova fase de expansão em Portugal e no Brasil",
-      "link": "https://www.qualviagem.com.br/vila-gale-celebra-40-anos-e-anuncia-nova-fase-de-expansao-em-portugal-e-no-brasil/",
-      "published": "2026-06-30T21:53:20",
-      "discovered_at": "2026-06-30T22:10:24.978076",
-      "summary": "O Grupo Vila Galé comemorou, no último dia 27 de junho, o seu 40º aniversário com uma festa no Vila Galé Sintra, em Portugal. A celebração reuniu mais de 500 convidados, entre representantes institucionais, parceiros, colaboradores e amigos. Com uma...\nO post Vila Galé celebra 40 anos e anuncia nova"
     }
   ]
 }
