@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-20T17:25:47.578202",
+  "last_run": "2026-07-20T21:55:56.772897",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-20T17:25:47.578202",
+    "run_at": "2026-07-20T21:55:56.772897",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=132214",
-        "feed_name": "Pontos pra Voar",
-        "title": "Emirates lança apoio de cabeça inédito para classe econômica",
-        "link": "https://pontospravoar.com/emirates-lanca-apoio-de-cabeca-inedito-para-classe-economica/",
-        "published": "2026-07-20T16:30:24",
-        "discovered_at": "2026-07-20T17:25:38.576349",
-        "summary": "A Emirates começou a instalar um novo apoio de cabeça ajustável na classe econômica, batizado de U-Dream. A novidade conta com abas laterais que ajudam a sustentar a cabeça e o pescoço durante o sono, prometendo mais conforto em voos de longa duração. A Emirates anunciou uma novidade que promete tor"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-20T21:55:56.772897",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-20T17:25:47.578202",
       "destination": "Itália",
@@ -680,14 +678,6 @@
     },
     {
       "run_at": "2026-07-02T17:28:58.681402",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-07-02T12:53:50.962196",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
