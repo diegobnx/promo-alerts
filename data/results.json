@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-07-21T17:07:39.690427",
+  "last_run": "2026-07-21T21:57:17.295805",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-21T17:07:39.690427",
+    "run_at": "2026-07-21T21:57:17.295805",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
-        "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
-        "published": "2026-07-21T15:50:08",
-        "discovered_at": "2026-07-21T17:07:23.200897",
-        "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
-        "feed_name": "Qual Viagem",
-        "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
-        "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
-        "published": "2026-07-21T18:09:09",
-        "discovered_at": "2026-07-21T17:07:26.279969",
-        "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-21T21:57:17.295805",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-21T17:07:39.690427",
       "destination": "Itália",
@@ -684,33 +673,6 @@
           "summary": "As férias de julho prometem movimentar o Circuito Litoral Norte de São Paulo. Reunindo Bertioga, Caraguatatuba, Ilhabela, São Sebastião e Ubatuba, a Região Turística preparou uma programação que combina festivais tradicionais, eventos esportivos, manifestações culturais, gastronomia caiçara e experi"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-03T12:52:19.748857",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546965",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Livelo oferece 25% de desconto no resgate de passagens para Barcelona e Roma",
-          "link": "https://passageirodeprimeira.com/livelo-oferece-25-de-desconto-no-resgate-de-passagens-para-barcelona-e-roma/",
-          "published": "2026-07-03T11:20:04",
-          "discovered_at": "2026-07-03T12:52:03.418233",
-          "summary": "A Livelo está oferecendo 25% de desconto no resgate de passagens para Barcelona (BCN) e Roma (FCO) exclusivamente para assinantes do Clube Livelo. A promoção é válida até hoje (3) e se aplica tanto a emissões em pontos quanto na opção de 'Pontos + Dinheiro'. Aproveite essa oportunidade para planejar"
-        },
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546869",
-          "feed_name": "Passageiro de Primeira",
-          "title": "American Airlines anuncia nova rota de Chicago para Tóquio em 2027",
-          "link": "https://passageirodeprimeira.com/american-airlines-anuncia-nova-rota-de-chicago-para-toquio-em-2027/",
-          "published": "2026-07-03T10:40:10",
-          "discovered_at": "2026-07-03T12:52:03.418583",
-          "summary": "A American Airlines anunciou que irá lançar uma nova rota com voo direto entre Chicago (ORD) e o Aeroporto Internacional de Narita (NRT), em Tóquio, a partir de 27 de março de 2027. Operado em parceria com a Japan Airlines, o novo destino torna-se a 11ª rota de longa distância da companhia aérea a p"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -956,24 +918,6 @@
       "published": "2026-07-03T17:30:04",
       "discovered_at": "2026-07-03T17:14:47.659201",
       "summary": "As férias de julho prometem movimentar o Circuito Litoral Norte de São Paulo. Reunindo Bertioga, Caraguatatuba, Ilhabela, São Sebastião e Ubatuba, a Região Turística preparou uma programação que combina festivais tradicionais, eventos esportivos, manifestações culturais, gastronomia caiçara e experi"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546965",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Livelo oferece 25% de desconto no resgate de passagens para Barcelona e Roma",
-      "link": "https://passageirodeprimeira.com/livelo-oferece-25-de-desconto-no-resgate-de-passagens-para-barcelona-e-roma/",
-      "published": "2026-07-03T11:20:04",
-      "discovered_at": "2026-07-03T12:52:03.418233",
-      "summary": "A Livelo está oferecendo 25% de desconto no resgate de passagens para Barcelona (BCN) e Roma (FCO) exclusivamente para assinantes do Clube Livelo. A promoção é válida até hoje (3) e se aplica tanto a emissões em pontos quanto na opção de 'Pontos + Dinheiro'. Aproveite essa oportunidade para planejar"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=546869",
-      "feed_name": "Passageiro de Primeira",
-      "title": "American Airlines anuncia nova rota de Chicago para Tóquio em 2027",
-      "link": "https://passageirodeprimeira.com/american-airlines-anuncia-nova-rota-de-chicago-para-toquio-em-2027/",
-      "published": "2026-07-03T10:40:10",
-      "discovered_at": "2026-07-03T12:52:03.418583",
-      "summary": "A American Airlines anunciou que irá lançar uma nova rota com voo direto entre Chicago (ORD) e o Aeroporto Internacional de Narita (NRT), em Tóquio, a partir de 27 de março de 2027. Operado em parceria com a Japan Airlines, o novo destino torna-se a 11ª rota de longa distância da companhia aérea a p"
     }
   ]
 }
