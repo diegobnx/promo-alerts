@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-07-21T12:20:03.154929",
+  "last_run": "2026-07-21T17:07:39.690427",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-21T12:20:03.154929",
+    "run_at": "2026-07-21T17:07:39.690427",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
+        "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
+        "published": "2026-07-21T15:50:08",
+        "discovered_at": "2026-07-21T17:07:23.200897",
+        "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
+        "feed_name": "Qual Viagem",
+        "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
+        "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
+        "published": "2026-07-21T18:09:09",
+        "discovered_at": "2026-07-21T17:07:26.279969",
+        "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-21T17:07:39.690427",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
+          "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
+          "published": "2026-07-21T15:50:08",
+          "discovered_at": "2026-07-21T17:07:23.200897",
+          "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
+          "feed_name": "Qual Viagem",
+          "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
+          "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
+          "published": "2026-07-21T18:09:09",
+          "discovered_at": "2026-07-21T17:07:26.279969",
+          "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-21T12:20:03.154929",
       "destination": "Itália",
@@ -665,27 +711,27 @@
           "summary": "A American Airlines anunciou que irá lançar uma nova rota com voo direto entre Chicago (ORD) e o Aeroporto Internacional de Narita (NRT), em Tóquio, a partir de 27 de março de 2027. Operado em parceria com a Japan Airlines, o novo destino torna-se a 11ª rota de longa distância da companhia aérea a p"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-02T22:00:38.833515",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149396",
-          "feed_name": "Qual Viagem",
-          "title": "Oito endereços, um só padrão de excelência: conheça o Grupo Café Boteco em Serra Negra",
-          "link": "https://www.qualviagem.com.br/oito-enderecos-um-so-padrao-de-excelencia-conheca-o-grupo-cafe-boteco-em-serra-negra/",
-          "published": "2026-07-02T23:14:32",
-          "discovered_at": "2026-07-02T22:00:25.614630",
-          "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
+      "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
+      "published": "2026-07-21T15:50:08",
+      "discovered_at": "2026-07-21T17:07:23.200897",
+      "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
+      "feed_name": "Qual Viagem",
+      "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
+      "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
+      "published": "2026-07-21T18:09:09",
+      "discovered_at": "2026-07-21T17:07:26.279969",
+      "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=132214",
       "feed_name": "Pontos pra Voar",
@@ -928,15 +974,6 @@
       "published": "2026-07-03T10:40:10",
       "discovered_at": "2026-07-03T12:52:03.418583",
       "summary": "A American Airlines anunciou que irá lançar uma nova rota com voo direto entre Chicago (ORD) e o Aeroporto Internacional de Narita (NRT), em Tóquio, a partir de 27 de março de 2027. Operado em parceria com a Japan Airlines, o novo destino torna-se a 11ª rota de longa distância da companhia aérea a p"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149396",
-      "feed_name": "Qual Viagem",
-      "title": "Oito endereços, um só padrão de excelência: conheça o Grupo Café Boteco em Serra Negra",
-      "link": "https://www.qualviagem.com.br/oito-enderecos-um-so-padrao-de-excelencia-conheca-o-grupo-cafe-boteco-em-serra-negra/",
-      "published": "2026-07-02T23:14:32",
-      "discovered_at": "2026-07-02T22:00:25.614630",
-      "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
     }
   ]
 }
