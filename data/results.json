@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-20T21:55:56.772897",
+  "last_run": "2026-07-21T12:20:03.154929",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-20T21:55:56.772897",
+    "run_at": "2026-07-21T12:20:03.154929",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-21T12:20:03.154929",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-20T21:55:56.772897",
       "destination": "Itália",
@@ -675,14 +683,6 @@
           "summary": "Do boteco raiz à alta gastronomia, passando por wine bar, padaria com pegada francesa, gelateria autoral e choperias &#8211; conheça o roteiro gastronômico que virou parada obrigatória no Circuito das Águas Paulista Fundado em 2008 pelo empresário Rafael Accorsi, o Grupo Café...\nO post Oito endereço"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-02T17:28:58.681402",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
