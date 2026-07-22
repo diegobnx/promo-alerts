@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-22T17:08:17.756508",
+  "last_run": "2026-07-22T21:58:58.578191",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-22T17:08:17.756508",
+    "run_at": "2026-07-22T21:58:58.578191",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
-        "feed_name": "Qual Viagem",
-        "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
-        "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
-        "published": "2026-07-22T19:50:03",
-        "discovered_at": "2026-07-22T17:08:02.359410",
-        "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-22T21:58:58.578191",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-22T17:08:17.756508",
       "destination": "Itália",
@@ -660,14 +658,6 @@
     },
     {
       "run_at": "2026-07-04T21:58:04.568594",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-07-04T14:28:21.634981",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
