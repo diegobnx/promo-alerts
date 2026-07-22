@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-07-22T12:22:38.796414",
+  "last_run": "2026-07-22T17:08:17.756508",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-22T12:22:38.796414",
+    "run_at": "2026-07-22T17:08:17.756508",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
+        "feed_name": "Qual Viagem",
+        "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
+        "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
+        "published": "2026-07-22T19:50:03",
+        "discovered_at": "2026-07-22T17:08:02.359410",
+        "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-22T17:08:17.756508",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
+          "feed_name": "Qual Viagem",
+          "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
+          "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
+          "published": "2026-07-22T19:50:03",
+          "discovered_at": "2026-07-22T17:08:02.359410",
+          "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
+        }
+      ]
+    },
     {
       "run_at": "2026-07-22T12:22:38.796414",
       "destination": "Itália",
@@ -645,27 +673,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-03T21:58:47.062678",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149444",
-          "feed_name": "Qual Viagem",
-          "title": "São Sebastião celebra a cultura caiçara durante 11 dias de festa julina",
-          "link": "https://www.qualviagem.com.br/sao-sebastiao-celebra-a-cultura-caicara-durante-11-dias-de-festa-julina/",
-          "published": "2026-07-03T22:05:57",
-          "discovered_at": "2026-07-03T21:58:32.342150",
-          "summary": "O clima das festas julinas já começa a tomar conta do Litoral Norte. Entre os dias 9 e 19 de julho, o Arraiá Caiçara, realizado em São Sebastião, volta a reunir moradores e turistas em mais uma edição que promete...\nO post São Sebastião celebra a cultura caiçara durante 11 dias de festa julina apare"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
+      "feed_name": "Qual Viagem",
+      "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
+      "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
+      "published": "2026-07-22T19:50:03",
+      "discovered_at": "2026-07-22T17:08:02.359410",
+      "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
       "feed_name": "Passageiro de Primeira",
@@ -890,15 +909,6 @@
       "published": "2026-07-06T21:36:33",
       "discovered_at": "2026-07-06T22:07:12.480851",
       "summary": "Dois tradicionais empreendimentos de Campos do Jordão, a cervejaria Baden Baden e o restaurante Dona Chica na Horta estão unidos em uma parceria especial até dezembro de 2026. A experiência, que combina a tradição cervejeira com a gastronomia regional, oferece...\nO post Baden Baden e Dona Chica se u"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149444",
-      "feed_name": "Qual Viagem",
-      "title": "São Sebastião celebra a cultura caiçara durante 11 dias de festa julina",
-      "link": "https://www.qualviagem.com.br/sao-sebastiao-celebra-a-cultura-caicara-durante-11-dias-de-festa-julina/",
-      "published": "2026-07-03T22:05:57",
-      "discovered_at": "2026-07-03T21:58:32.342150",
-      "summary": "O clima das festas julinas já começa a tomar conta do Litoral Norte. Entre os dias 9 e 19 de julho, o Arraiá Caiçara, realizado em São Sebastião, volta a reunir moradores e turistas em mais uma edição que promete...\nO post São Sebastião celebra a cultura caiçara durante 11 dias de festa julina apare"
     }
   ]
 }
