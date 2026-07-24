@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-07-24T12:14:05.549668",
+  "last_run": "2026-07-24T17:21:30.445669",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-24T12:14:05.549668",
+    "run_at": "2026-07-24T17:21:30.445669",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
-        "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
-        "published": "2026-07-24T12:00:54",
-        "discovered_at": "2026-07-24T12:13:48.393281",
-        "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-24T17:21:30.445669",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-24T12:14:05.549668",
       "destination": "Itália",
@@ -675,14 +673,6 @@
           "summary": "Dois tradicionais empreendimentos de Campos do Jordão, a cervejaria Baden Baden e o restaurante Dona Chica na Horta estão unidos em uma parceria especial até dezembro de 2026. A experiência, que combina a tradição cervejeira com a gastronomia regional, oferece...\nO post Baden Baden e Dona Chica se u"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-06T18:05:27.018879",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
