@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-07-23T21:58:07.607547",
+  "last_run": "2026-07-24T12:14:05.549668",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-23T21:58:07.607547",
+    "run_at": "2026-07-24T12:14:05.549668",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
+        "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
+        "published": "2026-07-24T12:00:54",
+        "discovered_at": "2026-07-24T12:13:48.393281",
+        "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-24T12:14:05.549668",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
+          "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
+          "published": "2026-07-24T12:00:54",
+          "discovered_at": "2026-07-24T12:13:48.393281",
+          "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-23T21:58:07.607547",
       "destination": "Itália",
@@ -655,17 +683,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-06T14:22:12.947389",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
+      "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
+      "published": "2026-07-24T12:00:54",
+      "discovered_at": "2026-07-24T12:13:48.393281",
+      "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
       "feed_name": "Qual Viagem",
