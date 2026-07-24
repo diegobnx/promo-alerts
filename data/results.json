@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-24T17:21:30.445669",
+  "last_run": "2026-07-24T21:57:42.935415",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-24T17:21:30.445669",
+    "run_at": "2026-07-24T21:57:42.935415",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-24T21:57:42.935415",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-24T17:21:30.445669",
       "destination": "Itália",
@@ -646,33 +654,6 @@
           "summary": "A Vila Galé amplia sua presença em Pernambuco com a chegada do Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club. O empreendimento, instalado no Paiva, no município de Cabo de Santo Agostinho, tem abertura prevista...\nO post Vila Galé anuncia abertura de novo resort"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-06T22:07:27.766669",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=623577",
-          "feed_name": "Melhores Destinos",
-          "title": "Itália: passagens para Milão com a Iberia ou Latam a partir de R$ 3.736 ida e volta",
-          "link": "https://www.melhoresdestinos.com.br/promocao/milao-bons-precos-3736",
-          "published": "2026-07-06T14:04:35",
-          "discovered_at": "2026-07-06T22:07:10.665927",
-          "summary": "Milão apareceu com bons preços saindo de São Paulo, em voos da Iberia. Tem passagens aéreas a partir de R$ 3.736 ida e volta, com datas em outubro e novembro, dois meses que costumam render boas viagens pela Itália, com temperaturas mais agradáveis e menos movimento do que no auge do verão europeu. "
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149463",
-          "feed_name": "Qual Viagem",
-          "title": "Baden Baden e Dona Chica se unem para experiência gastronômica em Campos do Jordão",
-          "link": "https://www.qualviagem.com.br/baden-baden-e-dona-chica-se-unem-para-experiencia-gastronomica-em-campos-do-jordao/",
-          "published": "2026-07-06T21:36:33",
-          "discovered_at": "2026-07-06T22:07:12.480851",
-          "summary": "Dois tradicionais empreendimentos de Campos do Jordão, a cervejaria Baden Baden e o restaurante Dona Chica na Horta estão unidos em uma parceria especial até dezembro de 2026. A experiência, que combina a tradição cervejeira com a gastronomia regional, oferece...\nO post Baden Baden e Dona Chica se u"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -900,24 +881,6 @@
       "published": "2026-07-07T15:59:31",
       "discovered_at": "2026-07-07T13:12:45.732939",
       "summary": "A Vila Galé amplia sua presença em Pernambuco com a chegada do Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club. O empreendimento, instalado no Paiva, no município de Cabo de Santo Agostinho, tem abertura prevista...\nO post Vila Galé anuncia abertura de novo resort"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=623577",
-      "feed_name": "Melhores Destinos",
-      "title": "Itália: passagens para Milão com a Iberia ou Latam a partir de R$ 3.736 ida e volta",
-      "link": "https://www.melhoresdestinos.com.br/promocao/milao-bons-precos-3736",
-      "published": "2026-07-06T14:04:35",
-      "discovered_at": "2026-07-06T22:07:10.665927",
-      "summary": "Milão apareceu com bons preços saindo de São Paulo, em voos da Iberia. Tem passagens aéreas a partir de R$ 3.736 ida e volta, com datas em outubro e novembro, dois meses que costumam render boas viagens pela Itália, com temperaturas mais agradáveis e menos movimento do que no auge do verão europeu. "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149463",
-      "feed_name": "Qual Viagem",
-      "title": "Baden Baden e Dona Chica se unem para experiência gastronômica em Campos do Jordão",
-      "link": "https://www.qualviagem.com.br/baden-baden-e-dona-chica-se-unem-para-experiencia-gastronomica-em-campos-do-jordao/",
-      "published": "2026-07-06T21:36:33",
-      "discovered_at": "2026-07-06T22:07:12.480851",
-      "summary": "Dois tradicionais empreendimentos de Campos do Jordão, a cervejaria Baden Baden e o restaurante Dona Chica na Horta estão unidos em uma parceria especial até dezembro de 2026. A experiência, que combina a tradição cervejeira com a gastronomia regional, oferece...\nO post Baden Baden e Dona Chica se u"
     }
   ]
 }
