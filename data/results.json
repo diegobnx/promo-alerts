@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-24T21:57:42.935415",
+  "last_run": "2026-07-25T14:36:33.414702",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-24T21:57:42.935415",
+    "run_at": "2026-07-25T14:36:33.414702",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-25T14:36:33.414702",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-24T21:57:42.935415",
       "destination": "Itália",
@@ -618,42 +626,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-07T13:13:00.478625",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 3,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=623661",
-          "feed_name": "Melhores Destinos",
-          "title": "Data dupla! 7.7 da Latam tem passagens aéreas nacionais com até 40% OFF, a partir de R$ 337 ida e volta!",
-          "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-7-7-latam-06-07-26",
-          "published": "2026-07-06T22:04:02",
-          "discovered_at": "2026-07-07T13:12:43.757127",
-          "summary": "Aa datas duplas estão em alta no comércio, e não é que elas também chegaram até as passagens aéreas? A data é amanhã, mas a Latam já se antecipou e está prometendo desconto de até 40% nos voos nacionais! São milhares de voos nacionais para voar entre 06/09/26 e 06/10/26. Pesquisamos também os menore"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149475",
-          "feed_name": "Qual Viagem",
-          "title": "Grand Mercure São Paulo Pinheiros abre as portas celebrando a essência da cidade",
-          "link": "https://www.qualviagem.com.br/grand-mercure-sao-paulo-pinheiros-abre-as-portas-celebrando-a-essencia-da-cidade/",
-          "published": "2026-07-07T16:11:03",
-          "discovered_at": "2026-07-07T13:12:45.732602",
-          "summary": "A Grand Mercure, marca da Accor, líder global em hospitalidade, reconhecida por celebrar a identidade de cada destino, anuncia a abertura do Grand Mercure São Paulo Pinheiros. A nova unidade convida os hóspedes a descobrir a capital paulista por meio de uma experiência inspirada na cultura local, no"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149471",
-          "feed_name": "Qual Viagem",
-          "title": "Vila Galé anuncia abertura de novo resort no Paiva",
-          "link": "https://www.qualviagem.com.br/vila-gale-anuncia-abertura-de-novo-resort-no-paiva/",
-          "published": "2026-07-07T15:59:31",
-          "discovered_at": "2026-07-07T13:12:45.732939",
-          "summary": "A Vila Galé amplia sua presença em Pernambuco com a chegada do Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club. O empreendimento, instalado no Paiva, no município de Cabo de Santo Agostinho, tem abertura prevista...\nO post Vila Galé anuncia abertura de novo resort"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -854,33 +826,6 @@
       "published": "2026-07-08T15:06:10",
       "discovered_at": "2026-07-08T12:14:46.442490",
       "summary": "O inverno sempre aumenta o movimento em Serra Negra, mas a estação tem revelado um perfil diferente de visitante. Mais do que buscar temperaturas mais amenas, quem chega ao município busca vivências ligadas ao modo de vida da Serra da...\nO post Turismo de experiência impulsiona inverno em Serra Negr"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=623661",
-      "feed_name": "Melhores Destinos",
-      "title": "Data dupla! 7.7 da Latam tem passagens aéreas nacionais com até 40% OFF, a partir de R$ 337 ida e volta!",
-      "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-nacionais-7-7-latam-06-07-26",
-      "published": "2026-07-06T22:04:02",
-      "discovered_at": "2026-07-07T13:12:43.757127",
-      "summary": "Aa datas duplas estão em alta no comércio, e não é que elas também chegaram até as passagens aéreas? A data é amanhã, mas a Latam já se antecipou e está prometendo desconto de até 40% nos voos nacionais! São milhares de voos nacionais para voar entre 06/09/26 e 06/10/26. Pesquisamos também os menore"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149475",
-      "feed_name": "Qual Viagem",
-      "title": "Grand Mercure São Paulo Pinheiros abre as portas celebrando a essência da cidade",
-      "link": "https://www.qualviagem.com.br/grand-mercure-sao-paulo-pinheiros-abre-as-portas-celebrando-a-essencia-da-cidade/",
-      "published": "2026-07-07T16:11:03",
-      "discovered_at": "2026-07-07T13:12:45.732602",
-      "summary": "A Grand Mercure, marca da Accor, líder global em hospitalidade, reconhecida por celebrar a identidade de cada destino, anuncia a abertura do Grand Mercure São Paulo Pinheiros. A nova unidade convida os hóspedes a descobrir a capital paulista por meio de uma experiência inspirada na cultura local, no"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149471",
-      "feed_name": "Qual Viagem",
-      "title": "Vila Galé anuncia abertura de novo resort no Paiva",
-      "link": "https://www.qualviagem.com.br/vila-gale-anuncia-abertura-de-novo-resort-no-paiva/",
-      "published": "2026-07-07T15:59:31",
-      "discovered_at": "2026-07-07T13:12:45.732939",
-      "summary": "A Vila Galé amplia sua presença em Pernambuco com a chegada do Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club. O empreendimento, instalado no Paiva, no município de Cabo de Santo Agostinho, tem abertura prevista...\nO post Vila Galé anuncia abertura de novo resort"
     }
   ]
 }
