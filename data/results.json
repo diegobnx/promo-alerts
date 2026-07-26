@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-07-26T14:27:47.734901",
+  "last_run": "2026-07-26T21:57:58.024765",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-26T14:27:47.734901",
+    "run_at": "2026-07-26T21:57:58.024765",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553310",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Aeroporto de Roma é eleito o melhor da Europa",
-        "link": "https://passageirodeprimeira.com/aeroporto-leonardo-vinci-fiumicino-roma/",
-        "published": "2026-07-25T22:00:30",
-        "discovered_at": "2026-07-26T14:27:29.763225",
-        "summary": "O Airports Council International (ACI) elegeu o Aeroporto Leonardo da Vinci–Fiumicino, em Roma, como o Melhor Aeroporto da Europa. O reconhecimento foi anunciado durante o congresso anual da Airports Council International (ACI EUROPE), realizado em Praga, na República Tcheca.\nO post Aeroporto de Rom"
-      },
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=133161",
-        "feed_name": "Pontos pra Voar",
-        "title": "Coliseu e Termas de Caracalla terão visitas noturnas na Itália",
-        "link": "https://pontospravoar.com/coliseu-e-termas-de-caracalla-terao-visitas-noturnas-na-italia/",
-        "published": "2026-07-26T12:00:34",
-        "discovered_at": "2026-07-26T14:27:38.096208",
-        "summary": "Dois dos mais emblemáticos monumentos de Roma, o Coliseu e as Termas de Caracalla, retomaram as programações especiais de visitas noturnas. O programa &#8220;Uma Noite no Coliseu&#8221; oferece passeios guiados pelos subterrâneos e piso da arena com limitação de 25 pessoas por grupo. Já o &#8220;Not"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-26T21:57:58.024765",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-26T14:27:47.734901",
       "destination": "Itália",
@@ -656,24 +645,6 @@
           "summary": "Julho promete uma programação intensa para quem escolhe o Aqualand Resort, em Salinópolis (PA), como destino. Ao longo de todo o mês, o complexo paraense preparou uma agenda de atividades voltada para hóspedes e visitantes, reunindo recreação, entretenimento, gastronomia e...\nO post Aqualand Resort "
         }
       ]
-    },
-    {
-      "run_at": "2026-07-08T12:14:59.084955",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149482",
-          "feed_name": "Qual Viagem",
-          "title": "Turismo de experiência impulsiona inverno em Serra Negra",
-          "link": "https://www.qualviagem.com.br/turismo-de-experiencia-impulsiona-inverno-em-serra-negra/",
-          "published": "2026-07-08T15:06:10",
-          "discovered_at": "2026-07-08T12:14:46.442490",
-          "summary": "O inverno sempre aumenta o movimento em Serra Negra, mas a estação tem revelado um perfil diferente de visitante. Mais do que buscar temperaturas mais amenas, quem chega ao município busca vivências ligadas ao modo de vida da Serra da...\nO post Turismo de experiência impulsiona inverno em Serra Negr"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -892,15 +863,6 @@
       "published": "2026-07-08T19:53:10",
       "discovered_at": "2026-07-08T17:21:04.219730",
       "summary": "Julho promete uma programação intensa para quem escolhe o Aqualand Resort, em Salinópolis (PA), como destino. Ao longo de todo o mês, o complexo paraense preparou uma agenda de atividades voltada para hóspedes e visitantes, reunindo recreação, entretenimento, gastronomia e...\nO post Aqualand Resort "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149482",
-      "feed_name": "Qual Viagem",
-      "title": "Turismo de experiência impulsiona inverno em Serra Negra",
-      "link": "https://www.qualviagem.com.br/turismo-de-experiencia-impulsiona-inverno-em-serra-negra/",
-      "published": "2026-07-08T15:06:10",
-      "discovered_at": "2026-07-08T12:14:46.442490",
-      "summary": "O inverno sempre aumenta o movimento em Serra Negra, mas a estação tem revelado um perfil diferente de visitante. Mais do que buscar temperaturas mais amenas, quem chega ao município busca vivências ligadas ao modo de vida da Serra da...\nO post Turismo de experiência impulsiona inverno em Serra Negr"
     }
   ]
 }
