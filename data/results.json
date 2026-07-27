@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-26T21:57:58.024765",
+  "last_run": "2026-07-27T13:33:02.910841",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-26T21:57:58.024765",
+    "run_at": "2026-07-27T13:33:02.910841",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-27T13:33:02.910841",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-26T21:57:58.024765",
       "destination": "Itália",
@@ -627,24 +635,6 @@
           "summary": "A Esfera anunciou uma atualização na paridade de transferência de pontos para o programa Etihad Guest.\nO post Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-07-08T17:21:19.302115",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149509",
-          "feed_name": "Qual Viagem",
-          "title": "Aqualand Resort lança programação de férias com shows e polo gastronômico no Pará",
-          "link": "https://www.qualviagem.com.br/aqualand-resort-lanca-programacao-de-ferias-com-shows-e-polo-gastronomico-no-para/",
-          "published": "2026-07-08T19:53:10",
-          "discovered_at": "2026-07-08T17:21:04.219730",
-          "summary": "Julho promete uma programação intensa para quem escolhe o Aqualand Resort, em Salinópolis (PA), como destino. Ao longo de todo o mês, o complexo paraense preparou uma agenda de atividades voltada para hóspedes e visitantes, reunindo recreação, entretenimento, gastronomia e...\nO post Aqualand Resort "
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -854,15 +844,6 @@
       "published": "2026-07-08T20:30:01",
       "discovered_at": "2026-07-08T21:59:20.474964",
       "summary": "A Esfera anunciou uma atualização na paridade de transferência de pontos para o programa Etihad Guest.\nO post Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149509",
-      "feed_name": "Qual Viagem",
-      "title": "Aqualand Resort lança programação de férias com shows e polo gastronômico no Pará",
-      "link": "https://www.qualviagem.com.br/aqualand-resort-lanca-programacao-de-ferias-com-shows-e-polo-gastronomico-no-para/",
-      "published": "2026-07-08T19:53:10",
-      "discovered_at": "2026-07-08T17:21:04.219730",
-      "summary": "Julho promete uma programação intensa para quem escolhe o Aqualand Resort, em Salinópolis (PA), como destino. Ao longo de todo o mês, o complexo paraense preparou uma agenda de atividades voltada para hóspedes e visitantes, reunindo recreação, entretenimento, gastronomia e...\nO post Aqualand Resort "
     }
   ]
 }
