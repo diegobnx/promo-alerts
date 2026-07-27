@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-27T13:33:02.910841",
+  "last_run": "2026-07-27T17:36:56.947833",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-27T13:33:02.910841",
+    "run_at": "2026-07-27T17:36:56.947833",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-27T17:36:56.947833",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-27T13:33:02.910841",
       "destination": "Itália",
@@ -617,24 +625,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-08T21:59:40.300411",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549549",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest",
-          "link": "https://passageirodeprimeira.com/esfera-vai-aumentar-paridade-de-transferencia-de-pontos-para-o-etihad-guest/",
-          "published": "2026-07-08T20:30:01",
-          "discovered_at": "2026-07-08T21:59:20.474964",
-          "summary": "A Esfera anunciou uma atualização na paridade de transferência de pontos para o programa Etihad Guest.\nO post Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest apareceu primeiro em Passageiro de Primeira."
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -835,15 +825,6 @@
       "published": "2026-07-10T13:20:06",
       "discovered_at": "2026-07-10T13:04:48.608375",
       "summary": "Em meio às Montanhas Capixabas, cercado pela Mata Atlântica preservada da Reserva Ambiental Águia Branca, o restaurante Sapucaia da Mata – Cozinha Original abre as portas colocando os ingredientes do Espírito Santo no centro da experiência gastronômica. O espaço recém-inaugurado...\nO post Sapucaia d"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=549549",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest",
-      "link": "https://passageirodeprimeira.com/esfera-vai-aumentar-paridade-de-transferencia-de-pontos-para-o-etihad-guest/",
-      "published": "2026-07-08T20:30:01",
-      "discovered_at": "2026-07-08T21:59:20.474964",
-      "summary": "A Esfera anunciou uma atualização na paridade de transferência de pontos para o programa Etihad Guest.\nO post Esfera vai aumentar paridade de transferência de pontos para o Etihad Guest apareceu primeiro em Passageiro de Primeira."
     }
   ]
 }
