@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-07-27T17:36:56.947833",
+  "last_run": "2026-07-27T21:57:45.029811",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-27T17:36:56.947833",
+    "run_at": "2026-07-27T21:57:45.029811",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
+        "feed_name": "Passageiro de Primeira",
+        "title": "ALL Signature anuncia planos exclusivos para clientes XP",
+        "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
+        "published": "2026-07-27T20:14:06",
+        "discovered_at": "2026-07-27T21:57:26.478759",
+        "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-07-27T21:57:45.029811",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
+          "feed_name": "Passageiro de Primeira",
+          "title": "ALL Signature anuncia planos exclusivos para clientes XP",
+          "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
+          "published": "2026-07-27T20:14:06",
+          "discovered_at": "2026-07-27T21:57:26.478759",
+          "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-27T17:36:56.947833",
       "destination": "Itália",
@@ -617,17 +645,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-09T13:44:12.564920",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
+      "feed_name": "Passageiro de Primeira",
+      "title": "ALL Signature anuncia planos exclusivos para clientes XP",
+      "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
+      "published": "2026-07-27T20:14:06",
+      "discovered_at": "2026-07-27T21:57:26.478759",
+      "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553310",
       "feed_name": "Passageiro de Primeira",
