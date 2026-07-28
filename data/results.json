@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-07-28T12:49:00.504592",
+  "last_run": "2026-07-28T17:20:14.864954",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-28T12:49:00.504592",
+    "run_at": "2026-07-28T17:20:14.864954",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553725",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Aerolíneas Argentinas anuncia maior renovação de frota em 10 anos",
-        "link": "https://passageirodeprimeira.com/aerolineas-argentinas-anuncia-maior-renovacao-frota-10-anos/",
-        "published": "2026-07-28T11:20:23",
-        "discovered_at": "2026-07-28T12:48:41.718383",
-        "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=133511",
+        "feed_name": "Pontos pra Voar",
+        "title": "Nubank lança segmento Croma com cartão Platinum, cashback e programa de pontos",
+        "link": "https://pontospravoar.com/nubank-lanca-segmento-croma-com-cartao-platinum-cashback-e-programa-de-pontos/",
+        "published": "2026-07-28T16:30:49",
+        "discovered_at": "2026-07-28T17:20:04.530349",
+        "summary": "O Nubank lançou o Croma, novo segmento que combina cartão Mastercard Platinum, cashback ou programa de pontos, benefícios em serviços digitais, soluções de investimento e condições especiais para clientes que concentram seu relacionamento financeiro na instituição. O Nubank anunciou nesta terça-feir"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-07-28T17:20:14.864954",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=133511",
+          "feed_name": "Pontos pra Voar",
+          "title": "Nubank lança segmento Croma com cartão Platinum, cashback e programa de pontos",
+          "link": "https://pontospravoar.com/nubank-lanca-segmento-croma-com-cartao-platinum-cashback-e-programa-de-pontos/",
+          "published": "2026-07-28T16:30:49",
+          "discovered_at": "2026-07-28T17:20:04.530349",
+          "summary": "O Nubank lançou o Croma, novo segmento que combina cartão Mastercard Platinum, cashback ou programa de pontos, benefícios em serviços digitais, soluções de investimento e condições especiais para clientes que concentram seu relacionamento financeiro na instituição. O Nubank anunciou nesta terça-feir"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-28T12:49:00.504592",
       "destination": "Itália",
@@ -647,17 +665,18 @@
           "summary": "Em meio às Montanhas Capixabas, cercado pela Mata Atlântica preservada da Reserva Ambiental Águia Branca, o restaurante Sapucaia da Mata – Cozinha Original abre as portas colocando os ingredientes do Espírito Santo no centro da experiência gastronômica. O espaço recém-inaugurado...\nO post Sapucaia d"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-09T22:15:00.183801",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=133511",
+      "feed_name": "Pontos pra Voar",
+      "title": "Nubank lança segmento Croma com cartão Platinum, cashback e programa de pontos",
+      "link": "https://pontospravoar.com/nubank-lanca-segmento-croma-com-cartao-platinum-cashback-e-programa-de-pontos/",
+      "published": "2026-07-28T16:30:49",
+      "discovered_at": "2026-07-28T17:20:04.530349",
+      "summary": "O Nubank lançou o Croma, novo segmento que combina cartão Mastercard Platinum, cashback ou programa de pontos, benefícios em serviços digitais, soluções de investimento e condições especiais para clientes que concentram seu relacionamento financeiro na instituição. O Nubank anunciou nesta terça-feir"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553725",
       "feed_name": "Passageiro de Primeira",
