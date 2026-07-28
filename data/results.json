@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-07-27T21:57:45.029811",
+  "last_run": "2026-07-28T12:49:00.504592",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-27T21:57:45.029811",
+    "run_at": "2026-07-28T12:49:00.504592",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553725",
         "feed_name": "Passageiro de Primeira",
-        "title": "ALL Signature anuncia planos exclusivos para clientes XP",
-        "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
-        "published": "2026-07-27T20:14:06",
-        "discovered_at": "2026-07-27T21:57:26.478759",
-        "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
+        "title": "Aerolíneas Argentinas anuncia maior renovação de frota em 10 anos",
+        "link": "https://passageirodeprimeira.com/aerolineas-argentinas-anuncia-maior-renovacao-frota-10-anos/",
+        "published": "2026-07-28T11:20:23",
+        "discovered_at": "2026-07-28T12:48:41.718383",
+        "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-07-28T12:49:00.504592",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553725",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Aerolíneas Argentinas anuncia maior renovação de frota em 10 anos",
+          "link": "https://passageirodeprimeira.com/aerolineas-argentinas-anuncia-maior-renovacao-frota-10-anos/",
+          "published": "2026-07-28T11:20:23",
+          "discovered_at": "2026-07-28T12:48:41.718383",
+          "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-27T21:57:45.029811",
       "destination": "Itália",
@@ -637,17 +655,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-09T17:48:56.733219",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553725",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Aerolíneas Argentinas anuncia maior renovação de frota em 10 anos",
+      "link": "https://passageirodeprimeira.com/aerolineas-argentinas-anuncia-maior-renovacao-frota-10-anos/",
+      "published": "2026-07-28T11:20:23",
+      "discovered_at": "2026-07-28T12:48:41.718383",
+      "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
       "feed_name": "Passageiro de Primeira",
