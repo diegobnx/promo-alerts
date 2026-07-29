@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-29T17:06:01.029553",
+  "last_run": "2026-07-29T21:52:30.977635",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-29T17:06:01.029553",
+    "run_at": "2026-07-29T21:52:30.977635",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-29T21:52:30.977635",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-29T17:06:01.029553",
       "destination": "Itália",
@@ -627,24 +635,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-11T14:21:16.220483",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=548407",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Livelo oferece 50% de bônus nas transferências de pontos para o Hilton Honors",
-          "link": "https://passageirodeprimeira.com/livelo-inicia-parceria-com-hilton-honors-e-oferece-50-de-bonus-nas-transferencias-de-pontos/",
-          "published": "2026-07-11T14:00:04",
-          "discovered_at": "2026-07-11T14:20:58.654724",
-          "summary": "A Livelo está oferecendo 50% de bônus nas transferências de pontos para o Hilton Honors, programa de fidelidade da rede hoteleira Hilton. A promoção vai até o final de julho (31).\nO post Livelo oferece 50% de bônus nas transferências de pontos para o Hilton Honors apareceu primeiro em Passageiro de "
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -854,15 +844,6 @@
       "published": "2026-07-13T12:00:19",
       "discovered_at": "2026-07-13T13:12:40.229037",
       "summary": "A TAP Air Portugal anunciou recentemente uma nova rota para Praia (RAI), capital de Cabo Verde. Os voos são operados três vezes na semana e são diretos.\nO post TAP Air Portugal anuncia nova rota entre Porto e Cabo Verde apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=548407",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Livelo oferece 50% de bônus nas transferências de pontos para o Hilton Honors",
-      "link": "https://passageirodeprimeira.com/livelo-inicia-parceria-com-hilton-honors-e-oferece-50-de-bonus-nas-transferencias-de-pontos/",
-      "published": "2026-07-11T14:00:04",
-      "discovered_at": "2026-07-11T14:20:58.654724",
-      "summary": "A Livelo está oferecendo 50% de bônus nas transferências de pontos para o Hilton Honors, programa de fidelidade da rede hoteleira Hilton. A promoção vai até o final de julho (31).\nO post Livelo oferece 50% de bônus nas transferências de pontos para o Hilton Honors apareceu primeiro em Passageiro de "
     }
   ]
 }
