@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-30T17:16:53.239847",
+  "last_run": "2026-07-30T22:00:18.645650",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-30T17:16:53.239847",
+    "run_at": "2026-07-30T22:00:18.645650",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-30T22:00:18.645650",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-30T17:16:53.239847",
       "destination": "Itália",
@@ -627,14 +635,6 @@
           "summary": "A TAP Air Portugal anunciou recentemente uma nova rota para Praia (RAI), capital de Cabo Verde. Os voos são operados três vezes na semana e são diretos.\nO post TAP Air Portugal anuncia nova rota entre Porto e Cabo Verde apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-07-12T21:48:16.896600",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
