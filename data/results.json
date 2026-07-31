@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-07-31T12:51:04.925229",
+  "last_run": "2026-07-31T17:21:29.925600",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-31T12:51:04.925229",
+    "run_at": "2026-07-31T17:21:29.925600",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-07-31T17:21:29.925600",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-07-31T12:51:04.925229",
       "destination": "Itália",
@@ -617,14 +625,6 @@
           "summary": "Se Roma está entre os seus próximos destinos internacionais, o Alerta de Passagens PPV de hoje pode ajudar a economizar no resgate. Nossa equipe encontrou oportunidades de emissão no LATAM Pass, com passagens a partir de 65 mil milhas + taxas. Confira as opções que selecionamos e comece a planejar s"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-13T17:49:08.456093",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
