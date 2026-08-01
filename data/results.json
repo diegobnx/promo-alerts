@@ -1,43 +1,43 @@
 {
-  "last_run": "2026-07-31T21:58:27.832371",
+  "last_run": "2026-08-01T14:25:01.461604",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-07-31T21:58:27.832371",
+    "run_at": "2026-08-01T14:25:01.461604",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150311",
-        "feed_name": "Qual Viagem",
-        "title": "Hard Rock Hotels anuncia renovação completa de seus resorts em Cancún e Vallarta",
-        "link": "https://www.qualviagem.com.br/hard-rock-hotels-anuncia-renovacao-completa-de-seus-resorts-em-cancun-e-vallarta/",
-        "published": "2026-07-31T23:28:00",
-        "discovered_at": "2026-07-31T21:58:12.038337",
-        "summary": "A Hard Rock Hotels anunciou uma transformação sem precedentes em dois de seus mais emblemáticos resorts à beira-mar no México: Hard Rock Hotel Cancún e Hard Rock Hotel Vallarta. Ambas as propriedades suspenderão temporariamente suas operações durante o inverno para...\nO post Hard Rock Hotels anuncia"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150307",
-        "feed_name": "Qual Viagem",
-        "title": "Turismo de bem-estar: descubra as águas termais mais famosas da Turquia",
-        "link": "https://www.qualviagem.com.br/turismo-de-bem-estar-descubra-as-aguas-termais-mais-famosas-da-turquia/",
-        "published": "2026-07-31T23:04:53",
-        "discovered_at": "2026-07-31T21:58:12.038665",
-        "summary": "Na Turquia, o cuidado com o corpo e a mente não é apenas uma pausa na rotina, mas parte de uma tradição que atravessa séculos. De antigos banhos romanos a resorts termais contemporâneos, o país é reconhecido por suas águas ricas em minerais e por paisagens que...\nO post Turismo de bem-estar: descubr"
-      },
-      {
-        "id": "Pontos pra Voar:https://pontospravoar.com/?p=133870",
-        "feed_name": "Pontos pra Voar",
-        "title": "7 rotas de trem pouco conhecidas na Europa que merecem entrar no seu roteiro",
-        "link": "https://pontospravoar.com/7-rotas-de-trem-pouco-conhecidas-na-europa-que-merecem-entrar-no-seu-roteiro/",
-        "published": "2026-07-31T20:30:39",
-        "discovered_at": "2026-07-31T21:58:17.895956",
-        "summary": "Procurando por rotas de trem na Europa? Além dos eixos turísticos tradicionais, a malha ferroviária europeia oferece conexões eficientes que interligam centros urbanos e regiões históricas em trajetos de até 3h15. Rotas como Florença–Bolonha e Madri–Toledo destacam-se pela agilidade, tarifas competi"
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=629374",
+        "feed_name": "Melhores Destinos",
+        "title": "Itália deve reforçar controle para quem chega da Espanha; entenda o impacto para turistas brasileiros",
+        "link": "https://www.melhoresdestinos.com.br/controle-fronteira-italia-espanha-brasileiros-europa.html",
+        "published": "2026-07-31T22:40:08",
+        "discovered_at": "2026-08-01T14:24:47.018070",
+        "summary": "Se você está na Europa ou com viagem marcada, pode ter visto notícias sobre a Itália suspender temporariamente a livre circulação com a Espanha após a crise migratória recente em Ceuta. A boa notícia para quem vai viajar entre os países a turismo é que não há proibição de entrada para turistas. O qu"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-08-01T14:25:01.461604",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=629374",
+          "feed_name": "Melhores Destinos",
+          "title": "Itália deve reforçar controle para quem chega da Espanha; entenda o impacto para turistas brasileiros",
+          "link": "https://www.melhoresdestinos.com.br/controle-fronteira-italia-espanha-brasileiros-europa.html",
+          "published": "2026-07-31T22:40:08",
+          "discovered_at": "2026-08-01T14:24:47.018070",
+          "summary": "Se você está na Europa ou com viagem marcada, pode ter visto notícias sobre a Itália suspender temporariamente a livre circulação com a Espanha após a crise migratória recente em Ceuta. A boa notícia para quem vai viajar entre os países a turismo é que não há proibição de entrada para turistas. O qu"
+        }
+      ]
+    },
     {
       "run_at": "2026-07-31T21:58:27.832371",
       "destination": "Itália",
@@ -654,17 +654,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-14T12:06:11.431752",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=629374",
+      "feed_name": "Melhores Destinos",
+      "title": "Itália deve reforçar controle para quem chega da Espanha; entenda o impacto para turistas brasileiros",
+      "link": "https://www.melhoresdestinos.com.br/controle-fronteira-italia-espanha-brasileiros-europa.html",
+      "published": "2026-07-31T22:40:08",
+      "discovered_at": "2026-08-01T14:24:47.018070",
+      "summary": "Se você está na Europa ou com viagem marcada, pode ter visto notícias sobre a Itália suspender temporariamente a livre circulação com a Espanha após a crise migratória recente em Ceuta. A boa notícia para quem vai viajar entre os países a turismo é que não há proibição de entrada para turistas. O qu"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150311",
       "feed_name": "Qual Viagem",
