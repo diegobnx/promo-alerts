@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-08-04T17:36:14.016245",
+  "last_run": "2026-08-04T22:05:10.680169",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-04T17:36:14.016245",
+    "run_at": "2026-08-04T22:05:10.680169",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150446",
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150458",
         "feed_name": "Qual Viagem",
-        "title": "United Airlines amplia experiência premium em São Paulo",
-        "link": "https://www.qualviagem.com.br/united-airlines-amplia-experiencia-premium-em-sao-paulo/",
-        "published": "2026-08-04T18:30:08",
-        "discovered_at": "2026-08-04T17:35:59.552891",
-        "summary": "A United Airlines passará a operar sua aeronave Boeing 787-9 Dreamliner com o novo interior Elevated na rota entre Houston (IAH) e São Paulo (GRU) a partir de 24 de outubro de 2026 (sentido Houston-São Paulo), com o primeiro voo...\nO post United Airlines amplia experiência premium em São Paulo apare"
+        "title": "MSC Cruzeiros amplia opções no Caribe Sul com novos embarques na República Dominicana",
+        "link": "https://www.qualviagem.com.br/msc-cruzeiros-amplia-opcoes-no-caribe-sul-com-novos-embarques-na-republica-dominicana/",
+        "published": "2026-08-05T00:34:48",
+        "discovered_at": "2026-08-04T22:04:56.044461",
+        "summary": "A MSC Cruzeiros passará a oferecer, a partir de novembro deste ano, um novo roteiro pelo Caribe Sul e Antilhas com embarques em La Romana, na República Dominicana. A novidade será realizada a bordo do MSC Opera, com itinerários de...\nO post MSC Cruzeiros amplia opções no Caribe Sul com novos embarqu"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-08-04T22:05:10.680169",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150458",
+          "feed_name": "Qual Viagem",
+          "title": "MSC Cruzeiros amplia opções no Caribe Sul com novos embarques na República Dominicana",
+          "link": "https://www.qualviagem.com.br/msc-cruzeiros-amplia-opcoes-no-caribe-sul-com-novos-embarques-na-republica-dominicana/",
+          "published": "2026-08-05T00:34:48",
+          "discovered_at": "2026-08-04T22:04:56.044461",
+          "summary": "A MSC Cruzeiros passará a oferecer, a partir de novembro deste ano, um novo roteiro pelo Caribe Sul e Antilhas com embarques em La Romana, na República Dominicana. A novidade será realizada a bordo do MSC Opera, com itinerários de...\nO post MSC Cruzeiros amplia opções no Caribe Sul com novos embarqu"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-04T17:36:14.016245",
       "destination": "Itália",
@@ -684,17 +702,18 @@
           "summary": "O ALL Accor iniciou o crédito da parcela final da campanha de transferência com a Azul para celebrar os 15 anos do PP. Nesta etapa, está sendo pago o bônus adicional de 15% destinado a quem vinculou as contas ALL e Azul.\nO post ALL Accor começa a creditar o bônus final da campanha de transferência c"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-17T12:03:09.626414",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150458",
+      "feed_name": "Qual Viagem",
+      "title": "MSC Cruzeiros amplia opções no Caribe Sul com novos embarques na República Dominicana",
+      "link": "https://www.qualviagem.com.br/msc-cruzeiros-amplia-opcoes-no-caribe-sul-com-novos-embarques-na-republica-dominicana/",
+      "published": "2026-08-05T00:34:48",
+      "discovered_at": "2026-08-04T22:04:56.044461",
+      "summary": "A MSC Cruzeiros passará a oferecer, a partir de novembro deste ano, um novo roteiro pelo Caribe Sul e Antilhas com embarques em La Romana, na República Dominicana. A novidade será realizada a bordo do MSC Opera, com itinerários de...\nO post MSC Cruzeiros amplia opções no Caribe Sul com novos embarqu"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150446",
       "feed_name": "Qual Viagem",
