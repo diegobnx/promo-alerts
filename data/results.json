@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-04T12:53:38.451607",
+  "last_run": "2026-08-04T17:36:14.016245",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-04T12:53:38.451607",
+    "run_at": "2026-08-04T17:36:14.016245",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150446",
+        "feed_name": "Qual Viagem",
+        "title": "United Airlines amplia experiência premium em São Paulo",
+        "link": "https://www.qualviagem.com.br/united-airlines-amplia-experiencia-premium-em-sao-paulo/",
+        "published": "2026-08-04T18:30:08",
+        "discovered_at": "2026-08-04T17:35:59.552891",
+        "summary": "A United Airlines passará a operar sua aeronave Boeing 787-9 Dreamliner com o novo interior Elevated na rota entre Houston (IAH) e São Paulo (GRU) a partir de 24 de outubro de 2026 (sentido Houston-São Paulo), com o primeiro voo...\nO post United Airlines amplia experiência premium em São Paulo apare"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-04T17:36:14.016245",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150446",
+          "feed_name": "Qual Viagem",
+          "title": "United Airlines amplia experiência premium em São Paulo",
+          "link": "https://www.qualviagem.com.br/united-airlines-amplia-experiencia-premium-em-sao-paulo/",
+          "published": "2026-08-04T18:30:08",
+          "discovered_at": "2026-08-04T17:35:59.552891",
+          "summary": "A United Airlines passará a operar sua aeronave Boeing 787-9 Dreamliner com o novo interior Elevated na rota entre Houston (IAH) e São Paulo (GRU) a partir de 24 de outubro de 2026 (sentido Houston-São Paulo), com o primeiro voo...\nO post United Airlines amplia experiência premium em São Paulo apare"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-04T12:53:38.451607",
       "destination": "Itália",
@@ -664,17 +692,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-16T21:57:28.655428",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150446",
+      "feed_name": "Qual Viagem",
+      "title": "United Airlines amplia experiência premium em São Paulo",
+      "link": "https://www.qualviagem.com.br/united-airlines-amplia-experiencia-premium-em-sao-paulo/",
+      "published": "2026-08-04T18:30:08",
+      "discovered_at": "2026-08-04T17:35:59.552891",
+      "summary": "A United Airlines passará a operar sua aeronave Boeing 787-9 Dreamliner com o novo interior Elevated na rota entre Houston (IAH) e São Paulo (GRU) a partir de 24 de outubro de 2026 (sentido Houston-São Paulo), com o primeiro voo...\nO post United Airlines amplia experiência premium em São Paulo apare"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=555689",
       "feed_name": "Passageiro de Primeira",
