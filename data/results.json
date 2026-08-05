@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-08-05T17:22:07.140892",
+  "last_run": "2026-08-05T22:06:26.125280",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-05T17:22:07.140892",
+    "run_at": "2026-08-05T22:06:26.125280",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150521",
-        "feed_name": "Qual Viagem",
-        "title": "Atlantica Hospitality International transforma corrida de rua em experiência de relacionamento",
-        "link": "https://www.qualviagem.com.br/atlantica-hospitality-international-transforma-corrida-de-rua-em-experiencia-de-relacionamento/",
-        "published": "2026-08-05T19:45:27",
-        "discovered_at": "2026-08-05T17:21:49.565750",
-        "summary": "A Atlantica Hospitality International, plataforma multimarcas de hospitalidade com 168 empreendimentos e 28,1 mil quartos em todo o Brasil, realizou, no dia 1º de agosto, em Belo Horizonte (MG), a primeira edição do Let&#8217;s Run &#38; Walk Atlantica Experience. A iniciativa...\nO post Atlantica Ho"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-05T22:06:26.125280",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-05T17:22:07.140892",
       "destination": "Itália",
@@ -684,14 +682,6 @@
           "summary": "“Made in Italy” e aplicativos que conectam lugares e moradores locais com visitantes prometem roteiros únicos e personalizados. Objetivo é fazer com que turistas conheçam a Itália com conexões mais autênticas e profundas, fora dos grandes e aglomerados centros. Diante de cada vez mais barreiras e ma"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-18T14:19:16.547531",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
