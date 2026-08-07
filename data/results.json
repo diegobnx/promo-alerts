@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-07T00:59:40.973599",
+  "last_run": "2026-08-07T11:39:14.667833",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-07T00:59:40.973599",
+    "run_at": "2026-08-07T11:39:14.667833",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-07T11:39:14.667833",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-07T00:59:40.973599",
       "destination": "Itália",
@@ -664,24 +672,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-19T21:50:36.067766",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=551369",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Frontier terá internet Starlink em todos os voos a partir de 2027",
-          "link": "https://passageirodeprimeira.com/frontier-internet-starlink/",
-          "published": "2026-07-19T19:30:43",
-          "discovered_at": "2026-07-19T21:50:18.227342",
-          "summary": "A Frontier Airlines anunciou que terá internet via Starlink a partir de 2027. A tecnologia promete proporcionar conexão de alta velocidade para os passageiros, permitindo streaming em 4K e acesso à internet durante todo o voo. Com a instalação prevista em mais de 1.000 aeronaves, a iniciativa busca "
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -927,15 +917,6 @@
       "published": "2026-07-20T16:30:24",
       "discovered_at": "2026-07-20T17:25:38.576349",
       "summary": "A Emirates começou a instalar um novo apoio de cabeça ajustável na classe econômica, batizado de U-Dream. A novidade conta com abas laterais que ajudam a sustentar a cabeça e o pescoço durante o sono, prometendo mais conforto em voos de longa duração. A Emirates anunciou uma novidade que promete tor"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=551369",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Frontier terá internet Starlink em todos os voos a partir de 2027",
-      "link": "https://passageirodeprimeira.com/frontier-internet-starlink/",
-      "published": "2026-07-19T19:30:43",
-      "discovered_at": "2026-07-19T21:50:18.227342",
-      "summary": "A Frontier Airlines anunciou que terá internet via Starlink a partir de 2027. A tecnologia promete proporcionar conexão de alta velocidade para os passageiros, permitindo streaming em 4K e acesso à internet durante todo o voo. Com a instalação prevista em mais de 1.000 aeronaves, a iniciativa busca "
     }
   ]
 }
