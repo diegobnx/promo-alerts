@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-08T21:27:48.806334",
+  "last_run": "2026-08-09T13:48:05.519376",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-08T21:27:48.806334",
+    "run_at": "2026-08-09T13:48:05.519376",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=556494",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Azul Conecta inicia voos para Diamantina e São João del-Rei saindo de BH",
+        "link": "https://passageirodeprimeira.com/azul-conecta-inicia-voos-para-diamantina-e-sao-joao-del-rei-saindo-de-bh/",
+        "published": "2026-08-09T11:00:31",
+        "discovered_at": "2026-08-09T13:47:48.357093",
+        "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-09T13:48:05.519376",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=556494",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Azul Conecta inicia voos para Diamantina e São João del-Rei saindo de BH",
+          "link": "https://passageirodeprimeira.com/azul-conecta-inicia-voos-para-diamantina-e-sao-joao-del-rei-saindo-de-bh/",
+          "published": "2026-08-09T11:00:31",
+          "discovered_at": "2026-08-09T13:47:48.357093",
+          "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
+        }
+      ]
+    },
     {
       "run_at": "2026-08-08T21:27:48.806334",
       "destination": "Itália",
@@ -635,36 +663,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-21T17:07:39.690427",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
-          "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
-          "published": "2026-07-21T15:50:08",
-          "discovered_at": "2026-07-21T17:07:23.200897",
-          "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
-          "feed_name": "Qual Viagem",
-          "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
-          "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
-          "published": "2026-07-21T18:09:09",
-          "discovered_at": "2026-07-21T17:07:26.279969",
-          "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=556494",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Azul Conecta inicia voos para Diamantina e São João del-Rei saindo de BH",
+      "link": "https://passageirodeprimeira.com/azul-conecta-inicia-voos-para-diamantina-e-sao-joao-del-rei-saindo-de-bh/",
+      "published": "2026-08-09T11:00:31",
+      "discovered_at": "2026-08-09T13:47:48.357093",
+      "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150544",
       "feed_name": "Qual Viagem",
@@ -880,24 +890,6 @@
       "published": "2026-07-22T19:50:03",
       "discovered_at": "2026-07-22T17:08:02.359410",
       "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=552334",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri",
-      "link": "https://passageirodeprimeira.com/riyadh-air-anuncia-nova-rota-direta-entre-arabia-saudita-e-madri/",
-      "published": "2026-07-21T15:50:08",
-      "discovered_at": "2026-07-21T17:07:23.200897",
-      "summary": "A Riyadh Air anunciou recentemente uma nova rota entre Riade (RUH) e Madri (MAD), criando uma nova rota entre Espanha e Arábia Saudita. As atividades dos novos voos já foram iniciadas.\nO post Riyadh Air anuncia nova rota direta entre Arábia Saudita e Madri apareceu primeiro em Passageiro de Primeira"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149747",
-      "feed_name": "Qual Viagem",
-      "title": "Sheraton Grand Rio convida hóspedes e visitantes a viverem uma experiência exclusiva de bem-estar",
-      "link": "https://www.qualviagem.com.br/sheraton-grand-rio-convida-hospedes-e-visitantes-a-viverem-uma-experiencia-exclusiva-de-bem-estar/",
-      "published": "2026-07-21T18:09:09",
-      "discovered_at": "2026-07-21T17:07:26.279969",
-      "summary": "Experiência &#8220;Ocean &#38; Hot Stones&#8221; reúne massagem Hot Stones, tratamento facial hidratante e chá com vista para o mar do Rio de Janeiro em um ritual completo de autocuidado  &#160; O inverno convida a desacelerar e dedicar um tempo ao...\nO post Sheraton Grand Rio convida hóspedes e vis"
     }
   ]
 }
