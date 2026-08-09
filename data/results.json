@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-08-09T13:48:05.519376",
+  "last_run": "2026-08-09T21:30:00.239468",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-09T13:48:05.519376",
+    "run_at": "2026-08-09T21:30:00.239468",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=556494",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Azul Conecta inicia voos para Diamantina e São João del-Rei saindo de BH",
-        "link": "https://passageirodeprimeira.com/azul-conecta-inicia-voos-para-diamantina-e-sao-joao-del-rei-saindo-de-bh/",
-        "published": "2026-08-09T11:00:31",
-        "discovered_at": "2026-08-09T13:47:48.357093",
-        "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=135358",
+        "feed_name": "Pontos pra Voar",
+        "title": "Do Motor Valley a Monza – Conheça o roteiro para apaixonados por carros conduzido por Felipe Massa",
+        "link": "https://pontospravoar.com/do-motor-valley-monza-conheca-roteiro-apaixonados-carros-conduzido-felipe-massa/",
+        "published": "2026-08-09T17:00:19",
+        "discovered_at": "2026-08-09T21:29:51.593043",
+        "summary": "Do Motor Valley a Monza, uma viagem com curadoria de Felipe Massa mostra como a paixão por carros pode se transformar em uma nova tendência: experiências de turismo de luxo conduzidas por quem realmente entende do assunto! O roteiro pela Itália combina supercarros, automobilismo, gastronomia, vinhos"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-08-09T21:30:00.239468",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=135358",
+          "feed_name": "Pontos pra Voar",
+          "title": "Do Motor Valley a Monza – Conheça o roteiro para apaixonados por carros conduzido por Felipe Massa",
+          "link": "https://pontospravoar.com/do-motor-valley-monza-conheca-roteiro-apaixonados-carros-conduzido-felipe-massa/",
+          "published": "2026-08-09T17:00:19",
+          "discovered_at": "2026-08-09T21:29:51.593043",
+          "summary": "Do Motor Valley a Monza, uma viagem com curadoria de Felipe Massa mostra como a paixão por carros pode se transformar em uma nova tendência: experiências de turismo de luxo conduzidas por quem realmente entende do assunto! O roteiro pela Itália combina supercarros, automobilismo, gastronomia, vinhos"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-09T13:48:05.519376",
       "destination": "Itália",
@@ -655,17 +673,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-21T21:57:17.295805",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=135358",
+      "feed_name": "Pontos pra Voar",
+      "title": "Do Motor Valley a Monza – Conheça o roteiro para apaixonados por carros conduzido por Felipe Massa",
+      "link": "https://pontospravoar.com/do-motor-valley-monza-conheca-roteiro-apaixonados-carros-conduzido-felipe-massa/",
+      "published": "2026-08-09T17:00:19",
+      "discovered_at": "2026-08-09T21:29:51.593043",
+      "summary": "Do Motor Valley a Monza, uma viagem com curadoria de Felipe Massa mostra como a paixão por carros pode se transformar em uma nova tendência: experiências de turismo de luxo conduzidas por quem realmente entende do assunto! O roteiro pela Itália combina supercarros, automobilismo, gastronomia, vinhos"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=556494",
       "feed_name": "Passageiro de Primeira",
