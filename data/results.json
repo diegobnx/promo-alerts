@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-08-10T11:42:06.617299",
+  "last_run": "2026-08-10T16:43:58.993450",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-10T11:42:06.617299",
+    "run_at": "2026-08-10T16:43:58.993450",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
+        "feed_name": "Melhores Destinos",
+        "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
+        "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
+        "published": "2026-08-10T10:06:15",
+        "discovered_at": "2026-08-10T16:43:43.947102",
+        "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
+        "feed_name": "Qual Viagem",
+        "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
+        "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
+        "published": "2026-08-10T19:01:24",
+        "discovered_at": "2026-08-10T16:43:45.875768",
+        "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-10T16:43:58.993450",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
+          "feed_name": "Melhores Destinos",
+          "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
+          "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
+          "published": "2026-08-10T10:06:15",
+          "discovered_at": "2026-08-10T16:43:43.947102",
+          "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
+          "feed_name": "Qual Viagem",
+          "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
+          "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
+          "published": "2026-08-10T19:01:24",
+          "discovered_at": "2026-08-10T16:43:45.875768",
+          "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-10T11:42:06.617299",
       "destination": "Itália",
@@ -645,27 +691,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-22T17:08:17.756508",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
-          "feed_name": "Qual Viagem",
-          "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
-          "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
-          "published": "2026-07-22T19:50:03",
-          "discovered_at": "2026-07-22T17:08:02.359410",
-          "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
+      "feed_name": "Melhores Destinos",
+      "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
+      "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
+      "published": "2026-08-10T10:06:15",
+      "discovered_at": "2026-08-10T16:43:43.947102",
+      "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
+      "feed_name": "Qual Viagem",
+      "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
+      "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
+      "published": "2026-08-10T19:01:24",
+      "discovered_at": "2026-08-10T16:43:45.875768",
+      "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=135358",
       "feed_name": "Pontos pra Voar",
@@ -890,15 +936,6 @@
       "published": "2026-07-24T12:00:54",
       "discovered_at": "2026-07-24T12:13:48.393281",
       "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=149809",
-      "feed_name": "Qual Viagem",
-      "title": "Com programação focada em formação, Agência Arcanjo amplia atuação no maior evento católico global",
-      "link": "https://www.qualviagem.com.br/com-programacao-focada-em-formacao-agencia-arcanjo-amplia-atuacao-no-maior-evento-catolico-global/",
-      "published": "2026-07-22T19:50:03",
-      "discovered_at": "2026-07-22T17:08:02.359410",
-      "summary": "Com trilhas temáticas e especialistas do segmento, Arena Arcanjo consolida novo momento da evangelização na ExpoCatólica 2026. &#160; Entre os dias 23 e 26 de julho, visitantes da maior feira católica do mundo poderão acompanhar uma agenda composta por palestras,...\nO post Com programação focada em "
     }
   ]
 }
