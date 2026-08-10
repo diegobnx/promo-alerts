@@ -1,34 +1,61 @@
 {
-  "last_run": "2026-08-10T16:43:58.993450",
+  "last_run": "2026-08-10T21:33:24.634768",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-10T16:43:58.993450",
+    "run_at": "2026-08-10T21:33:24.634768",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 2,
     "posts": [
       {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
-        "feed_name": "Melhores Destinos",
-        "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
-        "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
-        "published": "2026-08-10T10:06:15",
-        "discovered_at": "2026-08-10T16:43:43.947102",
-        "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557069",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Aeromexico limita acesso aos lounges Premier a partir de setembro",
+        "link": "https://passageirodeprimeira.com/aeromexico-acesso-premier-lounge/",
+        "published": "2026-08-10T21:30:55",
+        "discovered_at": "2026-08-10T21:33:05.003301",
+        "summary": "A Aeromexico anunciou mudanças na política de acesso aos lounges Premier. As novas condições entram em vigor em 1º de setembro de 2026 e afetam tanto clientes com status elite quanto passageiros da Classe Premier em voos domésticos.\nO post Aeromexico limita acesso aos lounges Premier a partir de set"
       },
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150659",
         "feed_name": "Qual Viagem",
-        "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
-        "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
-        "published": "2026-08-10T19:01:24",
-        "discovered_at": "2026-08-10T16:43:45.875768",
-        "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
+        "title": "Além da neve: Bariloche amplia experiência com um dos mirantes mais bonitos do mundo",
+        "link": "https://www.qualviagem.com.br/alem-da-neve-bariloche-amplia-experiencia-com-um-dos-mirantes-mais-bonitos-do-mundo/",
+        "published": "2026-08-11T00:12:53",
+        "discovered_at": "2026-08-10T21:33:08.441311",
+        "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-08-10T21:33:24.634768",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557069",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Aeromexico limita acesso aos lounges Premier a partir de setembro",
+          "link": "https://passageirodeprimeira.com/aeromexico-acesso-premier-lounge/",
+          "published": "2026-08-10T21:30:55",
+          "discovered_at": "2026-08-10T21:33:05.003301",
+          "summary": "A Aeromexico anunciou mudanças na política de acesso aos lounges Premier. As novas condições entram em vigor em 1º de setembro de 2026 e afetam tanto clientes com status elite quanto passageiros da Classe Premier em voos domésticos.\nO post Aeromexico limita acesso aos lounges Premier a partir de set"
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150659",
+          "feed_name": "Qual Viagem",
+          "title": "Além da neve: Bariloche amplia experiência com um dos mirantes mais bonitos do mundo",
+          "link": "https://www.qualviagem.com.br/alem-da-neve-bariloche-amplia-experiencia-com-um-dos-mirantes-mais-bonitos-do-mundo/",
+          "published": "2026-08-11T00:12:53",
+          "discovered_at": "2026-08-10T21:33:08.441311",
+          "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-10T16:43:58.993450",
       "destination": "Itália",
@@ -683,17 +710,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-22T21:58:58.578191",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557069",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Aeromexico limita acesso aos lounges Premier a partir de setembro",
+      "link": "https://passageirodeprimeira.com/aeromexico-acesso-premier-lounge/",
+      "published": "2026-08-10T21:30:55",
+      "discovered_at": "2026-08-10T21:33:05.003301",
+      "summary": "A Aeromexico anunciou mudanças na política de acesso aos lounges Premier. As novas condições entram em vigor em 1º de setembro de 2026 e afetam tanto clientes com status elite quanto passageiros da Classe Premier em voos domésticos.\nO post Aeromexico limita acesso aos lounges Premier a partir de set"
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150659",
+      "feed_name": "Qual Viagem",
+      "title": "Além da neve: Bariloche amplia experiência com um dos mirantes mais bonitos do mundo",
+      "link": "https://www.qualviagem.com.br/alem-da-neve-bariloche-amplia-experiencia-com-um-dos-mirantes-mais-bonitos-do-mundo/",
+      "published": "2026-08-11T00:12:53",
+      "discovered_at": "2026-08-10T21:33:08.441311",
+      "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
       "feed_name": "Melhores Destinos",
