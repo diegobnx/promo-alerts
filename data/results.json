@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-08-10T21:33:24.634768",
+  "last_run": "2026-08-11T11:38:24.418864",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-10T21:33:24.634768",
+    "run_at": "2026-08-11T11:38:24.418864",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557069",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Aeromexico limita acesso aos lounges Premier a partir de setembro",
-        "link": "https://passageirodeprimeira.com/aeromexico-acesso-premier-lounge/",
-        "published": "2026-08-10T21:30:55",
-        "discovered_at": "2026-08-10T21:33:05.003301",
-        "summary": "A Aeromexico anunciou mudanças na política de acesso aos lounges Premier. As novas condições entram em vigor em 1º de setembro de 2026 e afetam tanto clientes com status elite quanto passageiros da Classe Premier em voos domésticos.\nO post Aeromexico limita acesso aos lounges Premier a partir de set"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150659",
-        "feed_name": "Qual Viagem",
-        "title": "Além da neve: Bariloche amplia experiência com um dos mirantes mais bonitos do mundo",
-        "link": "https://www.qualviagem.com.br/alem-da-neve-bariloche-amplia-experiencia-com-um-dos-mirantes-mais-bonitos-do-mundo/",
-        "published": "2026-08-11T00:12:53",
-        "discovered_at": "2026-08-10T21:33:08.441311",
-        "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-11T11:38:24.418864",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-10T21:33:24.634768",
       "destination": "Itália",
@@ -697,14 +686,6 @@
     },
     {
       "run_at": "2026-07-23T17:10:34.150482",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-07-23T12:19:25.135380",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
