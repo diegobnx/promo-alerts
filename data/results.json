@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-08-12T11:40:06.397393",
+  "last_run": "2026-08-12T16:48:01.410010",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-12T11:40:06.397393",
+    "run_at": "2026-08-12T16:48:01.410010",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
-        "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
-        "published": "2026-08-12T11:00:43",
-        "discovered_at": "2026-08-12T11:39:47.341031",
-        "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-12T16:48:01.410010",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-12T11:40:06.397393",
       "destination": "Itália",
@@ -688,14 +686,6 @@
     },
     {
       "run_at": "2026-07-24T21:57:42.935415",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-07-24T17:21:30.445669",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
