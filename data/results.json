@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-11T21:36:54.417404",
+  "last_run": "2026-08-12T11:40:06.397393",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-11T21:36:54.417404",
+    "run_at": "2026-08-12T11:40:06.397393",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
+        "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
+        "published": "2026-08-12T11:00:43",
+        "discovered_at": "2026-08-12T11:39:47.341031",
+        "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-12T11:40:06.397393",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
+          "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
+          "published": "2026-08-12T11:00:43",
+          "discovered_at": "2026-08-12T11:39:47.341031",
+          "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-11T21:36:54.417404",
       "destination": "Itália",
@@ -673,27 +701,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-24T12:14:05.549668",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
-          "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
-          "published": "2026-07-24T12:00:54",
-          "discovered_at": "2026-07-24T12:13:48.393281",
-          "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
+      "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
+      "published": "2026-08-12T11:00:43",
+      "discovered_at": "2026-08-12T11:39:47.341031",
+      "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557069",
       "feed_name": "Passageiro de Primeira",
@@ -945,15 +964,6 @@
       "published": "2026-07-25T21:00:03",
       "discovered_at": "2026-07-25T21:53:53.147641",
       "summary": "A Delta Airlines confirmou recentemente a chegada de uma nova rota! A partir de agora, a companhia conta com voos diretos entre Los Angeles (LAX) e Manila (MNL), nas Filipinas.\nO post Delta anuncia nova rota entre Los Angeles e Filipinas apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553268",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Grupo Lufthansa anuncia novas categorias de assentos em seus voos",
-      "link": "https://passageirodeprimeira.com/grupo-lufthansa-anuncia-novas-categorias-de-assentos-em-seus-voos/",
-      "published": "2026-07-24T12:00:54",
-      "discovered_at": "2026-07-24T12:13:48.393281",
-      "summary": "O Grupo Lufthansa anunciou nesta última quarta-feira (22) que as suas companhias aéreas passarão a oferecer duas novas categorias de assentos em voos de curta e média distância. A partir de agora, as companhias terão os 'First Row Seats' e os 'Back Seats', nas cabines Executiva e Econômica respectiv"
     }
   ]
 }
