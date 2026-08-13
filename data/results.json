@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-08-12T21:36:39.092526",
+  "last_run": "2026-08-13T11:40:23.235811",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-12T21:36:39.092526",
+    "run_at": "2026-08-13T11:40:23.235811",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557902",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Smiles fecha parceria com Karta para transferência de pontos",
-        "link": "https://passageirodeprimeira.com/smiles-fecha-parceria-karta-transferencia-pontos/",
-        "published": "2026-08-12T19:15:33",
-        "discovered_at": "2026-08-12T21:36:23.576140",
-        "summary": "A Smiles anunciou uma nova parceria com o Karta, cartão de crédito americano voltado ao público brasileiro com histórico financeiro internacional. Segundo as empresas, a parceria tem como foco principalmente os brasileiros que viajam com frequência ao exterior, tanto a lazer quanto a negócios.\nO pos"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-13T11:40:23.235811",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-12T21:36:39.092526",
       "destination": "Itália",
@@ -703,14 +701,6 @@
           "summary": "A Delta Airlines confirmou recentemente a chegada de uma nova rota! A partir de agora, a companhia conta com voos diretos entre Los Angeles (LAX) e Manila (MNL), nas Filipinas.\nO post Delta anuncia nova rota entre Los Angeles e Filipinas apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-07-25T14:36:33.414702",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
