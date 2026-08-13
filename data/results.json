@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-13T16:46:45.304848",
+  "last_run": "2026-08-13T21:36:12.140951",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-13T16:46:45.304848",
+    "run_at": "2026-08-13T21:36:12.140951",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150896",
+        "feed_name": "Qual Viagem",
+        "title": "Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest",
+        "link": "https://www.qualviagem.com.br/serra-negra-celebra-198-anos-com-festa-ditalia-e-show-do-jota-quest/",
+        "published": "2026-08-13T21:18:27",
+        "discovered_at": "2026-08-13T21:35:57.401416",
+        "summary": "Serra Negra completa 198 anos em setembro e preparou uma programação especial para sua tradicional Festa d’Italia, evento que ocorre entre...\nO post Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest apareceu primeiro em Qual Viagem."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-13T21:36:12.140951",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150896",
+          "feed_name": "Qual Viagem",
+          "title": "Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest",
+          "link": "https://www.qualviagem.com.br/serra-negra-celebra-198-anos-com-festa-ditalia-e-show-do-jota-quest/",
+          "published": "2026-08-13T21:18:27",
+          "discovered_at": "2026-08-13T21:35:57.401416",
+          "summary": "Serra Negra completa 198 anos em setembro e preparou uma programação especial para sua tradicional Festa d’Italia, evento que ocorre entre...\nO post Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest apareceu primeiro em Qual Viagem."
+        }
+      ]
+    },
     {
       "run_at": "2026-08-13T16:46:45.304848",
       "destination": "Itália",
@@ -664,36 +692,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-26T14:27:47.734901",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553310",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Aeroporto de Roma é eleito o melhor da Europa",
-          "link": "https://passageirodeprimeira.com/aeroporto-leonardo-vinci-fiumicino-roma/",
-          "published": "2026-07-25T22:00:30",
-          "discovered_at": "2026-07-26T14:27:29.763225",
-          "summary": "O Airports Council International (ACI) elegeu o Aeroporto Leonardo da Vinci–Fiumicino, em Roma, como o Melhor Aeroporto da Europa. O reconhecimento foi anunciado durante o congresso anual da Airports Council International (ACI EUROPE), realizado em Praga, na República Tcheca.\nO post Aeroporto de Rom"
-        },
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=133161",
-          "feed_name": "Pontos pra Voar",
-          "title": "Coliseu e Termas de Caracalla terão visitas noturnas na Itália",
-          "link": "https://pontospravoar.com/coliseu-e-termas-de-caracalla-terao-visitas-noturnas-na-italia/",
-          "published": "2026-07-26T12:00:34",
-          "discovered_at": "2026-07-26T14:27:38.096208",
-          "summary": "Dois dos mais emblemáticos monumentos de Roma, o Coliseu e as Termas de Caracalla, retomaram as programações especiais de visitas noturnas. O programa &#8220;Uma Noite no Coliseu&#8221; oferece passeios guiados pelos subterrâneos e piso da arena com limitação de 25 pessoas por grupo. Já o &#8220;Not"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150896",
+      "feed_name": "Qual Viagem",
+      "title": "Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest",
+      "link": "https://www.qualviagem.com.br/serra-negra-celebra-198-anos-com-festa-ditalia-e-show-do-jota-quest/",
+      "published": "2026-08-13T21:18:27",
+      "discovered_at": "2026-08-13T21:35:57.401416",
+      "summary": "Serra Negra completa 198 anos em setembro e preparou uma programação especial para sua tradicional Festa d’Italia, evento que ocorre entre...\nO post Serra Negra celebra 198 anos com Festa d’Italia e show do Jota Quest apareceu primeiro em Qual Viagem."
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557902",
       "feed_name": "Passageiro de Primeira",
@@ -936,24 +946,6 @@
       "published": "2026-07-27T20:14:06",
       "discovered_at": "2026-07-27T21:57:26.478759",
       "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553310",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Aeroporto de Roma é eleito o melhor da Europa",
-      "link": "https://passageirodeprimeira.com/aeroporto-leonardo-vinci-fiumicino-roma/",
-      "published": "2026-07-25T22:00:30",
-      "discovered_at": "2026-07-26T14:27:29.763225",
-      "summary": "O Airports Council International (ACI) elegeu o Aeroporto Leonardo da Vinci–Fiumicino, em Roma, como o Melhor Aeroporto da Europa. O reconhecimento foi anunciado durante o congresso anual da Airports Council International (ACI EUROPE), realizado em Praga, na República Tcheca.\nO post Aeroporto de Rom"
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=133161",
-      "feed_name": "Pontos pra Voar",
-      "title": "Coliseu e Termas de Caracalla terão visitas noturnas na Itália",
-      "link": "https://pontospravoar.com/coliseu-e-termas-de-caracalla-terao-visitas-noturnas-na-italia/",
-      "published": "2026-07-26T12:00:34",
-      "discovered_at": "2026-07-26T14:27:38.096208",
-      "summary": "Dois dos mais emblemáticos monumentos de Roma, o Coliseu e as Termas de Caracalla, retomaram as programações especiais de visitas noturnas. O programa &#8220;Uma Noite no Coliseu&#8221; oferece passeios guiados pelos subterrâneos e piso da arena com limitação de 25 pessoas por grupo. Já o &#8220;Not"
     }
   ]
 }
