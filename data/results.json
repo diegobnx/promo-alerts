@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-08-14T21:17:34.635470",
+  "last_run": "2026-08-15T13:28:11.501012",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-14T21:17:34.635470",
+    "run_at": "2026-08-15T13:28:11.501012",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150982",
-        "feed_name": "Qual Viagem",
-        "title": "GTA anuncia nova executiva em Minas Gerais e plataforma de IA",
-        "link": "https://www.qualviagem.com.br/gta-anuncia-nova-executiva-em-minas-gerais-e-plataforma-de-ia/",
-        "published": "2026-08-14T21:45:10",
-        "discovered_at": "2026-08-14T21:17:21.048044",
-        "summary": "A GTA - Global Travel Assistance participou da Travel Next Minas, nos dias 12 e 13 de agosto (quarta e quinta-feira), em Belo Horizonte...\nO post GTA anuncia nova executiva em Minas Gerais e plataforma de IA apareceu primeiro em Qual Viagem."
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-15T13:28:11.501012",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-14T21:17:34.635470",
       "destination": "Itália",
@@ -684,24 +682,6 @@
           "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-27T21:57:45.029811",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
-          "feed_name": "Passageiro de Primeira",
-          "title": "ALL Signature anuncia planos exclusivos para clientes XP",
-          "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
-          "published": "2026-07-27T20:14:06",
-          "discovered_at": "2026-07-27T21:57:26.478759",
-          "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -956,15 +936,6 @@
       "published": "2026-07-28T11:20:23",
       "discovered_at": "2026-07-28T12:48:41.718383",
       "summary": "A Aerolíneas Argentinas confirmou o maior plano de renovação de frota da última década, com a incorporação de 20 novas aeronaves entre 2027 e 2031. O investimento, financiado integralmente com recursos próprios, permitirá à companhia renovar 25% de sua frota total e cerca de 60% das aeronaves utiliz"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=553798",
-      "feed_name": "Passageiro de Primeira",
-      "title": "ALL Signature anuncia planos exclusivos para clientes XP",
-      "link": "https://passageirodeprimeira.com/all-signature-anuncia-planos-exclusivos-para-clientes-xp/",
-      "published": "2026-07-27T20:14:06",
-      "discovered_at": "2026-07-27T21:57:26.478759",
-      "summary": "O ALL Signature, clube de assinatura do programa de fidelidade da Accor, anunciou uma parceria com a XP Investimentos para oferecer planos exclusivos aos clientes dos cartões de crédito do banco.\nO post ALL Signature anuncia planos exclusivos para clientes XP apareceu primeiro em Passageiro de Prime"
     }
   ]
 }
