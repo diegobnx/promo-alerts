@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-16T13:29:09.821936",
+  "last_run": "2026-08-16T21:17:35.624299",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-16T13:29:09.821936",
+    "run_at": "2026-08-16T21:17:35.624299",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558932",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Planejando a próxima viagem? Veja sugestões de resgate para Cidade do Cabo, Milão e muito mais",
+        "link": "https://passageirodeprimeira.com/planejando-a-proxima-viagem-veja-sugestoes-de-resgate-para-cidade-do-cabo-milao-e-muito-mais/",
+        "published": "2026-08-16T17:00:50",
+        "discovered_at": "2026-08-16T21:17:18.946545",
+        "summary": "Quer viajar para Cidade do Cabo, Milão e outros destinos incríveis? Nesta matéria, sugerimos opções de resgates disponíveis nos Grupos de Alerta do PP no WhatsApp, onde você encontra passagens em Econômica, Executiva e Primeira Classe. Não perca a chance de planejar sua próxima aventura com as melho"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-16T21:17:35.624299",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558932",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Planejando a próxima viagem? Veja sugestões de resgate para Cidade do Cabo, Milão e muito mais",
+          "link": "https://passageirodeprimeira.com/planejando-a-proxima-viagem-veja-sugestoes-de-resgate-para-cidade-do-cabo-milao-e-muito-mais/",
+          "published": "2026-08-16T17:00:50",
+          "discovered_at": "2026-08-16T21:17:18.946545",
+          "summary": "Quer viajar para Cidade do Cabo, Milão e outros destinos incríveis? Nesta matéria, sugerimos opções de resgates disponíveis nos Grupos de Alerta do PP no WhatsApp, onde você encontra passagens em Econômica, Executiva e Primeira Classe. Não perca a chance de planejar sua próxima aventura com as melho"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-16T13:29:09.821936",
       "destination": "Itália",
@@ -663,27 +691,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-28T21:56:26.253214",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150114",
-          "feed_name": "Qual Viagem",
-          "title": "Porto de Galinhas aposta em inteligência artificial e redefine a experiência do turista",
-          "link": "https://www.qualviagem.com.br/porto-de-galinhas-aposta-em-inteligencia-artificial-e-redefine-a-experiencia-do-turista/",
-          "published": "2026-07-28T20:54:26",
-          "discovered_at": "2026-07-28T21:56:10.538478",
-          "summary": "Sistema inteligente transforma atendimento ao turista, gera inteligência de dados e fortalece toda a cadeia do turismo &#160; Porto de Galinhas acaba de dar mais um passo na inovação turística ao lançar oficialmente a MarIA, uma inteligência artificial desenvolvida para...\nO post Porto de Galinhas a"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558932",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Planejando a próxima viagem? Veja sugestões de resgate para Cidade do Cabo, Milão e muito mais",
+      "link": "https://passageirodeprimeira.com/planejando-a-proxima-viagem-veja-sugestoes-de-resgate-para-cidade-do-cabo-milao-e-muito-mais/",
+      "published": "2026-08-16T17:00:50",
+      "discovered_at": "2026-08-16T21:17:18.946545",
+      "summary": "Quer viajar para Cidade do Cabo, Milão e outros destinos incríveis? Nesta matéria, sugerimos opções de resgates disponíveis nos Grupos de Alerta do PP no WhatsApp, onde você encontra passagens em Econômica, Executiva e Primeira Classe. Não perca a chance de planejar sua próxima aventura com as melho"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558383",
       "feed_name": "Passageiro de Primeira",
@@ -926,15 +945,6 @@
       "published": "2026-07-31T20:30:39",
       "discovered_at": "2026-07-31T21:58:17.895956",
       "summary": "Procurando por rotas de trem na Europa? Além dos eixos turísticos tradicionais, a malha ferroviária europeia oferece conexões eficientes que interligam centros urbanos e regiões históricas em trajetos de até 3h15. Rotas como Florença–Bolonha e Madri–Toledo destacam-se pela agilidade, tarifas competi"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150114",
-      "feed_name": "Qual Viagem",
-      "title": "Porto de Galinhas aposta em inteligência artificial e redefine a experiência do turista",
-      "link": "https://www.qualviagem.com.br/porto-de-galinhas-aposta-em-inteligencia-artificial-e-redefine-a-experiencia-do-turista/",
-      "published": "2026-07-28T20:54:26",
-      "discovered_at": "2026-07-28T21:56:10.538478",
-      "summary": "Sistema inteligente transforma atendimento ao turista, gera inteligência de dados e fortalece toda a cadeia do turismo &#160; Porto de Galinhas acaba de dar mais um passo na inovação turística ao lançar oficialmente a MarIA, uma inteligência artificial desenvolvida para...\nO post Porto de Galinhas a"
     }
   ]
 }
