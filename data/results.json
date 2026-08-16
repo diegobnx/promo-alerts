@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-08-15T21:18:38.687261",
+  "last_run": "2026-08-16T13:29:09.821936",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-15T21:18:38.687261",
+    "run_at": "2026-08-16T13:29:09.821936",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558383",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Acionistas da Asiana Airlines e conselho de administração da Korean Air aprovam fusão das companhias aéreas",
-        "link": "https://passageirodeprimeira.com/acionistas-asiana-conselho-administracao-korean-air-fusao-companhias-aereas/",
-        "published": "2026-08-15T20:00:08",
-        "discovered_at": "2026-08-15T21:18:21.975872",
-        "summary": "Os acionistas da Asiana Airlines e o conselho de administração da Korean Air aprovaram o acordo de fusão entre as duas companhias aéreas, concluindo negociações importantes enquanto as empresas se preparam para lançar uma cia aérea integrada em 17 de dezembro de 2026.\nO post Acionistas da Asiana Air"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=557949",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Copa Airlines aumenta frequência de voos em diferentes aeroportos brasileiros",
-        "link": "https://passageirodeprimeira.com/copa-airlines-aumenta-frequencia-de-voos-em-diferentes-aeroportos-brasileiros/",
-        "published": "2026-08-15T17:00:16",
-        "discovered_at": "2026-08-15T21:18:21.976620",
-        "summary": "A Copa Airlines confirmou nesta semana que está fortalecendo as suas operações em três diferentes aeroportos brasileiros. De acordo com a companhia, está sendo feito um aumento nas frequências de voos entre o Hub das Américas, centro de conexões da companhia, localizado no Aeroporto Internacional de"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-16T13:29:09.821936",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-15T21:18:38.687261",
       "destination": "Itália",
@@ -692,24 +681,6 @@
           "summary": "Sistema inteligente transforma atendimento ao turista, gera inteligência de dados e fortalece toda a cadeia do turismo &#160; Porto de Galinhas acaba de dar mais um passo na inovação turística ao lançar oficialmente a MarIA, uma inteligência artificial desenvolvida para...\nO post Porto de Galinhas a"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-28T17:20:14.864954",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=133511",
-          "feed_name": "Pontos pra Voar",
-          "title": "Nubank lança segmento Croma com cartão Platinum, cashback e programa de pontos",
-          "link": "https://pontospravoar.com/nubank-lanca-segmento-croma-com-cartao-platinum-cashback-e-programa-de-pontos/",
-          "published": "2026-07-28T16:30:49",
-          "discovered_at": "2026-07-28T17:20:04.530349",
-          "summary": "O Nubank lançou o Croma, novo segmento que combina cartão Mastercard Platinum, cashback ou programa de pontos, benefícios em serviços digitais, soluções de investimento e condições especiais para clientes que concentram seu relacionamento financeiro na instituição. O Nubank anunciou nesta terça-feir"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -964,15 +935,6 @@
       "published": "2026-07-28T20:54:26",
       "discovered_at": "2026-07-28T21:56:10.538478",
       "summary": "Sistema inteligente transforma atendimento ao turista, gera inteligência de dados e fortalece toda a cadeia do turismo &#160; Porto de Galinhas acaba de dar mais um passo na inovação turística ao lançar oficialmente a MarIA, uma inteligência artificial desenvolvida para...\nO post Porto de Galinhas a"
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=133511",
-      "feed_name": "Pontos pra Voar",
-      "title": "Nubank lança segmento Croma com cartão Platinum, cashback e programa de pontos",
-      "link": "https://pontospravoar.com/nubank-lanca-segmento-croma-com-cartao-platinum-cashback-e-programa-de-pontos/",
-      "published": "2026-07-28T16:30:49",
-      "discovered_at": "2026-07-28T17:20:04.530349",
-      "summary": "O Nubank lançou o Croma, novo segmento que combina cartão Mastercard Platinum, cashback ou programa de pontos, benefícios em serviços digitais, soluções de investimento e condições especiais para clientes que concentram seu relacionamento financeiro na instituição. O Nubank anunciou nesta terça-feir"
     }
   ]
 }
