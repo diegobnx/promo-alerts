@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-08-17T16:17:12.208111",
+  "last_run": "2026-08-17T21:18:01.031737",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-17T16:17:12.208111",
+    "run_at": "2026-08-17T21:18:01.031737",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=631726",
-        "feed_name": "Melhores Destinos",
-        "title": "Promo para a Itália! Passagens de São Paulo para Veneza a partir de R$ 3.676 ida e volta",
-        "link": "https://www.melhoresdestinos.com.br/promocao/italia-bom-preco-voos-sao-paulo-veneza-3676",
-        "published": "2026-08-17T13:48:38",
-        "discovered_at": "2026-08-17T16:16:56.558553",
-        "summary": "Encontramos uma tarifa bem interessante para quem quer viajar para a Itália: passagens aéreas de São Paulo para Veneza a partir de R$ 3.676 ida e volta, em voos da ITA Airways. Veja as datas no fim do post. Considerando a média atual de preços para a Itália, é um valor ótimo, cerca de 15%&#8230;"
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151120",
+        "feed_name": "Qual Viagem",
+        "title": "O Novo Complexo Cultural de Araçatiba: Fé, Memória e Resistência em Viana",
+        "link": "https://www.qualviagem.com.br/o-novo-complexo-cultural-de-aracatiba-fe-memoria-e-resistencia-em-viana/",
+        "published": "2026-08-18T00:03:03",
+        "discovered_at": "2026-08-17T21:17:46.084303",
+        "summary": "Em Araçatiba, distrito de Viana (ES), você pode visitar o recém-inaugurado Centro de Interpretação Fazenda de Araçatiba, que abriga a histórica Igreja de Nossa Senhora da Ajuda do século XVIII recém-restaurada, conhecer a rica cultura da comunidade quilombola local e...\nO post O Novo Complexo Cultur"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-08-17T21:18:01.031737",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151120",
+          "feed_name": "Qual Viagem",
+          "title": "O Novo Complexo Cultural de Araçatiba: Fé, Memória e Resistência em Viana",
+          "link": "https://www.qualviagem.com.br/o-novo-complexo-cultural-de-aracatiba-fe-memoria-e-resistencia-em-viana/",
+          "published": "2026-08-18T00:03:03",
+          "discovered_at": "2026-08-17T21:17:46.084303",
+          "summary": "Em Araçatiba, distrito de Viana (ES), você pode visitar o recém-inaugurado Centro de Interpretação Fazenda de Araçatiba, que abriga a histórica Igreja de Nossa Senhora da Ajuda do século XVIII recém-restaurada, conhecer a rica cultura da comunidade quilombola local e...\nO post O Novo Complexo Cultur"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-17T16:17:12.208111",
       "destination": "Itália",
@@ -693,17 +711,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-29T21:52:30.977635",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151120",
+      "feed_name": "Qual Viagem",
+      "title": "O Novo Complexo Cultural de Araçatiba: Fé, Memória e Resistência em Viana",
+      "link": "https://www.qualviagem.com.br/o-novo-complexo-cultural-de-aracatiba-fe-memoria-e-resistencia-em-viana/",
+      "published": "2026-08-18T00:03:03",
+      "discovered_at": "2026-08-17T21:17:46.084303",
+      "summary": "Em Araçatiba, distrito de Viana (ES), você pode visitar o recém-inaugurado Centro de Interpretação Fazenda de Araçatiba, que abriga a histórica Igreja de Nossa Senhora da Ajuda do século XVIII recém-restaurada, conhecer a rica cultura da comunidade quilombola local e...\nO post O Novo Complexo Cultur"
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=631726",
       "feed_name": "Melhores Destinos",
