@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-18T16:20:47.092910",
+  "last_run": "2026-08-18T21:15:02.769706",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-18T16:20:47.092910",
+    "run_at": "2026-08-18T21:15:02.769706",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=136876",
+        "feed_name": "Pontos pra Voar",
+        "title": "Aeroméxico planeja nova rota entre Cidade do México e Milão",
+        "link": "https://pontospravoar.com/aeromexico-planeja-nova-rota-entre-cidade-do-mexico-e-milao/",
+        "published": "2026-08-18T20:30:03",
+        "discovered_at": "2026-08-18T21:14:54.068386",
+        "summary": "A Aeroméxico anunciou a intenção de lançar uma nova rota sem escalas entre a Cidade do México e Milão, ampliando sua presença na Europa. A operação está prevista para começar em março de 2027, mas ainda depende das autorizações governamentais. O trecho será operado com Boeing 787 Dreamliner, modelo "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-18T21:15:02.769706",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=136876",
+          "feed_name": "Pontos pra Voar",
+          "title": "Aeroméxico planeja nova rota entre Cidade do México e Milão",
+          "link": "https://pontospravoar.com/aeromexico-planeja-nova-rota-entre-cidade-do-mexico-e-milao/",
+          "published": "2026-08-18T20:30:03",
+          "discovered_at": "2026-08-18T21:14:54.068386",
+          "summary": "A Aeroméxico anunciou a intenção de lançar uma nova rota sem escalas entre a Cidade do México e Milão, ampliando sua presença na Europa. A operação está prevista para começar em março de 2027, mas ainda depende das autorizações governamentais. O trecho será operado com Boeing 787 Dreamliner, modelo "
+        }
+      ]
+    },
     {
       "run_at": "2026-08-18T16:20:47.092910",
       "destination": "Itália",
@@ -693,17 +721,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-07-30T22:00:18.645650",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=136876",
+      "feed_name": "Pontos pra Voar",
+      "title": "Aeroméxico planeja nova rota entre Cidade do México e Milão",
+      "link": "https://pontospravoar.com/aeromexico-planeja-nova-rota-entre-cidade-do-mexico-e-milao/",
+      "published": "2026-08-18T20:30:03",
+      "discovered_at": "2026-08-18T21:14:54.068386",
+      "summary": "A Aeroméxico anunciou a intenção de lançar uma nova rota sem escalas entre a Cidade do México e Milão, ampliando sua presença na Europa. A operação está prevista para começar em março de 2027, mas ainda depende das autorizações governamentais. O trecho será operado com Boeing 787 Dreamliner, modelo "
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151120",
       "feed_name": "Qual Viagem",
