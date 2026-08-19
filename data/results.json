@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-19T11:17:13.000442",
+  "last_run": "2026-08-19T16:21:15.270379",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-19T11:17:13.000442",
+    "run_at": "2026-08-19T16:21:15.270379",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-19T16:21:15.270379",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-19T11:17:13.000442",
       "destination": "Itália",
@@ -703,14 +711,6 @@
           "summary": "Procurando por rotas de trem na Europa? Além dos eixos turísticos tradicionais, a malha ferroviária europeia oferece conexões eficientes que interligam centros urbanos e regiões históricas em trajetos de até 3h15. Rotas como Florença–Bolonha e Madri–Toledo destacam-se pela agilidade, tarifas competi"
         }
       ]
-    },
-    {
-      "run_at": "2026-07-31T17:21:29.925600",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
