@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-20T16:23:39.698179",
+  "last_run": "2026-08-20T21:19:42.446413",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-20T16:23:39.698179",
+    "run_at": "2026-08-20T21:19:42.446413",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-20T21:19:42.446413",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-20T16:23:39.698179",
       "destination": "Itália",
@@ -656,14 +664,6 @@
           "summary": "A TAP Air Portugal começou a implementar uma nova tecnologia de pintura que reduz em até 26 kg o peso de cada aeronave, aumentando a eficiência operacional e diminuindo o consumo de combustível. Desenvolvido em parceria com a AkzoNobel, o sistema Aerobase UPD promete economizar cerca de 428,5 tonela"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-02T14:27:27.030019",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
