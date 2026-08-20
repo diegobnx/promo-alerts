@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-19T21:17:35.990701",
+  "last_run": "2026-08-20T11:19:01.628047",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-19T21:17:35.990701",
+    "run_at": "2026-08-20T11:19:01.628047",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151277",
+        "feed_name": "Qual Viagem",
+        "title": "Maceió a dois: 5 experiências românticas para viver na capital alagoana",
+        "link": "https://www.qualviagem.com.br/maceio-a-dois-5-experiencias-romanticas-para-viver-na-capital-alagoana/",
+        "published": "2026-08-20T14:00:38",
+        "discovered_at": "2026-08-20T11:18:47.153995",
+        "summary": "Maceió é um daqueles destinos capazes de transformar momentos simples em lembranças inesquecíveis. Com praias de águas cristalinas, clima agradável durante todo o ano e uma gastronomia que conquista à primeira vista, a capital alagoana oferece o cenário ideal para...\nO post Maceió a dois: 5 experiên"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-20T11:19:01.628047",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151277",
+          "feed_name": "Qual Viagem",
+          "title": "Maceió a dois: 5 experiências românticas para viver na capital alagoana",
+          "link": "https://www.qualviagem.com.br/maceio-a-dois-5-experiencias-romanticas-para-viver-na-capital-alagoana/",
+          "published": "2026-08-20T14:00:38",
+          "discovered_at": "2026-08-20T11:18:47.153995",
+          "summary": "Maceió é um daqueles destinos capazes de transformar momentos simples em lembranças inesquecíveis. Com praias de águas cristalinas, clima agradável durante todo o ano e uma gastronomia que conquista à primeira vista, a capital alagoana oferece o cenário ideal para...\nO post Maceió a dois: 5 experiên"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-19T21:17:35.990701",
       "destination": "Itália",
@@ -665,27 +693,18 @@
           "summary": "A Itália anunciou na última sexta-feira (31) a suspensão da livre circulação de pessoas com a Espanha, fechando suas fronteiras aéreas e marítimas com o país ibérico em resposta à intensa crise migratória em Ceuta, enclave espanhol no norte da África. A decisão restabelece inspeções obrigatórias par"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-01T14:25:01.461604",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=629374",
-          "feed_name": "Melhores Destinos",
-          "title": "Itália deve reforçar controle para quem chega da Espanha; entenda o impacto para turistas brasileiros",
-          "link": "https://www.melhoresdestinos.com.br/controle-fronteira-italia-espanha-brasileiros-europa.html",
-          "published": "2026-07-31T22:40:08",
-          "discovered_at": "2026-08-01T14:24:47.018070",
-          "summary": "Se você está na Europa ou com viagem marcada, pode ter visto notícias sobre a Itália suspender temporariamente a livre circulação com a Espanha após a crise migratória recente em Ceuta. A boa notícia para quem vai viajar entre os países a turismo é que não há proibição de entrada para turistas. O qu"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151277",
+      "feed_name": "Qual Viagem",
+      "title": "Maceió a dois: 5 experiências românticas para viver na capital alagoana",
+      "link": "https://www.qualviagem.com.br/maceio-a-dois-5-experiencias-romanticas-para-viver-na-capital-alagoana/",
+      "published": "2026-08-20T14:00:38",
+      "discovered_at": "2026-08-20T11:18:47.153995",
+      "summary": "Maceió é um daqueles destinos capazes de transformar momentos simples em lembranças inesquecíveis. Com praias de águas cristalinas, clima agradável durante todo o ano e uma gastronomia que conquista à primeira vista, a capital alagoana oferece o cenário ideal para...\nO post Maceió a dois: 5 experiên"
+    },
     {
       "id": "Pontos pra Voar:https://pontospravoar.com/?p=136876",
       "feed_name": "Pontos pra Voar",
@@ -928,15 +947,6 @@
       "published": "2026-08-01T19:00:40",
       "discovered_at": "2026-08-01T21:53:37.392398",
       "summary": "A Itália anunciou na última sexta-feira (31) a suspensão da livre circulação de pessoas com a Espanha, fechando suas fronteiras aéreas e marítimas com o país ibérico em resposta à intensa crise migratória em Ceuta, enclave espanhol no norte da África. A decisão restabelece inspeções obrigatórias par"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=629374",
-      "feed_name": "Melhores Destinos",
-      "title": "Itália deve reforçar controle para quem chega da Espanha; entenda o impacto para turistas brasileiros",
-      "link": "https://www.melhoresdestinos.com.br/controle-fronteira-italia-espanha-brasileiros-europa.html",
-      "published": "2026-07-31T22:40:08",
-      "discovered_at": "2026-08-01T14:24:47.018070",
-      "summary": "Se você está na Europa ou com viagem marcada, pode ter visto notícias sobre a Itália suspender temporariamente a livre circulação com a Espanha após a crise migratória recente em Ceuta. A boa notícia para quem vai viajar entre os países a turismo é que não há proibição de entrada para turistas. O qu"
     }
   ]
 }
