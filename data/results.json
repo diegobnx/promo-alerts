@@ -1,15 +1,79 @@
 {
-  "last_run": "2026-08-21T16:21:59.909915",
+  "last_run": "2026-08-21T21:15:21.093324",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-21T16:21:59.909915",
+    "run_at": "2026-08-21T21:15:21.093324",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 3,
+    "posts": [
+      {
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
+        "feed_name": "Melhores Destinos",
+        "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
+        "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
+        "published": "2026-08-21T18:12:40",
+        "discovered_at": "2026-08-21T21:15:03.843322",
+        "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
+        "feed_name": "Qual Viagem",
+        "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
+        "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
+        "published": "2026-08-21T21:25:04",
+        "discovered_at": "2026-08-21T21:15:05.545284",
+        "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
+        "feed_name": "Qual Viagem",
+        "title": "Gramado ganha cantina temática com experiência imersiva",
+        "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
+        "published": "2026-08-21T21:14:15",
+        "discovered_at": "2026-08-21T21:15:05.545593",
+        "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-21T21:15:21.093324",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 3,
+      "posts": [
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
+          "feed_name": "Melhores Destinos",
+          "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
+          "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
+          "published": "2026-08-21T18:12:40",
+          "discovered_at": "2026-08-21T21:15:03.843322",
+          "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
+          "feed_name": "Qual Viagem",
+          "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
+          "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
+          "published": "2026-08-21T21:25:04",
+          "discovered_at": "2026-08-21T21:15:05.545284",
+          "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
+          "feed_name": "Qual Viagem",
+          "title": "Gramado ganha cantina temática com experiência imersiva",
+          "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
+          "published": "2026-08-21T21:14:15",
+          "discovered_at": "2026-08-21T21:15:05.545593",
+          "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-21T16:21:59.909915",
       "destination": "Itália",
@@ -627,17 +691,36 @@
           "summary": "A Itália notificou a Comissão Europeia sobre a reintrodução temporária de controles nas fronteiras com a Espanha devido ao aumento da pressão migratória. Embora a livre circulação continue válida, passageiros poderão passar por verificações adicionais ao entrar no país. Turistas brasileiros devem po"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-03T17:46:20.117884",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
+      "feed_name": "Melhores Destinos",
+      "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
+      "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
+      "published": "2026-08-21T18:12:40",
+      "discovered_at": "2026-08-21T21:15:03.843322",
+      "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
+      "feed_name": "Qual Viagem",
+      "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
+      "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
+      "published": "2026-08-21T21:25:04",
+      "discovered_at": "2026-08-21T21:15:05.545284",
+      "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
+      "feed_name": "Qual Viagem",
+      "title": "Gramado ganha cantina temática com experiência imersiva",
+      "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
+      "published": "2026-08-21T21:14:15",
+      "discovered_at": "2026-08-21T21:15:05.545593",
+      "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151277",
       "feed_name": "Qual Viagem",
