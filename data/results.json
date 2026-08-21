@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-21T11:18:08.064148",
+  "last_run": "2026-08-21T16:21:59.909915",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-21T11:18:08.064148",
+    "run_at": "2026-08-21T16:21:59.909915",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-21T16:21:59.909915",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-21T11:18:08.064148",
       "destination": "Itália",
@@ -627,24 +635,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-03T13:33:21.834556",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150317",
-          "feed_name": "Qual Viagem",
-          "title": "Taverna Medieval é experiência gastronômica imersiva em São Paulo",
-          "link": "https://www.qualviagem.com.br/taverna-medieval-e-experiencia-gastronomica-imersiva-em-sao-paulo/",
-          "published": "2026-08-03T15:14:02",
-          "discovered_at": "2026-08-03T13:33:07.831977",
-          "summary": "Boa noite, milordes e miladies! Atravessar o portão de entrada da Taverna Medieval, em São Paulo, não é apenas entrar em um restaurante temático, mas sim embarcar em uma experiência imersiva completa, que te leva a um mundo mágico de...\nO post Taverna Medieval é experiência gastronômica imersiva em "
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -854,15 +844,6 @@
       "published": "2026-08-03T19:50:43",
       "discovered_at": "2026-08-03T21:59:14.087288",
       "summary": "A Itália notificou a Comissão Europeia sobre a reintrodução temporária de controles nas fronteiras com a Espanha devido ao aumento da pressão migratória. Embora a livre circulação continue válida, passageiros poderão passar por verificações adicionais ao entrar no país. Turistas brasileiros devem po"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150317",
-      "feed_name": "Qual Viagem",
-      "title": "Taverna Medieval é experiência gastronômica imersiva em São Paulo",
-      "link": "https://www.qualviagem.com.br/taverna-medieval-e-experiencia-gastronomica-imersiva-em-sao-paulo/",
-      "published": "2026-08-03T15:14:02",
-      "discovered_at": "2026-08-03T13:33:07.831977",
-      "summary": "Boa noite, milordes e miladies! Atravessar o portão de entrada da Taverna Medieval, em São Paulo, não é apenas entrar em um restaurante temático, mas sim embarcar em uma experiência imersiva completa, que te leva a um mundo mágico de...\nO post Taverna Medieval é experiência gastronômica imersiva em "
     }
   ]
 }
