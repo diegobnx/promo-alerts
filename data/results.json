@@ -1,43 +1,23 @@
 {
-  "last_run": "2026-08-21T21:15:21.093324",
+  "last_run": "2026-08-22T13:29:40.572492",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-21T21:15:21.093324",
+    "run_at": "2026-08-22T13:29:40.572492",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
-    "posts": [
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
-        "feed_name": "Melhores Destinos",
-        "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
-        "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
-        "published": "2026-08-21T18:12:40",
-        "discovered_at": "2026-08-21T21:15:03.843322",
-        "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
-        "feed_name": "Qual Viagem",
-        "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
-        "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
-        "published": "2026-08-21T21:25:04",
-        "discovered_at": "2026-08-21T21:15:05.545284",
-        "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
-        "feed_name": "Qual Viagem",
-        "title": "Gramado ganha cantina temática com experiência imersiva",
-        "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
-        "published": "2026-08-21T21:14:15",
-        "discovered_at": "2026-08-21T21:15:05.545593",
-        "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-22T13:29:40.572492",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-21T21:15:21.093324",
       "destination": "Itália",
@@ -664,33 +644,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-03T21:59:32.016267",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=555689",
-          "feed_name": "Passageiro de Primeira",
-          "title": "ITA Airways passa a aceitar cães de grande porte na cabine",
-          "link": "https://passageirodeprimeira.com/ita-airways-permitira-caes-ate-30-kg-cabine-voos-domesticos/",
-          "published": "2026-08-03T21:10:33",
-          "discovered_at": "2026-08-03T21:59:14.086871",
-          "summary": "A ITA Airways anunciou o lançamento do serviço Large Dog On Board, que permitirá o transporte de cães de até 30 kg na cabine de passageiros, sem a necessidade de caixa de transporte. A novidade estará disponível inicialmente em voos domésticos selecionados na Itália.\nO post ITA Airways passa a aceit"
-        },
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=555942",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Nova medida da Itália aumenta fiscalização na fronteira com a Espanha",
-          "link": "https://passageirodeprimeira.com/nova-medida-da-italia-aumenta-fiscalizacao-na-fronteira-com-a-espanha/",
-          "published": "2026-08-03T19:50:43",
-          "discovered_at": "2026-08-03T21:59:14.087288",
-          "summary": "A Itália notificou a Comissão Europeia sobre a reintrodução temporária de controles nas fronteiras com a Espanha devido ao aumento da pressão migratória. Embora a livre circulação continue válida, passageiros poderão passar por verificações adicionais ao entrar no país. Turistas brasileiros devem po"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -909,24 +862,6 @@
       "published": "2026-08-04T18:30:08",
       "discovered_at": "2026-08-04T17:35:59.552891",
       "summary": "A United Airlines passará a operar sua aeronave Boeing 787-9 Dreamliner com o novo interior Elevated na rota entre Houston (IAH) e São Paulo (GRU) a partir de 24 de outubro de 2026 (sentido Houston-São Paulo), com o primeiro voo...\nO post United Airlines amplia experiência premium em São Paulo apare"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=555689",
-      "feed_name": "Passageiro de Primeira",
-      "title": "ITA Airways passa a aceitar cães de grande porte na cabine",
-      "link": "https://passageirodeprimeira.com/ita-airways-permitira-caes-ate-30-kg-cabine-voos-domesticos/",
-      "published": "2026-08-03T21:10:33",
-      "discovered_at": "2026-08-03T21:59:14.086871",
-      "summary": "A ITA Airways anunciou o lançamento do serviço Large Dog On Board, que permitirá o transporte de cães de até 30 kg na cabine de passageiros, sem a necessidade de caixa de transporte. A novidade estará disponível inicialmente em voos domésticos selecionados na Itália.\nO post ITA Airways passa a aceit"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=555942",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Nova medida da Itália aumenta fiscalização na fronteira com a Espanha",
-      "link": "https://passageirodeprimeira.com/nova-medida-da-italia-aumenta-fiscalizacao-na-fronteira-com-a-espanha/",
-      "published": "2026-08-03T19:50:43",
-      "discovered_at": "2026-08-03T21:59:14.087288",
-      "summary": "A Itália notificou a Comissão Europeia sobre a reintrodução temporária de controles nas fronteiras com a Espanha devido ao aumento da pressão migratória. Embora a livre circulação continue válida, passageiros poderão passar por verificações adicionais ao entrar no país. Turistas brasileiros devem po"
     }
   ]
 }
