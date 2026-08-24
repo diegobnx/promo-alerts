@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-24T11:19:19.800970",
+  "last_run": "2026-08-24T16:25:19.013663",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-24T11:19:19.800970",
+    "run_at": "2026-08-24T16:25:19.013663",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Vida de Turista:http://vidadeturista.com/?p=21245",
+        "feed_name": "Vida de Turista",
+        "title": "6 pacotes feriado 15 de novembro 2026",
+        "link": "https://www.vidadeturista.com/artigos/6-pacotes-feriado-15-de-novembro.html",
+        "published": "2026-06-24T01:00:00",
+        "discovered_at": "2026-08-24T16:25:04.521654",
+        "summary": "Nesse artigo vamos falar sobre pacotes feriado 15 de novembro 2026. Sabe aquela viagem que você está a um tempo se prometendo e ainda não conseguiu fazer? Aquela que sempre [&#8230;]\nO post 6 pacotes feriado 15 de novembro 2026 apareceu primeiro em Vida de Turista."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-24T16:25:19.013663",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Vida de Turista:http://vidadeturista.com/?p=21245",
+          "feed_name": "Vida de Turista",
+          "title": "6 pacotes feriado 15 de novembro 2026",
+          "link": "https://www.vidadeturista.com/artigos/6-pacotes-feriado-15-de-novembro.html",
+          "published": "2026-06-24T01:00:00",
+          "discovered_at": "2026-08-24T16:25:04.521654",
+          "summary": "Nesse artigo vamos falar sobre pacotes feriado 15 de novembro 2026. Sabe aquela viagem que você está a um tempo se prometendo e ainda não conseguiu fazer? Aquela que sempre [&#8230;]\nO post 6 pacotes feriado 15 de novembro 2026 apareceu primeiro em Vida de Turista."
+        }
+      ]
+    },
     {
       "run_at": "2026-08-24T11:19:19.800970",
       "destination": "Itália",
@@ -625,27 +653,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-05T17:22:07.140892",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150521",
-          "feed_name": "Qual Viagem",
-          "title": "Atlantica Hospitality International transforma corrida de rua em experiência de relacionamento",
-          "link": "https://www.qualviagem.com.br/atlantica-hospitality-international-transforma-corrida-de-rua-em-experiencia-de-relacionamento/",
-          "published": "2026-08-05T19:45:27",
-          "discovered_at": "2026-08-05T17:21:49.565750",
-          "summary": "A Atlantica Hospitality International, plataforma multimarcas de hospitalidade com 168 empreendimentos e 28,1 mil quartos em todo o Brasil, realizou, no dia 1º de agosto, em Belo Horizonte (MG), a primeira edição do Let&#8217;s Run &#38; Walk Atlantica Experience. A iniciativa...\nO post Atlantica Ho"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Vida de Turista:http://vidadeturista.com/?p=21245",
+      "feed_name": "Vida de Turista",
+      "title": "6 pacotes feriado 15 de novembro 2026",
+      "link": "https://www.vidadeturista.com/artigos/6-pacotes-feriado-15-de-novembro.html",
+      "published": "2026-06-24T01:00:00",
+      "discovered_at": "2026-08-24T16:25:04.521654",
+      "summary": "Nesse artigo vamos falar sobre pacotes feriado 15 de novembro 2026. Sabe aquela viagem que você está a um tempo se prometendo e ainda não conseguiu fazer? Aquela que sempre [&#8230;]\nO post 6 pacotes feriado 15 de novembro 2026 apareceu primeiro em Vida de Turista."
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=560348",
       "feed_name": "Passageiro de Primeira",
@@ -852,15 +871,6 @@
       "published": "2026-08-06T01:17:36",
       "discovered_at": "2026-08-06T12:51:24.995338",
       "summary": "Executivo com sólida trajetória na hotelaria internacional assume operação do segundo maior hotel da capital paulista para dar continuidade ao ciclo de expansão, inovação e excelência conduzido pela Tera Hotéis &#160; Depois de um dos períodos mais expressivos de sua...\nO post Wyndham São Paulo Ibir"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150521",
-      "feed_name": "Qual Viagem",
-      "title": "Atlantica Hospitality International transforma corrida de rua em experiência de relacionamento",
-      "link": "https://www.qualviagem.com.br/atlantica-hospitality-international-transforma-corrida-de-rua-em-experiencia-de-relacionamento/",
-      "published": "2026-08-05T19:45:27",
-      "discovered_at": "2026-08-05T17:21:49.565750",
-      "summary": "A Atlantica Hospitality International, plataforma multimarcas de hospitalidade com 168 empreendimentos e 28,1 mil quartos em todo o Brasil, realizou, no dia 1º de agosto, em Belo Horizonte (MG), a primeira edição do Let&#8217;s Run &#38; Walk Atlantica Experience. A iniciativa...\nO post Atlantica Ho"
     }
   ]
 }
