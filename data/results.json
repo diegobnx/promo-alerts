@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-08-23T21:19:09.947413",
+  "last_run": "2026-08-24T11:19:19.800970",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-23T21:19:09.947413",
+    "run_at": "2026-08-24T11:19:19.800970",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=560348",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Lufthansa realiza primeiro voo com Starlink no Airbus A320neo",
-        "link": "https://passageirodeprimeira.com/lufthansa-realiza-primeiro-voo-starlink-airbus-a320neo/",
-        "published": "2026-08-23T20:00:45",
-        "discovered_at": "2026-08-23T21:18:51.461677",
-        "summary": "A Lufthansa realizou o primeiro voo de um Airbus A320neo equipado com a tecnologia Starlink, levando a aeronave “November Mike” de Frankfurt (FRA) rumo a Roma (FCO). O avião foi o primeiro da frota a receber o novo serviço e, a partir de agora, os passageiros podem desfrutar da conexão a bordo em vo"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=560129",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM anuncia voo adicional diário entre São Paulo e Bogotá com o Boeing 787-9",
-        "link": "https://passageirodeprimeira.com/latam-anuncia-voo-adicional-diario-entre-sao-paulo-e-bogota-com-o-boeing-787-9/",
-        "published": "2026-08-23T18:00:25",
-        "discovered_at": "2026-08-23T21:18:51.462201",
-        "summary": "A LATAM Brasil anunciou recentemente que está trazendo uma voo diário adicional entre São Paulo (GRU) e Bogotá (BOG), capital da Colômbia. Além disso, é interessante pontuar que, temporariamente, o voo adicional será operado pela aeronave Boeing 787-9 da companhia.\nO post LATAM anuncia voo adicional"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-24T11:19:19.800970",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-23T21:19:09.947413",
       "destination": "Itália",
@@ -654,14 +643,6 @@
           "summary": "A Atlantica Hospitality International, plataforma multimarcas de hospitalidade com 168 empreendimentos e 28,1 mil quartos em todo o Brasil, realizou, no dia 1º de agosto, em Belo Horizonte (MG), a primeira edição do Let&#8217;s Run &#38; Walk Atlantica Experience. A iniciativa...\nO post Atlantica Ho"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-05T12:48:49.986366",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
