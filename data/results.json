@@ -1,43 +1,23 @@
 {
-  "last_run": "2026-08-24T21:20:51.990358",
+  "last_run": "2026-08-25T11:19:14.157577",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-24T21:20:51.990358",
+    "run_at": "2026-08-25T11:19:14.157577",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 3,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561056",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Como funciona a transferência de pontos Esfera com Pontos + Dinheiro",
-        "link": "https://passageirodeprimeira.com/como-funciona-a-transferencia-de-pontos-esfera-com-pontos-dinheiro/",
-        "published": "2026-08-24T20:50:27",
-        "discovered_at": "2026-08-24T21:20:33.174265",
-        "summary": "Se você é um membro da Esfera, programa de fidelidade do Banco Santander, e gosta de viajar, você provavelmente sabe que você pode transferir os seus pontos para programas de fidelidade de companhias aéreas. Mas, além disso, é muito importante que você também conheça a mecânica de transferência de p"
-      },
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632820",
-        "feed_name": "Melhores Destinos",
-        "title": "Europa com a Latam! Voos diretos para Lisboa, Milão, Madri e mais destinos a partir de R$ 3.549",
-        "link": "https://www.melhoresdestinos.com.br/promocao/europa-com-a-latam-voos-diretos-24ago26",
-        "published": "2026-08-24T12:45:41",
-        "discovered_at": "2026-08-24T21:20:34.626055",
-        "summary": "A Latam está com bons preços em seus voos para a Europa! Encontramos passagens aéreas a partir de R$ 3.549 saindo de várias cidades brasileiras. Os menores valores são para saídas de Fortaleza, mas há voos saindo de São Paulo a partir de R$ 3.853. O menor preço é encontrado no mês de novembro, mas&#"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151476",
-        "feed_name": "Qual Viagem",
-        "title": "Em São Paulo, Des Cucina comemora 10 anos com ampliação e novo cardápio",
-        "link": "https://www.qualviagem.com.br/em-sao-paulo-des-cucina-comemora-10-anos-com-ampliacao-e-novo-cardapio/",
-        "published": "2026-08-24T21:48:10",
-        "discovered_at": "2026-08-24T21:20:36.436682",
-        "summary": "Com 10 anos de história, o restaurante Des Cucina se consolidou entre as grandes referências gastronômicas da cidade de São Paulo. No cardápio, a tradicional culinária italiana encontra a gastronomia autoral do premiado chef Sérgio França, que comanda a cozinha...\nO post Em São Paulo, Des Cucina com"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-25T11:19:14.157577",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-24T21:20:51.990358",
       "destination": "Itália",
@@ -681,24 +661,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-06T12:51:40.590440",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150544",
-          "feed_name": "Qual Viagem",
-          "title": "Wyndham São Paulo Ibirapuera anuncia Marc Balanger como novo diretor geral e inicia nova fase de crescimento",
-          "link": "https://www.qualviagem.com.br/wyndham-sao-paulo-ibirapuera-anuncia-marc-balanger-como-novo-diretor-geral-e-inicia-nova-fase-de-crescimento/",
-          "published": "2026-08-06T01:17:36",
-          "discovered_at": "2026-08-06T12:51:24.995338",
-          "summary": "Executivo com sólida trajetória na hotelaria internacional assume operação do segundo maior hotel da capital paulista para dar continuidade ao ciclo de expansão, inovação e excelência conduzido pela Tera Hotéis &#160; Depois de um dos períodos mais expressivos de sua...\nO post Wyndham São Paulo Ibir"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -935,15 +897,6 @@
       "published": "2026-08-09T11:00:31",
       "discovered_at": "2026-08-09T13:47:48.357093",
       "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150544",
-      "feed_name": "Qual Viagem",
-      "title": "Wyndham São Paulo Ibirapuera anuncia Marc Balanger como novo diretor geral e inicia nova fase de crescimento",
-      "link": "https://www.qualviagem.com.br/wyndham-sao-paulo-ibirapuera-anuncia-marc-balanger-como-novo-diretor-geral-e-inicia-nova-fase-de-crescimento/",
-      "published": "2026-08-06T01:17:36",
-      "discovered_at": "2026-08-06T12:51:24.995338",
-      "summary": "Executivo com sólida trajetória na hotelaria internacional assume operação do segundo maior hotel da capital paulista para dar continuidade ao ciclo de expansão, inovação e excelência conduzido pela Tera Hotéis &#160; Depois de um dos períodos mais expressivos de sua...\nO post Wyndham São Paulo Ibir"
     }
   ]
 }
