@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-25T11:19:14.157577",
+  "last_run": "2026-08-25T16:26:07.215549",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-25T11:19:14.157577",
+    "run_at": "2026-08-25T16:26:07.215549",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561174",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Como emitir passagens da Aeromexico com milhas LATAM Pass",
+        "link": "https://passageirodeprimeira.com/como-emitir-passagens-da-aeromexico-com-milhas-latam-pass/",
+        "published": "2026-08-25T16:25:17",
+        "discovered_at": "2026-08-25T16:25:48.907017",
+        "summary": "Nesta matéria, vamos te mostrar como emitir passagens da Aeromexico com milhas utilizando a tabela fixa do LATAM Pass.\nO post Como emitir passagens da Aeromexico com milhas LATAM Pass apareceu primeiro em Passageiro de Primeira."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-25T16:26:07.215549",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561174",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Como emitir passagens da Aeromexico com milhas LATAM Pass",
+          "link": "https://passageirodeprimeira.com/como-emitir-passagens-da-aeromexico-com-milhas-latam-pass/",
+          "published": "2026-08-25T16:25:17",
+          "discovered_at": "2026-08-25T16:25:48.907017",
+          "summary": "Nesta matéria, vamos te mostrar como emitir passagens da Aeromexico com milhas utilizando a tabela fixa do LATAM Pass.\nO post Como emitir passagens da Aeromexico com milhas LATAM Pass apareceu primeiro em Passageiro de Primeira."
+        }
+      ]
+    },
     {
       "run_at": "2026-08-25T11:19:14.157577",
       "destination": "Itália",
@@ -653,17 +681,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-07T00:59:40.973599",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561174",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Como emitir passagens da Aeromexico com milhas LATAM Pass",
+      "link": "https://passageirodeprimeira.com/como-emitir-passagens-da-aeromexico-com-milhas-latam-pass/",
+      "published": "2026-08-25T16:25:17",
+      "discovered_at": "2026-08-25T16:25:48.907017",
+      "summary": "Nesta matéria, vamos te mostrar como emitir passagens da Aeromexico com milhas utilizando a tabela fixa do LATAM Pass.\nO post Como emitir passagens da Aeromexico com milhas LATAM Pass apareceu primeiro em Passageiro de Primeira."
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561056",
       "feed_name": "Passageiro de Primeira",
