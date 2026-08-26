@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-25T21:19:22.547114",
+  "last_run": "2026-08-26T11:21:03.267931",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-25T21:19:22.547114",
+    "run_at": "2026-08-26T11:21:03.267931",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561421",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass",
+        "link": "https://passageirodeprimeira.com/aprenda-a-emitir-a-classe-executiva-da-aeromexico-para-cidade-do-mexico-a-partir-de-r-3-307-ou-135-000-milhas-latam-pass/",
+        "published": "2026-08-26T10:59:02",
+        "discovered_at": "2026-08-26T11:20:46.167974",
+        "summary": "Vamos te mostrar como gerar o saldo necessário para resgatar um trecho em Classe Executiva para a Cidade do México com milhas LATAM Pass.\nO post Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass apareceu primeiro em Passageiro d"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-26T11:21:03.267931",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561421",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass",
+          "link": "https://passageirodeprimeira.com/aprenda-a-emitir-a-classe-executiva-da-aeromexico-para-cidade-do-mexico-a-partir-de-r-3-307-ou-135-000-milhas-latam-pass/",
+          "published": "2026-08-26T10:59:02",
+          "discovered_at": "2026-08-26T11:20:46.167974",
+          "summary": "Vamos te mostrar como gerar o saldo necessário para resgatar um trecho em Classe Executiva para a Cidade do México com milhas LATAM Pass.\nO post Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass apareceu primeiro em Passageiro d"
+        }
+      ]
+    },
     {
       "run_at": "2026-08-25T21:19:22.547114",
       "destination": "Itália",
@@ -663,17 +691,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-07T16:43:02.569255",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561421",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass",
+      "link": "https://passageirodeprimeira.com/aprenda-a-emitir-a-classe-executiva-da-aeromexico-para-cidade-do-mexico-a-partir-de-r-3-307-ou-135-000-milhas-latam-pass/",
+      "published": "2026-08-26T10:59:02",
+      "discovered_at": "2026-08-26T11:20:46.167974",
+      "summary": "Vamos te mostrar como gerar o saldo necessário para resgatar um trecho em Classe Executiva para a Cidade do México com milhas LATAM Pass.\nO post Aprenda a emitir a Classe Executiva da Aeromexico para Cidade do México a partir de R$ 3.307 ou 135.000 milhas LATAM Pass apareceu primeiro em Passageiro d"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561174",
       "feed_name": "Passageiro de Primeira",
