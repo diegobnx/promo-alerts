@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-08-27T00:21:42.275164",
+  "last_run": "2026-08-27T20:52:05.137863",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-27T00:21:42.275164",
+    "run_at": "2026-08-27T20:52:05.137863",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=633311",
+        "feed_name": "Melhores Destinos",
+        "title": "Voos 2×1! Passagens para Marrocos mais Espanha ou Portugal por R$ 4.263 em até 10x sem juros",
+        "link": "https://www.melhoresdestinos.com.br/promocao/voos-2x1-passagens-para-marrocos-mais-espanha-portugal-27ago26",
+        "published": "2026-08-27T10:25:29",
+        "discovered_at": "2026-08-27T20:51:49.846232",
+        "summary": "Hora de viajar para dois países pagando menos! Explore o aromático, milenar e colorido Marrocos e ainda viaje para a Espanha ou Portugal com uma única passagem aérea. Encontramos passagens aéreas 2 em 1 para Casablanca mais Lisboa, Madri, Barcelona ou Porto a partir de R$ 4.263 saindo de São Paulo. "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-08-27T20:52:05.137863",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=633311",
+          "feed_name": "Melhores Destinos",
+          "title": "Voos 2×1! Passagens para Marrocos mais Espanha ou Portugal por R$ 4.263 em até 10x sem juros",
+          "link": "https://www.melhoresdestinos.com.br/promocao/voos-2x1-passagens-para-marrocos-mais-espanha-portugal-27ago26",
+          "published": "2026-08-27T10:25:29",
+          "discovered_at": "2026-08-27T20:51:49.846232",
+          "summary": "Hora de viajar para dois países pagando menos! Explore o aromático, milenar e colorido Marrocos e ainda viaje para a Espanha ou Portugal com uma única passagem aérea. Encontramos passagens aéreas 2 em 1 para Casablanca mais Lisboa, Madri, Barcelona ou Porto a partir de R$ 4.263 saindo de São Paulo. "
+        }
+      ]
+    },
     {
       "run_at": "2026-08-27T00:21:42.275164",
       "destination": "Itália",
@@ -683,17 +711,18 @@
           "summary": "A Azul Conecta iniciou a operação de duas novas rotas regionais em Minas Gerais. Os voos ligam o aeroporto de Confins, na Região Metropolitana de Belo Horizonte, às cidades de Diamantina e São João del-Rei, ampliando a conectividade com dois dos principais destinos históricos e turísticos do estado."
         }
       ]
-    },
-    {
-      "run_at": "2026-08-08T21:27:48.806334",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=633311",
+      "feed_name": "Melhores Destinos",
+      "title": "Voos 2×1! Passagens para Marrocos mais Espanha ou Portugal por R$ 4.263 em até 10x sem juros",
+      "link": "https://www.melhoresdestinos.com.br/promocao/voos-2x1-passagens-para-marrocos-mais-espanha-portugal-27ago26",
+      "published": "2026-08-27T10:25:29",
+      "discovered_at": "2026-08-27T20:51:49.846232",
+      "summary": "Hora de viajar para dois países pagando menos! Explore o aromático, milenar e colorido Marrocos e ainda viaje para a Espanha ou Portugal com uma única passagem aérea. Encontramos passagens aéreas 2 em 1 para Casablanca mais Lisboa, Madri, Barcelona ou Porto a partir de R$ 4.263 saindo de São Paulo. "
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151691",
       "feed_name": "Qual Viagem",
