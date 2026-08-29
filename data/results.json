@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-08-29T16:58:10.554095",
+  "last_run": "2026-08-29T22:59:11.135829",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-08-29T16:58:10.554095",
+    "run_at": "2026-08-29T22:59:11.135829",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-08-29T22:59:11.135829",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-08-29T16:58:10.554095",
       "destination": "Itália",
@@ -664,33 +672,6 @@
           "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-10T16:43:58.993450",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 2,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
-          "feed_name": "Melhores Destinos",
-          "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
-          "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
-          "published": "2026-08-10T10:06:15",
-          "discovered_at": "2026-08-10T16:43:43.947102",
-          "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
-          "feed_name": "Qual Viagem",
-          "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
-          "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
-          "published": "2026-08-10T19:01:24",
-          "discovered_at": "2026-08-10T16:43:45.875768",
-          "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -936,24 +917,6 @@
       "published": "2026-08-11T00:12:53",
       "discovered_at": "2026-08-10T21:33:08.441311",
       "summary": "Turismo de bem-estar expande no mundo e Cerro Campanário reúne uma das vistas panorâmicas mais emblemáticas da Patagônia e reforça a diversidade de atrações do destino além das pistas de esqui Bariloche é mundialmente conhecida pelas montanhas cobertas de neve...\nO post Além da neve: Bariloche ampli"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=630695",
-      "feed_name": "Melhores Destinos",
-      "title": "Natal ou Réveillon na Europa! Voos para Madri, Lisboa, Milão ou outro destino a partir de R$ 3.642 ida e volta",
-      "link": "https://www.melhoresdestinos.com.br/promocao/natal-ou-reveillon-na-europa-passagens-10ago26",
-      "published": "2026-08-10T10:06:15",
-      "discovered_at": "2026-08-10T16:43:43.947102",
-      "summary": "Está pensando em viajar para o exterior no final do ano? Está na hora de começar a planejar para não ser surpreendido por tarifas exorbitantes. Para te ajudar nesta viagem, nós do Melhores Destinos, o maior site de promoções de passagens do Brasil, fizemos uma seleção de voos para a Europa no Natal "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=150651",
-      "feed_name": "Qual Viagem",
-      "title": "Termas dos Laranjais anuncia primeira montanha-russa aquática para crianças do mundo",
-      "link": "https://www.qualviagem.com.br/termas-dos-laranjais-anuncia-primeira-montanha-russa-aquatica-para-criancas-do-mundo/",
-      "published": "2026-08-10T19:01:24",
-      "discovered_at": "2026-08-10T16:43:45.875768",
-      "summary": "O Termas dos Laranjais, parque aquático mais visitado da América Latina, prepara uma atração inédita para o público infantil. Instalada no complexo PlayKids, a novidade leva aos pequenos uma experiência inspirada em uma das atrações mais tradicionais e concorridas do...\nO post Termas dos Laranjais a"
     }
   ]
 }
