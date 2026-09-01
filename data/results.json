@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-09-01T15:20:16.090005",
+  "last_run": "2026-09-01T19:03:25.769347",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-01T15:20:16.090005",
+    "run_at": "2026-09-01T19:03:25.769347",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-01T19:03:25.769347",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-01T15:20:16.090005",
       "destination": "Itália",
@@ -645,14 +653,6 @@
           "summary": "A Smiles anunciou uma nova parceria com o Karta, cartão de crédito americano voltado ao público brasileiro com histórico financeiro internacional. Segundo as empresas, a parceria tem como foco principalmente os brasileiros que viajam com frequência ao exterior, tanto a lazer quanto a negócios.\nO pos"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-12T16:48:01.410010",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
