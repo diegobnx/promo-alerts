@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-09-01T00:14:52.079785",
+  "last_run": "2026-09-01T15:20:16.090005",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-01T00:14:52.079785",
+    "run_at": "2026-09-01T15:20:16.090005",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152001",
-        "feed_name": "Qual Viagem",
-        "title": "Vila Galé Reserva do Paiva inicia vendas para estadias a partir de outubro",
-        "link": "https://www.qualviagem.com.br/vila-gale-reserva-do-paiva-inicia-vendas-para-estadias-a-partir-de-outubro/",
-        "published": "2026-08-31T22:59:33",
-        "discovered_at": "2026-09-01T00:14:36.643952",
-        "summary": "As reservas para o Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club, segundo empreendimento da Vila Galé em Cabo de Santo Agostinho (PE), já estão abertas. A nova unidade começa a operar no próximo dia...\nO post Vila Galé Reserva do Paiva inicia vendas para estadia"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-01T15:20:16.090005",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-01T00:14:52.079785",
       "destination": "Itália",
@@ -655,24 +653,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-12T11:40:06.397393",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
-          "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
-          "published": "2026-08-12T11:00:43",
-          "discovered_at": "2026-08-12T11:39:47.341031",
-          "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -900,15 +880,6 @@
       "published": "2026-08-12T19:15:33",
       "discovered_at": "2026-08-12T21:36:23.576140",
       "summary": "A Smiles anunciou uma nova parceria com o Karta, cartão de crédito americano voltado ao público brasileiro com histórico financeiro internacional. Segundo as empresas, a parceria tem como foco principalmente os brasileiros que viajam com frequência ao exterior, tanto a lazer quanto a negócios.\nO pos"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=558197",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Voos da STARLUX já podem ser resgatados online com milhas Etihad Guest",
-      "link": "https://passageirodeprimeira.com/voos-da-starlux-ja-podem-ser-resgatados-online-com-milhas-etihad-guest/",
-      "published": "2026-08-12T11:00:43",
-      "discovered_at": "2026-08-12T11:39:47.341031",
-      "summary": "A Etihad Guest anunciou que agora é possível resgatar passagens da STARLUX Airlines diretamente pelo site da companhia, sem precisar contatar a central de atendimento. Os associados podem emitir bilhetes em Classe Econômica e Classe Executiva para destinos como Los Angeles, Seattle e Okinawa. Essa n"
     }
   ]
 }
