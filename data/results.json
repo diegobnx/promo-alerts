@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-09-01T22:54:41.178935",
+  "last_run": "2026-09-02T14:50:03.458971",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-01T22:54:41.178935",
+    "run_at": "2026-09-02T14:50:03.458971",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563443",
+        "feed_name": "Passageiro de Primeira",
+        "title": "avianca retoma voos para Caracas após reabertura do aeroporto",
+        "link": "https://passageirodeprimeira.com/avianca-retoma-voos-caracas-bogota-inicia-rota-maracaibo/",
+        "published": "2026-09-02T12:20:02",
+        "discovered_at": "2026-09-02T14:49:47.423311",
+        "summary": "A avianca anunciou a retomada de voos entre Caracas e Bogotá, a partir de hoje (1), e também a estreia da rota a partir de Maracaibo no final de agosto. Esse fortalecimento de rotas para a Colômbia é complementado pela operação diária e direta que a companhia aérea já oferece para Valência.\nO post a"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-02T14:50:03.458971",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563443",
+          "feed_name": "Passageiro de Primeira",
+          "title": "avianca retoma voos para Caracas após reabertura do aeroporto",
+          "link": "https://passageirodeprimeira.com/avianca-retoma-voos-caracas-bogota-inicia-rota-maracaibo/",
+          "published": "2026-09-02T12:20:02",
+          "discovered_at": "2026-09-02T14:49:47.423311",
+          "summary": "A avianca anunciou a retomada de voos entre Caracas e Bogotá, a partir de hoje (1), e também a estreia da rota a partir de Maracaibo no final de agosto. Esse fortalecimento de rotas para a Colômbia é complementado pela operação diária e direta que a companhia aérea já oferece para Valência.\nO post a"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-01T22:54:41.178935",
       "destination": "Itália",
@@ -635,17 +663,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-13T11:40:23.235811",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563443",
+      "feed_name": "Passageiro de Primeira",
+      "title": "avianca retoma voos para Caracas após reabertura do aeroporto",
+      "link": "https://passageirodeprimeira.com/avianca-retoma-voos-caracas-bogota-inicia-rota-maracaibo/",
+      "published": "2026-09-02T12:20:02",
+      "discovered_at": "2026-09-02T14:49:47.423311",
+      "summary": "A avianca anunciou a retomada de voos entre Caracas e Bogotá, a partir de hoje (1), e também a estreia da rota a partir de Maracaibo no final de agosto. Esse fortalecimento de rotas para a Colômbia é complementado pela operação diária e direta que a companhia aérea já oferece para Valência.\nO post a"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152001",
       "feed_name": "Qual Viagem",
