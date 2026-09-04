@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-09-04T18:43:38.529375",
+  "last_run": "2026-09-04T22:40:06.361738",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-04T18:43:38.529375",
+    "run_at": "2026-09-04T22:40:06.361738",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564052",
+        "feed_name": "Passageiro de Primeira",
+        "title": "GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa",
+        "link": "https://passageirodeprimeira.com/gol-amplia-frequencia-de-voos-entre-o-rio-de-janeiro-e-lisboa/",
+        "published": "2026-09-04T19:40:58",
+        "discovered_at": "2026-09-04T22:39:50.600778",
+        "summary": "A GOL anunciou que, a partir de 24 de novembro de 2026, aumentará a frequência de voos entre o Rio de Janeiro (GIG) e Lisboa (LIS) de quatro para cinco vezes por semana.\nO post GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa apareceu primeiro em Passageiro de Primeira."
+      },
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=559961",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Como solicitar assistência especial na Azul: guia completo",
+        "link": "https://passageirodeprimeira.com/como-solicitar-assistencia-especial-na-azul/",
+        "published": "2026-09-04T19:00:10",
+        "discovered_at": "2026-09-04T22:39:50.601020",
+        "summary": "Solicitar assistência especial na Azul é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas, como pessoas com deficiência, idosos e gestantes. Este guia completo traz informações práticas sobre como fazer a solicitação, quais serviços estão disponíveis e a i"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-04T22:40:06.361738",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564052",
+          "feed_name": "Passageiro de Primeira",
+          "title": "GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa",
+          "link": "https://passageirodeprimeira.com/gol-amplia-frequencia-de-voos-entre-o-rio-de-janeiro-e-lisboa/",
+          "published": "2026-09-04T19:40:58",
+          "discovered_at": "2026-09-04T22:39:50.600778",
+          "summary": "A GOL anunciou que, a partir de 24 de novembro de 2026, aumentará a frequência de voos entre o Rio de Janeiro (GIG) e Lisboa (LIS) de quatro para cinco vezes por semana.\nO post GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa apareceu primeiro em Passageiro de Primeira."
+        },
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=559961",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Como solicitar assistência especial na Azul: guia completo",
+          "link": "https://passageirodeprimeira.com/como-solicitar-assistencia-especial-na-azul/",
+          "published": "2026-09-04T19:00:10",
+          "discovered_at": "2026-09-04T22:39:50.601020",
+          "summary": "Solicitar assistência especial na Azul é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas, como pessoas com deficiência, idosos e gestantes. Este guia completo traz informações práticas sobre como fazer a solicitação, quais serviços estão disponíveis e a i"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-04T18:43:38.529375",
       "destination": "Itália",
@@ -636,17 +682,27 @@
           "summary": "Quer viajar para Cidade do Cabo, Milão e outros destinos incríveis? Nesta matéria, sugerimos opções de resgates disponíveis nos Grupos de Alerta do PP no WhatsApp, onde você encontra passagens em Econômica, Executiva e Primeira Classe. Não perca a chance de planejar sua próxima aventura com as melho"
         }
       ]
-    },
-    {
-      "run_at": "2026-08-16T13:29:09.821936",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564052",
+      "feed_name": "Passageiro de Primeira",
+      "title": "GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa",
+      "link": "https://passageirodeprimeira.com/gol-amplia-frequencia-de-voos-entre-o-rio-de-janeiro-e-lisboa/",
+      "published": "2026-09-04T19:40:58",
+      "discovered_at": "2026-09-04T22:39:50.600778",
+      "summary": "A GOL anunciou que, a partir de 24 de novembro de 2026, aumentará a frequência de voos entre o Rio de Janeiro (GIG) e Lisboa (LIS) de quatro para cinco vezes por semana.\nO post GOL amplia frequência de voos entre o Rio de Janeiro e Lisboa apareceu primeiro em Passageiro de Primeira."
+    },
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=559961",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Como solicitar assistência especial na Azul: guia completo",
+      "link": "https://passageirodeprimeira.com/como-solicitar-assistencia-especial-na-azul/",
+      "published": "2026-09-04T19:00:10",
+      "discovered_at": "2026-09-04T22:39:50.601020",
+      "summary": "Solicitar assistência especial na Azul é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas, como pessoas com deficiência, idosos e gestantes. Este guia completo traz informações práticas sobre como fazer a solicitação, quais serviços estão disponíveis e a i"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564251",
       "feed_name": "Passageiro de Primeira",
