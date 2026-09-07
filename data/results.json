@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-09-07T16:13:26.018961",
+  "last_run": "2026-09-07T23:11:44.459342",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-07T16:13:26.018961",
+    "run_at": "2026-09-07T23:11:44.459342",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-07T23:11:44.459342",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-07T16:13:26.018961",
       "destination": "Itália",
@@ -655,14 +663,6 @@
           "summary": "A Aeroméxico anunciou a intenção de lançar uma nova rota sem escalas entre a Cidade do México e Milão, ampliando sua presença na Europa. A operação está prevista para começar em março de 2027, mas ainda depende das autorizações governamentais. O trecho será operado com Boeing 787 Dreamliner, modelo "
         }
       ]
-    },
-    {
-      "run_at": "2026-08-18T16:20:47.092910",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
