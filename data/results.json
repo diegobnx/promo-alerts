@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-09-08T14:50:12.339958",
+  "last_run": "2026-09-08T19:09:27.476726",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-08T14:50:12.339958",
+    "run_at": "2026-09-08T19:09:27.476726",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564793",
+        "feed_name": "Passageiro de Primeira",
+        "title": "LATAM anuncia voo direto entre São Paulo e Cusco",
+        "link": "https://passageirodeprimeira.com/latam-anuncia-voo-direto-entre-sao-paulo-e-cusco/",
+        "published": "2026-09-08T16:40:30",
+        "discovered_at": "2026-09-08T19:09:06.885671",
+        "summary": "A LATAM anunciou uma nova rota direta entre São Paulo e Cusco, no Peru, com início previsto para março de 2027.\nO post LATAM anuncia voo direto entre São Paulo e Cusco apareceu primeiro em Passageiro de Primeira."
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-08T19:09:27.476726",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564793",
+          "feed_name": "Passageiro de Primeira",
+          "title": "LATAM anuncia voo direto entre São Paulo e Cusco",
+          "link": "https://passageirodeprimeira.com/latam-anuncia-voo-direto-entre-sao-paulo-e-cusco/",
+          "published": "2026-09-08T16:40:30",
+          "discovered_at": "2026-09-08T19:09:06.885671",
+          "summary": "A LATAM anunciou uma nova rota direta entre São Paulo e Cusco, no Peru, com início previsto para março de 2027.\nO post LATAM anuncia voo direto entre São Paulo e Cusco apareceu primeiro em Passageiro de Primeira."
+        }
+      ]
+    },
     {
       "run_at": "2026-09-08T14:50:12.339958",
       "destination": "Itália",
@@ -645,17 +673,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-19T11:17:13.000442",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564793",
+      "feed_name": "Passageiro de Primeira",
+      "title": "LATAM anuncia voo direto entre São Paulo e Cusco",
+      "link": "https://passageirodeprimeira.com/latam-anuncia-voo-direto-entre-sao-paulo-e-cusco/",
+      "published": "2026-09-08T16:40:30",
+      "discovered_at": "2026-09-08T19:09:06.885671",
+      "summary": "A LATAM anunciou uma nova rota direta entre São Paulo e Cusco, no Peru, com início previsto para março de 2027.\nO post LATAM anuncia voo direto entre São Paulo e Cusco apareceu primeiro em Passageiro de Primeira."
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564360",
       "feed_name": "Passageiro de Primeira",
