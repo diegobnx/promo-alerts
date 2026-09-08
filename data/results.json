@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-09-08T19:09:27.476726",
+  "last_run": "2026-09-08T23:05:23.616445",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-08T19:09:27.476726",
+    "run_at": "2026-09-08T23:05:23.616445",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564793",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM anuncia voo direto entre São Paulo e Cusco",
-        "link": "https://passageirodeprimeira.com/latam-anuncia-voo-direto-entre-sao-paulo-e-cusco/",
-        "published": "2026-09-08T16:40:30",
-        "discovered_at": "2026-09-08T19:09:06.885671",
-        "summary": "A LATAM anunciou uma nova rota direta entre São Paulo e Cusco, no Peru, com início previsto para março de 2027.\nO post LATAM anuncia voo direto entre São Paulo e Cusco apareceu primeiro em Passageiro de Primeira."
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152568",
+        "feed_name": "Qual Viagem",
+        "title": "Na frequência de Curaçao: música, cultura e mar no ritmo do Caribe",
+        "link": "https://www.qualviagem.com.br/na-frequencia-de-curacao-musica-cultura-e-mar-no-ritmo-do-caribe/",
+        "published": "2026-09-08T23:51:35",
+        "discovered_at": "2026-09-08T23:05:09.981486",
+        "summary": "Em Curaçao, algumas palavras soam familiares antes mesmo de entendermos a frase inteira. “Bom dia”, “boa tarde”, “amor” e tantas outras expressões do papiamentu ajudam a criar uma curiosa sensação de proximidade. Mas a conexão com o Brasil não termina...\nO post Na frequência de Curaçao: música, cult"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-09-08T23:05:23.616445",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152568",
+          "feed_name": "Qual Viagem",
+          "title": "Na frequência de Curaçao: música, cultura e mar no ritmo do Caribe",
+          "link": "https://www.qualviagem.com.br/na-frequencia-de-curacao-musica-cultura-e-mar-no-ritmo-do-caribe/",
+          "published": "2026-09-08T23:51:35",
+          "discovered_at": "2026-09-08T23:05:09.981486",
+          "summary": "Em Curaçao, algumas palavras soam familiares antes mesmo de entendermos a frase inteira. “Bom dia”, “boa tarde”, “amor” e tantas outras expressões do papiamentu ajudam a criar uma curiosa sensação de proximidade. Mas a conexão com o Brasil não termina...\nO post Na frequência de Curaçao: música, cult"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-08T19:09:27.476726",
       "destination": "Itália",
@@ -665,17 +683,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-19T16:21:15.270379",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152568",
+      "feed_name": "Qual Viagem",
+      "title": "Na frequência de Curaçao: música, cultura e mar no ritmo do Caribe",
+      "link": "https://www.qualviagem.com.br/na-frequencia-de-curacao-musica-cultura-e-mar-no-ritmo-do-caribe/",
+      "published": "2026-09-08T23:51:35",
+      "discovered_at": "2026-09-08T23:05:09.981486",
+      "summary": "Em Curaçao, algumas palavras soam familiares antes mesmo de entendermos a frase inteira. “Bom dia”, “boa tarde”, “amor” e tantas outras expressões do papiamentu ajudam a criar uma curiosa sensação de proximidade. Mas a conexão com o Brasil não termina...\nO post Na frequência de Curaçao: música, cult"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564793",
       "feed_name": "Passageiro de Primeira",
