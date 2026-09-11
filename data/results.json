@@ -1,34 +1,43 @@
 {
-  "last_run": "2026-09-10T22:52:11.024260",
+  "last_run": "2026-09-11T14:44:11.402632",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-10T22:52:11.024260",
+    "run_at": "2026-09-11T14:44:11.402632",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152762",
-        "feed_name": "Qual Viagem",
-        "title": "MSC Cruzeiros anuncia oferta relâmpago Dia do Cliente",
-        "link": "https://www.qualviagem.com.br/msc-cruzeiros-anuncia-oferta-relampago-dia-do-cliente/",
-        "published": "2026-09-10T23:38:44",
-        "discovered_at": "2026-09-10T22:51:55.077645",
-        "summary": "A MSC Cruzeiros lança nesse dia 10 a Oferta Relâmpago Dia do Cliente para celebrar a data e transformar o sonho das férias em alto-mar em realidade. Entre os dias 10 e 15 de setembro de 2026, os viajantes poderão...\nO post MSC Cruzeiros anuncia oferta relâmpago Dia do Cliente apareceu primeiro em Qu"
-      },
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152755",
-        "feed_name": "Qual Viagem",
-        "title": "Castelo de São Roque revive a Idade Média em experiência imersiva",
-        "link": "https://www.qualviagem.com.br/castelo-de-sao-roque-revive-a-idade-media-em-experiencia-imersiva/",
-        "published": "2026-09-10T22:33:50",
-        "discovered_at": "2026-09-10T22:51:55.078078",
-        "summary": "Existe um lugar no interior de São Roque onde o relógio parece andar para trás. No dia 19 de setembro, O Castelo de São Roque recebe mais uma edição de sua experiência imersiva medieval, um mergulho de seis horas no...\nO post Castelo de São Roque revive a Idade Média em experiência imersiva apareceu"
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=140906",
+        "feed_name": "Pontos pra Voar",
+        "title": "Delta aumenta acúmulo de milhas em voos de classe executiva da LATAM",
+        "link": "https://pontospravoar.com/delta-aumenta-acumulo-de-milhas-em-voos-de-classe-executiva-da-latam/",
+        "published": "2026-09-11T14:30:24",
+        "discovered_at": "2026-09-11T14:44:02.300238",
+        "summary": "O Delta SkyMiles alterou as regras de acúmulo de milhas para voos da LATAM e também promoveu mudanças nos critérios aplicados às passagens da Aerolíneas Argentinas e da Aeroméxico. As novas regras entraram em vigor em 10 de setembro de 2026 e, na maior parte dos casos, aumentam o crédito de SkyMiles"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-09-11T14:44:11.402632",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=140906",
+          "feed_name": "Pontos pra Voar",
+          "title": "Delta aumenta acúmulo de milhas em voos de classe executiva da LATAM",
+          "link": "https://pontospravoar.com/delta-aumenta-acumulo-de-milhas-em-voos-de-classe-executiva-da-latam/",
+          "published": "2026-09-11T14:30:24",
+          "discovered_at": "2026-09-11T14:44:02.300238",
+          "summary": "O Delta SkyMiles alterou as regras de acúmulo de milhas para voos da LATAM e também promoveu mudanças nos critérios aplicados às passagens da Aerolíneas Argentinas e da Aeroméxico. As novas regras entraram em vigor em 10 de setembro de 2026 e, na maior parte dos casos, aumentam o crédito de SkyMiles"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-10T22:52:11.024260",
       "destination": "Itália",
@@ -675,45 +684,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-21T21:15:21.093324",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 3,
-      "posts": [
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
-          "feed_name": "Melhores Destinos",
-          "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
-          "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
-          "published": "2026-08-21T18:12:40",
-          "discovered_at": "2026-08-21T21:15:03.843322",
-          "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
-          "feed_name": "Qual Viagem",
-          "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
-          "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
-          "published": "2026-08-21T21:25:04",
-          "discovered_at": "2026-08-21T21:15:05.545284",
-          "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
-          "feed_name": "Qual Viagem",
-          "title": "Gramado ganha cantina temática com experiência imersiva",
-          "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
-          "published": "2026-08-21T21:14:15",
-          "discovered_at": "2026-08-21T21:15:05.545593",
-          "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=140906",
+      "feed_name": "Pontos pra Voar",
+      "title": "Delta aumenta acúmulo de milhas em voos de classe executiva da LATAM",
+      "link": "https://pontospravoar.com/delta-aumenta-acumulo-de-milhas-em-voos-de-classe-executiva-da-latam/",
+      "published": "2026-09-11T14:30:24",
+      "discovered_at": "2026-09-11T14:44:02.300238",
+      "summary": "O Delta SkyMiles alterou as regras de acúmulo de milhas para voos da LATAM e também promoveu mudanças nos critérios aplicados às passagens da Aerolíneas Argentinas e da Aeroméxico. As novas regras entraram em vigor em 10 de setembro de 2026 e, na maior parte dos casos, aumentam o crédito de SkyMiles"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152762",
       "feed_name": "Qual Viagem",
@@ -947,33 +929,6 @@
       "published": "2026-08-23T18:00:25",
       "discovered_at": "2026-08-23T21:18:51.462201",
       "summary": "A LATAM Brasil anunciou recentemente que está trazendo uma voo diário adicional entre São Paulo (GRU) e Bogotá (BOG), capital da Colômbia. Além disso, é interessante pontuar que, temporariamente, o voo adicional será operado pela aeronave Boeing 787-9 da companhia.\nO post LATAM anuncia voo adicional"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632630",
-      "feed_name": "Melhores Destinos",
-      "title": "Itália de executiva! Voos direto da Premium Business Latam para Roma a partir de R$ 11.199 ida e volta – incluindo datas no fim do ano",
-      "link": "https://www.melhoresdestinos.com.br/promocao/italia-de-executiva-voos-direto-latam-11199",
-      "published": "2026-08-21T18:12:40",
-      "discovered_at": "2026-08-21T21:15:03.843322",
-      "summary": "A Itália apareceu com uma boa oportunidade para quem quer viajar com muito mais conforto: encontramos passagens aéreas de diretos na Premium Business da Latam para Roma a partir de R$ 11.199 ida e volta, saindo de São Paulo. Há também opções para Milão, com tarifas a partir de R$ 11.906. O destaque "
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151431",
-      "feed_name": "Qual Viagem",
-      "title": "Sanma Hotel apresenta experiências exclusivas para o feriado da Independência em Foz do Iguaçu",
-      "link": "https://www.qualviagem.com.br/sanma-hotel-apresenta-experiencias-exclusivas-para-o-feriado-da-independencia-em-foz-do-iguacu/",
-      "published": "2026-08-21T21:25:04",
-      "discovered_at": "2026-08-21T21:15:05.545284",
-      "summary": "Entre as Cataratas, a floresta e a energia única da Tríplice Fronteira, Foz do Iguaçu é um convite para transformar um feriado prolongado em uma viagem especial. De 4 a 7 de setembro, o Sanma Hotel terá uma programação pensada...\nO post Sanma Hotel apresenta experiências exclusivas para o feriado da"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151428",
-      "feed_name": "Qual Viagem",
-      "title": "Gramado ganha cantina temática com experiência imersiva",
-      "link": "https://www.qualviagem.com.br/gramado-ganha-cantina-tematica-com-experiencia-imersiva/",
-      "published": "2026-08-21T21:14:15",
-      "discovered_at": "2026-08-21T21:15:05.545593",
-      "summary": "Imagine estar na Serra Gaúcha, sentar para jantar e, minutos depois, perceber que as paredes ao redor do restaurante começaram a contar uma história. É essa a proposta da Famiglia Pierre, nova cantina temática de Gramado que abre suas portas...\nO post Gramado ganha cantina temática com experiência i"
     }
   ]
 }
