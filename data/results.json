@@ -1,34 +1,23 @@
 {
-  "last_run": "2026-09-13T22:52:35.162748",
+  "last_run": "2026-09-14T16:43:28.541294",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-13T22:52:35.162748",
+    "run_at": "2026-09-14T16:43:28.541294",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=565833",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Air Europa anuncia novidades em voos nas classes Executiva e Econômica",
-        "link": "https://passageirodeprimeira.com/air-europa-anuncia-novidades-em-voos-nas-classes-executiva-e-economica/",
-        "published": "2026-09-13T20:20:06",
-        "discovered_at": "2026-09-13T22:52:18.286410",
-        "summary": "A Air Europa anunciou novas comodidades para os passageiros, incluindo um kit de amenities com pantufas na Classe Executiva e um kit de conforto na Econômica por 5 euros. Além disso, a companhia reforçou o serviço de refeições e disponibilizou fones de ouvido gratuitos para todos os viajantes.\nO pos"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=565344",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Etihad lança programa de bem-estar para aprimorar a experiência de viagem dos passageiros",
-        "link": "https://passageirodeprimeira.com/etihad-lanca-programa-bem-estar-aprimorar-experiencia-viagem-passageiros/",
-        "published": "2026-09-13T19:00:15",
-        "discovered_at": "2026-09-13T22:52:18.286745",
-        "summary": "A Etihad Airways lançou recentemente o Etihad Wellbeing, seu novo programa que reúne os mais recentes avanços em produtos e serviços para aprimorar a experiência de viagem de cada passageiro nos voos e lounges.\nO post Etihad lança programa de bem-estar para aprimorar a experiência de viagem dos pass"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-14T16:43:28.541294",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-13T22:52:35.162748",
       "destination": "Itália",
@@ -685,42 +674,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-24T21:20:51.990358",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 3,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561056",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Como funciona a transferência de pontos Esfera com Pontos + Dinheiro",
-          "link": "https://passageirodeprimeira.com/como-funciona-a-transferencia-de-pontos-esfera-com-pontos-dinheiro/",
-          "published": "2026-08-24T20:50:27",
-          "discovered_at": "2026-08-24T21:20:33.174265",
-          "summary": "Se você é um membro da Esfera, programa de fidelidade do Banco Santander, e gosta de viajar, você provavelmente sabe que você pode transferir os seus pontos para programas de fidelidade de companhias aéreas. Mas, além disso, é muito importante que você também conheça a mecânica de transferência de p"
-        },
-        {
-          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632820",
-          "feed_name": "Melhores Destinos",
-          "title": "Europa com a Latam! Voos diretos para Lisboa, Milão, Madri e mais destinos a partir de R$ 3.549",
-          "link": "https://www.melhoresdestinos.com.br/promocao/europa-com-a-latam-voos-diretos-24ago26",
-          "published": "2026-08-24T12:45:41",
-          "discovered_at": "2026-08-24T21:20:34.626055",
-          "summary": "A Latam está com bons preços em seus voos para a Europa! Encontramos passagens aéreas a partir de R$ 3.549 saindo de várias cidades brasileiras. Os menores valores são para saídas de Fortaleza, mas há voos saindo de São Paulo a partir de R$ 3.853. O menor preço é encontrado no mês de novembro, mas&#"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151476",
-          "feed_name": "Qual Viagem",
-          "title": "Em São Paulo, Des Cucina comemora 10 anos com ampliação e novo cardápio",
-          "link": "https://www.qualviagem.com.br/em-sao-paulo-des-cucina-comemora-10-anos-com-ampliacao-e-novo-cardapio/",
-          "published": "2026-08-24T21:48:10",
-          "discovered_at": "2026-08-24T21:20:36.436682",
-          "summary": "Com 10 anos de história, o restaurante Des Cucina se consolidou entre as grandes referências gastronômicas da cidade de São Paulo. No cardápio, a tradicional culinária italiana encontra a gastronomia autoral do premiado chef Sérgio França, que comanda a cozinha...\nO post Em São Paulo, Des Cucina com"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -966,33 +919,6 @@
       "published": "2026-08-25T16:25:17",
       "discovered_at": "2026-08-25T16:25:48.907017",
       "summary": "Nesta matéria, vamos te mostrar como emitir passagens da Aeromexico com milhas utilizando a tabela fixa do LATAM Pass.\nO post Como emitir passagens da Aeromexico com milhas LATAM Pass apareceu primeiro em Passageiro de Primeira."
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=561056",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Como funciona a transferência de pontos Esfera com Pontos + Dinheiro",
-      "link": "https://passageirodeprimeira.com/como-funciona-a-transferencia-de-pontos-esfera-com-pontos-dinheiro/",
-      "published": "2026-08-24T20:50:27",
-      "discovered_at": "2026-08-24T21:20:33.174265",
-      "summary": "Se você é um membro da Esfera, programa de fidelidade do Banco Santander, e gosta de viajar, você provavelmente sabe que você pode transferir os seus pontos para programas de fidelidade de companhias aéreas. Mas, além disso, é muito importante que você também conheça a mecânica de transferência de p"
-    },
-    {
-      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=632820",
-      "feed_name": "Melhores Destinos",
-      "title": "Europa com a Latam! Voos diretos para Lisboa, Milão, Madri e mais destinos a partir de R$ 3.549",
-      "link": "https://www.melhoresdestinos.com.br/promocao/europa-com-a-latam-voos-diretos-24ago26",
-      "published": "2026-08-24T12:45:41",
-      "discovered_at": "2026-08-24T21:20:34.626055",
-      "summary": "A Latam está com bons preços em seus voos para a Europa! Encontramos passagens aéreas a partir de R$ 3.549 saindo de várias cidades brasileiras. Os menores valores são para saídas de Fortaleza, mas há voos saindo de São Paulo a partir de R$ 3.853. O menor preço é encontrado no mês de novembro, mas&#"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=151476",
-      "feed_name": "Qual Viagem",
-      "title": "Em São Paulo, Des Cucina comemora 10 anos com ampliação e novo cardápio",
-      "link": "https://www.qualviagem.com.br/em-sao-paulo-des-cucina-comemora-10-anos-com-ampliacao-e-novo-cardapio/",
-      "published": "2026-08-24T21:48:10",
-      "discovered_at": "2026-08-24T21:20:36.436682",
-      "summary": "Com 10 anos de história, o restaurante Des Cucina se consolidou entre as grandes referências gastronômicas da cidade de São Paulo. No cardápio, a tradicional culinária italiana encontra a gastronomia autoral do premiado chef Sérgio França, que comanda a cozinha...\nO post Em São Paulo, Des Cucina com"
     }
   ]
 }
