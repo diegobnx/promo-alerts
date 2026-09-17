@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-09-16T23:26:59.848642",
+  "last_run": "2026-09-17T15:22:37.683282",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-16T23:26:59.848642",
+    "run_at": "2026-09-17T15:22:37.683282",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=636695",
+        "feed_name": "Melhores Destinos",
+        "title": "Pirâmide em Roma? Monumento de 2 mil anos reabre com visitas gratuitas até o final de outubro",
+        "link": "https://www.melhoresdestinos.com.br/piramide-roma-reabre-visitas-gratuitas.html",
+        "published": "2026-09-16T21:09:00",
+        "discovered_at": "2026-09-17T15:22:23.021310",
+        "summary": "Em uma viagem a Roma, talvez você não imagine que vá encontrar uma pirâmide, né? Acredite ou não, isso pode acontecer, pois a capital italiana abriga um monumento em estilo egípcio com mais de 2 mil anos de história. Trata-se da Pirâmide de Céstio, que reabriu para visitação após passar por uma rest"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-17T15:22:37.683282",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=636695",
+          "feed_name": "Melhores Destinos",
+          "title": "Pirâmide em Roma? Monumento de 2 mil anos reabre com visitas gratuitas até o final de outubro",
+          "link": "https://www.melhoresdestinos.com.br/piramide-roma-reabre-visitas-gratuitas.html",
+          "published": "2026-09-16T21:09:00",
+          "discovered_at": "2026-09-17T15:22:23.021310",
+          "summary": "Em uma viagem a Roma, talvez você não imagine que vá encontrar uma pirâmide, né? Acredite ou não, isso pode acontecer, pois a capital italiana abriga um monumento em estilo egípcio com mais de 2 mil anos de história. Trata-se da Pirâmide de Céstio, que reabriu para visitação após passar por uma rest"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-16T23:26:59.848642",
       "destination": "Itália",
@@ -635,27 +663,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-28T05:02:12.995162",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=562411",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Executiva da Aeromexico de São Paulo para Tóquio a partir de R$ 6.982 ou 285 mil milhas LATAM Pass + taxas",
-          "link": "https://passageirodeprimeira.com/executiva-da-aeromexico-de-sao-paulo-para-toquio-a-partir-de-r-6-982-ou-285-mil-milhas-latam-pass-taxas/",
-          "published": "2026-08-27T21:20:22",
-          "discovered_at": "2026-08-28T05:01:56.780774",
-          "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta em Classe Executiva entre São Paulo (GRU) e Tóquio (NRT). Os voos são operados pela Aeromexico e a emissão pode ser feita por 285.000 milhas LATAM Pass + taxas. Se você não tem milhas suficientes, pode comprá-las com até 65%"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=636695",
+      "feed_name": "Melhores Destinos",
+      "title": "Pirâmide em Roma? Monumento de 2 mil anos reabre com visitas gratuitas até o final de outubro",
+      "link": "https://www.melhoresdestinos.com.br/piramide-roma-reabre-visitas-gratuitas.html",
+      "published": "2026-09-16T21:09:00",
+      "discovered_at": "2026-09-17T15:22:23.021310",
+      "summary": "Em uma viagem a Roma, talvez você não imagine que vá encontrar uma pirâmide, né? Acredite ou não, isso pode acontecer, pois a capital italiana abriga um monumento em estilo egípcio com mais de 2 mil anos de história. Trata-se da Pirâmide de Céstio, que reabriu para visitação após passar por uma rest"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152899",
       "feed_name": "Qual Viagem",
@@ -871,15 +890,6 @@
       "published": "2026-08-31T22:59:33",
       "discovered_at": "2026-09-01T00:14:36.643952",
       "summary": "As reservas para o Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club, segundo empreendimento da Vila Galé em Cabo de Santo Agostinho (PE), já estão abertas. A nova unidade começa a operar no próximo dia...\nO post Vila Galé Reserva do Paiva inicia vendas para estadia"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=562411",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Executiva da Aeromexico de São Paulo para Tóquio a partir de R$ 6.982 ou 285 mil milhas LATAM Pass + taxas",
-      "link": "https://passageirodeprimeira.com/executiva-da-aeromexico-de-sao-paulo-para-toquio-a-partir-de-r-6-982-ou-285-mil-milhas-latam-pass-taxas/",
-      "published": "2026-08-27T21:20:22",
-      "discovered_at": "2026-08-28T05:01:56.780774",
-      "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta em Classe Executiva entre São Paulo (GRU) e Tóquio (NRT). Os voos são operados pela Aeromexico e a emissão pode ser feita por 285.000 milhas LATAM Pass + taxas. Se você não tem milhas suficientes, pode comprá-las com até 65%"
     }
   ]
 }
