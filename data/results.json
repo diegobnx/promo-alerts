@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-09-18T14:42:42.942963",
+  "last_run": "2026-09-18T18:45:33.072591",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-18T14:42:42.942963",
+    "run_at": "2026-09-18T18:45:33.072591",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=567703",
+        "feed_name": "Passageiro de Primeira",
+        "title": "British Airways anuncia voo direto para Buenos Aires e encerra rota Rio–Ezeiza",
+        "link": "https://passageirodeprimeira.com/british-airways-anuncia-voo-direto-para-buenos-aires-e-encerra-rota-rio-ezeiza/",
+        "published": "2026-09-18T18:40:57",
+        "discovered_at": "2026-09-18T18:45:14.357333",
+        "summary": "A British Airways anunciou que a partir de 28 de março de 2027, oferecerá voos diretos diários de Londres (LHR) para Buenos Aires (EZE), com uma escala em Santiago do Chile. Com essa mudança, o voo de quinta liberdade entre o Rio de Janeiro (GIG) e Buenos Aires será descontinuado, aumentando a capac"
+      },
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153076",
+        "feed_name": "Qual Viagem",
+        "title": "Tierra Patagonia inicia temporada 2026 com novas experiências no Chile",
+        "link": "https://www.qualviagem.com.br/tierra-patagonia-inicia-temporada-2026-com-novas-experiencias-no-chile/",
+        "published": "2026-09-18T21:14:01",
+        "discovered_at": "2026-09-18T18:45:18.054452",
+        "summary": "O Tierra Patagonia, parte do portfólio da Beckons de lodges de luxo voltados a viajantes curiosos em busca de uma conexão genuína com o destino, a cultura e a natureza, abriu sua temporada 2026 ontem 17 de setembro. Novas experiências...\nO post Tierra Patagonia inicia temporada 2026 com novas experi"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-18T18:45:33.072591",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=567703",
+          "feed_name": "Passageiro de Primeira",
+          "title": "British Airways anuncia voo direto para Buenos Aires e encerra rota Rio–Ezeiza",
+          "link": "https://passageirodeprimeira.com/british-airways-anuncia-voo-direto-para-buenos-aires-e-encerra-rota-rio-ezeiza/",
+          "published": "2026-09-18T18:40:57",
+          "discovered_at": "2026-09-18T18:45:14.357333",
+          "summary": "A British Airways anunciou que a partir de 28 de março de 2027, oferecerá voos diretos diários de Londres (LHR) para Buenos Aires (EZE), com uma escala em Santiago do Chile. Com essa mudança, o voo de quinta liberdade entre o Rio de Janeiro (GIG) e Buenos Aires será descontinuado, aumentando a capac"
+        },
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153076",
+          "feed_name": "Qual Viagem",
+          "title": "Tierra Patagonia inicia temporada 2026 com novas experiências no Chile",
+          "link": "https://www.qualviagem.com.br/tierra-patagonia-inicia-temporada-2026-com-novas-experiencias-no-chile/",
+          "published": "2026-09-18T21:14:01",
+          "discovered_at": "2026-09-18T18:45:18.054452",
+          "summary": "O Tierra Patagonia, parte do portfólio da Beckons de lodges de luxo voltados a viajantes curiosos em busca de uma conexão genuína com o destino, a cultura e a natureza, abriu sua temporada 2026 ontem 17 de setembro. Novas experiências...\nO post Tierra Patagonia inicia temporada 2026 com novas experi"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-18T14:42:42.942963",
       "destination": "Itália",
@@ -645,17 +691,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-08-30T17:12:22.933304",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=567703",
+      "feed_name": "Passageiro de Primeira",
+      "title": "British Airways anuncia voo direto para Buenos Aires e encerra rota Rio–Ezeiza",
+      "link": "https://passageirodeprimeira.com/british-airways-anuncia-voo-direto-para-buenos-aires-e-encerra-rota-rio-ezeiza/",
+      "published": "2026-09-18T18:40:57",
+      "discovered_at": "2026-09-18T18:45:14.357333",
+      "summary": "A British Airways anunciou que a partir de 28 de março de 2027, oferecerá voos diretos diários de Londres (LHR) para Buenos Aires (EZE), com uma escala em Santiago do Chile. Com essa mudança, o voo de quinta liberdade entre o Rio de Janeiro (GIG) e Buenos Aires será descontinuado, aumentando a capac"
+    },
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153076",
+      "feed_name": "Qual Viagem",
+      "title": "Tierra Patagonia inicia temporada 2026 com novas experiências no Chile",
+      "link": "https://www.qualviagem.com.br/tierra-patagonia-inicia-temporada-2026-com-novas-experiencias-no-chile/",
+      "published": "2026-09-18T21:14:01",
+      "discovered_at": "2026-09-18T18:45:18.054452",
+      "summary": "O Tierra Patagonia, parte do portfólio da Beckons de lodges de luxo voltados a viajantes curiosos em busca de uma conexão genuína com o destino, a cultura e a natureza, abriu sua temporada 2026 ontem 17 de setembro. Novas experiências...\nO post Tierra Patagonia inicia temporada 2026 com novas experi"
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=636695",
       "feed_name": "Melhores Destinos",
