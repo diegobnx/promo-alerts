@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-09-19T16:13:42.864345",
+  "last_run": "2026-09-19T22:39:56.854745",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-19T16:13:42.864345",
+    "run_at": "2026-09-19T22:39:56.854745",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=637468",
-        "feed_name": "Melhores Destinos",
-        "title": "Itália nas férias! Voos para Roma ou Milão a partir de R$ 4.270 ida e volta em dezembro e janeiro",
-        "link": "https://www.melhoresdestinos.com.br/promocao/italia-nas-ferias-passagens-4270-dezembro-janeiro",
-        "published": "2026-09-18T18:28:19",
-        "discovered_at": "2026-09-19T16:13:24.818590",
-        "summary": "Quem está planejando aproveitar as férias de dezembro ou janeiro na Itália, ja´deve ter visto que os preços estão mais altos. E com o fim de ano se aproximando, vale garantir a sua passagem já. Aproveite que fizemos uma grande busca e encontramos passagens aéreas a partir de R$ 4.270 ida e volta par"
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=566724",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Air France anuncia novo lounge no New Terminal One do Aeroporto de Nova York",
+        "link": "https://passageirodeprimeira.com/air-france-anuncia-novo-lounge-no-new-terminal-one-do-aeroporto-de-nova-york/",
+        "published": "2026-09-19T20:00:56",
+        "discovered_at": "2026-09-19T22:39:37.498118",
+        "summary": "A Air France anunciou que, a partir de 2027, todos os seus voos serão transferidos para o New Terminal One no Aeroporto de Nova York (JFK). Junto com essa mudança, a companhia abrirá um novo lounge de 2.700 m², que será o maior da sua rede internacional, oferecendo experiências gastronômicas e áreas"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-09-19T22:39:56.854745",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=566724",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Air France anuncia novo lounge no New Terminal One do Aeroporto de Nova York",
+          "link": "https://passageirodeprimeira.com/air-france-anuncia-novo-lounge-no-new-terminal-one-do-aeroporto-de-nova-york/",
+          "published": "2026-09-19T20:00:56",
+          "discovered_at": "2026-09-19T22:39:37.498118",
+          "summary": "A Air France anunciou que, a partir de 2027, todos os seus voos serão transferidos para o New Terminal One no Aeroporto de Nova York (JFK). Junto com essa mudança, a companhia abrirá um novo lounge de 2.700 m², que será o maior da sua rede internacional, oferecendo experiências gastronômicas e áreas"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-19T16:13:42.864345",
       "destination": "Itália",
@@ -684,27 +702,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-01T00:14:52.079785",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152001",
-          "feed_name": "Qual Viagem",
-          "title": "Vila Galé Reserva do Paiva inicia vendas para estadias a partir de outubro",
-          "link": "https://www.qualviagem.com.br/vila-gale-reserva-do-paiva-inicia-vendas-para-estadias-a-partir-de-outubro/",
-          "published": "2026-08-31T22:59:33",
-          "discovered_at": "2026-09-01T00:14:36.643952",
-          "summary": "As reservas para o Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club, segundo empreendimento da Vila Galé em Cabo de Santo Agostinho (PE), já estão abertas. A nova unidade começa a operar no próximo dia...\nO post Vila Galé Reserva do Paiva inicia vendas para estadia"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=566724",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Air France anuncia novo lounge no New Terminal One do Aeroporto de Nova York",
+      "link": "https://passageirodeprimeira.com/air-france-anuncia-novo-lounge-no-new-terminal-one-do-aeroporto-de-nova-york/",
+      "published": "2026-09-19T20:00:56",
+      "discovered_at": "2026-09-19T22:39:37.498118",
+      "summary": "A Air France anunciou que, a partir de 2027, todos os seus voos serão transferidos para o New Terminal One no Aeroporto de Nova York (JFK). Junto com essa mudança, a companhia abrirá um novo lounge de 2.700 m², que será o maior da sua rede internacional, oferecendo experiências gastronômicas e áreas"
+    },
     {
       "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=637468",
       "feed_name": "Melhores Destinos",
@@ -956,15 +965,6 @@
       "published": "2026-09-02T12:20:02",
       "discovered_at": "2026-09-02T14:49:47.423311",
       "summary": "A avianca anunciou a retomada de voos entre Caracas e Bogotá, a partir de hoje (1), e também a estreia da rota a partir de Maracaibo no final de agosto. Esse fortalecimento de rotas para a Colômbia é complementado pela operação diária e direta que a companhia aérea já oferece para Valência.\nO post a"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152001",
-      "feed_name": "Qual Viagem",
-      "title": "Vila Galé Reserva do Paiva inicia vendas para estadias a partir de outubro",
-      "link": "https://www.qualviagem.com.br/vila-gale-reserva-do-paiva-inicia-vendas-para-estadias-a-partir-de-outubro/",
-      "published": "2026-08-31T22:59:33",
-      "discovered_at": "2026-09-01T00:14:36.643952",
-      "summary": "As reservas para o Vila Galé Reserva do Paiva Lifestyle Resort Hotel, Convention, SPA &#38; Beach Club, segundo empreendimento da Vila Galé em Cabo de Santo Agostinho (PE), já estão abertas. A nova unidade começa a operar no próximo dia...\nO post Vila Galé Reserva do Paiva inicia vendas para estadia"
     }
   ]
 }
