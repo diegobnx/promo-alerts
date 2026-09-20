@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-09-19T22:39:56.854745",
+  "last_run": "2026-09-20T16:41:17.737458",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-19T22:39:56.854745",
+    "run_at": "2026-09-20T16:41:17.737458",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=566724",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Air France anuncia novo lounge no New Terminal One do Aeroporto de Nova York",
-        "link": "https://passageirodeprimeira.com/air-france-anuncia-novo-lounge-no-new-terminal-one-do-aeroporto-de-nova-york/",
-        "published": "2026-09-19T20:00:56",
-        "discovered_at": "2026-09-19T22:39:37.498118",
-        "summary": "A Air France anunciou que, a partir de 2027, todos os seus voos serão transferidos para o New Terminal One no Aeroporto de Nova York (JFK). Junto com essa mudança, a companhia abrirá um novo lounge de 2.700 m², que será o maior da sua rede internacional, oferecendo experiências gastronômicas e áreas"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-20T16:41:17.737458",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-19T22:39:56.854745",
       "destination": "Itália",
@@ -689,14 +687,6 @@
     },
     {
       "run_at": "2026-09-01T19:03:25.769347",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-09-01T15:20:16.090005",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
