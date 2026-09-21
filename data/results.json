@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-09-20T22:59:08.912318",
+  "last_run": "2026-09-21T16:43:40.720222",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-20T22:59:08.912318",
+    "run_at": "2026-09-21T16:43:40.720222",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-21T16:43:40.720222",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-20T22:59:08.912318",
       "destination": "Itália",
@@ -684,14 +692,6 @@
           "summary": "A avianca anunciou a retomada de voos entre Caracas e Bogotá, a partir de hoje (1), e também a estreia da rota a partir de Maracaibo no final de agosto. Esse fortalecimento de rotas para a Colômbia é complementado pela operação diária e direta que a companhia aérea já oferece para Valência.\nO post a"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-01T22:54:41.178935",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
