@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-09-21T23:44:31.674533",
+  "last_run": "2026-09-22T15:17:41.319571",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-21T23:44:31.674533",
+    "run_at": "2026-09-22T15:17:41.319571",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153128",
-        "feed_name": "Qual Viagem",
-        "title": "The Westin Porto de Galinhas celebra o Dia das Crianças com programação para toda a família",
-        "link": "https://www.qualviagem.com.br/the-westin-porto-de-galinhas-celebra-o-dia-das-criancas-com-programacao-para-toda-a-familia/",
-        "published": "2026-09-21T22:58:30",
-        "discovered_at": "2026-09-21T23:44:18.602684",
-        "summary": "A temporada de primavera no The Westin Porto de Galinhas começa com uma programação que promete encantar pais e filhos. No resort all-inclusive, o Dia das Crianças será repleto de experiências lúdicas e divertidas, entre atividades que estimulam a imaginação,...\nO post The Westin Porto de Galinhas c"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-22T15:17:41.319571",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-21T23:44:31.674533",
       "destination": "Itália",
@@ -684,24 +682,6 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-02T19:07:26.659228",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152187",
-          "feed_name": "Qual Viagem",
-          "title": "Villa dos Leais estende promoção de baixa temporada até novembro",
-          "link": "https://www.qualviagem.com.br/villa-dos-leais-estende-promocao-de-baixa-temporada-ate-novembro/",
-          "published": "2026-09-02T21:08:01",
-          "discovered_at": "2026-09-02T19:07:11.344064",
-          "summary": "A pousada Villa dos Leais, em Serra Negra, decidiu prolongar até novembro a promoção criada para a baixa temporada. A condição vale para reservas de duas diárias ou mais durante a semana, em chalés com hidromassagem, com 20% de desconto...\nO post Villa dos Leais estende promoção de baixa temporada a"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -956,15 +936,6 @@
       "published": "2026-09-03T23:09:16",
       "discovered_at": "2026-09-03T22:54:16.250683",
       "summary": "A Atrio acumula 38 anos de sucesso na hotelaria, com presença em 18 estados pelo Brasil e um total de 108 propriedades administradas. A empresa, que começou como uma incorporadora e se tornou uma administradora de hotéis, acaba de iniciar...\nO post Atrio inicia nova fase como ecossistema de performa"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152187",
-      "feed_name": "Qual Viagem",
-      "title": "Villa dos Leais estende promoção de baixa temporada até novembro",
-      "link": "https://www.qualviagem.com.br/villa-dos-leais-estende-promocao-de-baixa-temporada-ate-novembro/",
-      "published": "2026-09-02T21:08:01",
-      "discovered_at": "2026-09-02T19:07:11.344064",
-      "summary": "A pousada Villa dos Leais, em Serra Negra, decidiu prolongar até novembro a promoção criada para a baixa temporada. A condição vale para reservas de duas diárias ou mais durante a semana, em chalés com hidromassagem, com 20% de desconto...\nO post Villa dos Leais estende promoção de baixa temporada a"
     }
   ]
 }
