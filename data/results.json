@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-09-23T15:14:19.917711",
+  "last_run": "2026-09-23T19:21:11.478478",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-23T15:14:19.917711",
+    "run_at": "2026-09-23T19:21:11.478478",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568997",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM Pass oferece 25% de bônus na transferência de pontos da Esfera",
-        "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-da-esfera-2/",
-        "published": "2026-09-23T14:50:07",
-        "discovered_at": "2026-09-23T15:14:01.427992",
-        "summary": "Alerta de oportunidade 🚨 O LATAM Pass está oferecendo 25% de milhas bônus nas transferências de pontos da Esfera. A oferta é válida até as 23h59 de sexta-feira (25), e traz 1.000 milhas adicionais para quem estiver realizando a sua primeira transferência.\nO post LATAM Pass oferece 25% de bônus na tr"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-23T19:21:11.478478",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-23T15:14:19.917711",
       "destination": "Itália",
@@ -704,24 +702,6 @@
           "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.525 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas apareceu primeiro"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-03T22:54:31.777786",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152295",
-          "feed_name": "Qual Viagem",
-          "title": "Atrio inicia nova fase como ecossistema de performance em hospitalidade",
-          "link": "https://www.qualviagem.com.br/atrio-inicia-nova-fase-como-ecossistema-de-performance-em-hospitalidade/",
-          "published": "2026-09-03T23:09:16",
-          "discovered_at": "2026-09-03T22:54:16.250683",
-          "summary": "A Atrio acumula 38 anos de sucesso na hotelaria, com presença em 18 estados pelo Brasil e um total de 108 propriedades administradas. A empresa, que começou como uma incorporadora e se tornou uma administradora de hotéis, acaba de iniciar...\nO post Atrio inicia nova fase como ecossistema de performa"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -994,15 +974,6 @@
       "published": "2026-09-04T14:20:06",
       "discovered_at": "2026-09-04T14:38:30.170496",
       "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.525 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas apareceu primeiro"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152295",
-      "feed_name": "Qual Viagem",
-      "title": "Atrio inicia nova fase como ecossistema de performance em hospitalidade",
-      "link": "https://www.qualviagem.com.br/atrio-inicia-nova-fase-como-ecossistema-de-performance-em-hospitalidade/",
-      "published": "2026-09-03T23:09:16",
-      "discovered_at": "2026-09-03T22:54:16.250683",
-      "summary": "A Atrio acumula 38 anos de sucesso na hotelaria, com presença em 18 estados pelo Brasil e um total de 108 propriedades administradas. A empresa, que começou como uma incorporadora e se tornou uma administradora de hotéis, acaba de iniciar...\nO post Atrio inicia nova fase como ecossistema de performa"
     }
   ]
 }
