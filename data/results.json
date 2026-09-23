@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-09-22T23:23:35.066890",
+  "last_run": "2026-09-23T15:14:19.917711",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-22T23:23:35.066890",
+    "run_at": "2026-09-23T15:14:19.917711",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568151",
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568997",
         "feed_name": "Passageiro de Primeira",
-        "title": "Últimas horas! LATAM Pass oferece 25% de bônus na transferência de pontos Livelo.",
-        "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-livelo/",
-        "published": "2026-09-22T20:41:37",
-        "discovered_at": "2026-09-22T23:23:16.704611",
-        "summary": "Alerta de oportunidade! O LATAM Pass está oferecendo 25% de milhas bônus nas transferências da Livelo, além de 1.500 milhas extras para quem fizer a primeira transferência. A promoção é válida até hoje (22) e a transferência mínima é de 12.000 pontos.\nO post Últimas horas! LATAM Pass oferece 25% de "
+        "title": "LATAM Pass oferece 25% de bônus na transferência de pontos da Esfera",
+        "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-da-esfera-2/",
+        "published": "2026-09-23T14:50:07",
+        "discovered_at": "2026-09-23T15:14:01.427992",
+        "summary": "Alerta de oportunidade 🚨 O LATAM Pass está oferecendo 25% de milhas bônus nas transferências de pontos da Esfera. A oferta é válida até as 23h59 de sexta-feira (25), e traz 1.000 milhas adicionais para quem estiver realizando a sua primeira transferência.\nO post LATAM Pass oferece 25% de bônus na tr"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-09-23T15:14:19.917711",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568997",
+          "feed_name": "Passageiro de Primeira",
+          "title": "LATAM Pass oferece 25% de bônus na transferência de pontos da Esfera",
+          "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-da-esfera-2/",
+          "published": "2026-09-23T14:50:07",
+          "discovered_at": "2026-09-23T15:14:01.427992",
+          "summary": "Alerta de oportunidade 🚨 O LATAM Pass está oferecendo 25% de milhas bônus nas transferências de pontos da Esfera. A oferta é válida até as 23h59 de sexta-feira (25), e traz 1.000 milhas adicionais para quem estiver realizando a sua primeira transferência.\nO post LATAM Pass oferece 25% de bônus na tr"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-22T23:23:35.066890",
       "destination": "Itália",
@@ -704,17 +722,18 @@
           "summary": "A Atrio acumula 38 anos de sucesso na hotelaria, com presença em 18 estados pelo Brasil e um total de 108 propriedades administradas. A empresa, que começou como uma incorporadora e se tornou uma administradora de hotéis, acaba de iniciar...\nO post Atrio inicia nova fase como ecossistema de performa"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-03T18:59:44.905172",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568997",
+      "feed_name": "Passageiro de Primeira",
+      "title": "LATAM Pass oferece 25% de bônus na transferência de pontos da Esfera",
+      "link": "https://passageirodeprimeira.com/latam-pass-oferece-25-de-bonus-na-transferencia-de-pontos-da-esfera-2/",
+      "published": "2026-09-23T14:50:07",
+      "discovered_at": "2026-09-23T15:14:01.427992",
+      "summary": "Alerta de oportunidade 🚨 O LATAM Pass está oferecendo 25% de milhas bônus nas transferências de pontos da Esfera. A oferta é válida até as 23h59 de sexta-feira (25), e traz 1.000 milhas adicionais para quem estiver realizando a sua primeira transferência.\nO post LATAM Pass oferece 25% de bônus na tr"
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568151",
       "feed_name": "Passageiro de Primeira",
