@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-09-23T19:21:11.478478",
+  "last_run": "2026-09-23T23:22:01.122270",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-23T19:21:11.478478",
+    "run_at": "2026-09-23T23:22:01.122270",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153236",
+        "feed_name": "Qual Viagem",
+        "title": "Wyndham Garden São Paulo Aclimação anuncia novo gerente de Vendas",
+        "link": "https://www.qualviagem.com.br/wyndham-garden-sao-paulo-aclimacao-anuncia-novo-gerente-de-vendas/",
+        "published": "2026-09-23T22:51:24",
+        "discovered_at": "2026-09-23T23:21:45.951801",
+        "summary": "Hotel já recebe reservas e cotações para o Grande Prêmio de São Paulo de Fórmula 1, Natal e Réveillon O Wyndham Garden São Paulo Aclimação, localizado no bairro de mesmo nome, já está recebendo reservas e cotações para períodos de...\nO post Wyndham Garden São Paulo Aclimação anuncia novo gerente de "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-23T23:22:01.122270",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153236",
+          "feed_name": "Qual Viagem",
+          "title": "Wyndham Garden São Paulo Aclimação anuncia novo gerente de Vendas",
+          "link": "https://www.qualviagem.com.br/wyndham-garden-sao-paulo-aclimacao-anuncia-novo-gerente-de-vendas/",
+          "published": "2026-09-23T22:51:24",
+          "discovered_at": "2026-09-23T23:21:45.951801",
+          "summary": "Hotel já recebe reservas e cotações para o Grande Prêmio de São Paulo de Fórmula 1, Natal e Réveillon O Wyndham Garden São Paulo Aclimação, localizado no bairro de mesmo nome, já está recebendo reservas e cotações para períodos de...\nO post Wyndham Garden São Paulo Aclimação anuncia novo gerente de "
+        }
+      ]
+    },
     {
       "run_at": "2026-09-23T19:21:11.478478",
       "destination": "Itália",
@@ -684,27 +712,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-04T14:38:48.111284",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564251",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas",
-          "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-63-mil-milhas-latam-pass-taxas/",
-          "published": "2026-09-04T14:20:06",
-          "discovered_at": "2026-09-04T14:38:30.170496",
-          "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.525 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas apareceu primeiro"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153236",
+      "feed_name": "Qual Viagem",
+      "title": "Wyndham Garden São Paulo Aclimação anuncia novo gerente de Vendas",
+      "link": "https://www.qualviagem.com.br/wyndham-garden-sao-paulo-aclimacao-anuncia-novo-gerente-de-vendas/",
+      "published": "2026-09-23T22:51:24",
+      "discovered_at": "2026-09-23T23:21:45.951801",
+      "summary": "Hotel já recebe reservas e cotações para o Grande Prêmio de São Paulo de Fórmula 1, Natal e Réveillon O Wyndham Garden São Paulo Aclimação, localizado no bairro de mesmo nome, já está recebendo reservas e cotações para períodos de...\nO post Wyndham Garden São Paulo Aclimação anuncia novo gerente de "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=568997",
       "feed_name": "Passageiro de Primeira",
@@ -965,15 +984,6 @@
       "published": "2026-09-04T19:00:10",
       "discovered_at": "2026-09-04T22:39:50.601020",
       "summary": "Solicitar assistência especial na Azul é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas, como pessoas com deficiência, idosos e gestantes. Este guia completo traz informações práticas sobre como fazer a solicitação, quais serviços estão disponíveis e a i"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=564251",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas",
-      "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-63-mil-milhas-latam-pass-taxas/",
-      "published": "2026-09-04T14:20:06",
-      "discovered_at": "2026-09-04T14:38:30.170496",
-      "summary": "Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.525 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas apareceu primeiro"
     }
   ]
 }
