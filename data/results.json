@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-09-27T17:29:21.674897",
+  "last_run": "2026-09-27T23:38:55.065948",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-27T17:29:21.674897",
+    "run_at": "2026-09-27T23:38:55.065948",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-27T23:38:55.065948",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-27T17:29:21.674897",
       "destination": "Itália",
@@ -665,14 +673,6 @@
           "summary": "A LATAM anunciou uma nova rota direta entre São Paulo e Cusco, no Peru, com início previsto para março de 2027.\nO post LATAM anuncia voo direto entre São Paulo e Cusco apareceu primeiro em Passageiro de Primeira."
         }
       ]
-    },
-    {
-      "run_at": "2026-09-08T14:50:12.339958",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
