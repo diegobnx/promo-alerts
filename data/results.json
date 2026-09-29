@@ -1,61 +1,23 @@
 {
-  "last_run": "2026-09-29T00:45:21.105410",
+  "last_run": "2026-09-29T16:42:27.422958",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-29T00:45:21.105410",
+    "run_at": "2026-09-29T16:42:27.422958",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 5,
-    "posts": [
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=570204",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Conheça o avião onde todos os passageiros viajam de Classe Executiva",
-        "link": "https://passageirodeprimeira.com/conheca-o-aviao-onde-todos-os-passageiros-viajam-de-classe-executiva/",
-        "published": "2026-09-28T22:00:34",
-        "discovered_at": "2026-09-29T00:45:03.043696",
-        "summary": "A La Compagnie opera uma experiência única, onde todos os passageiros viajam em Classe Executiva, sem poltronas de Econômica. Com aeronaves Airbus A321neo configuradas para apenas 76 assentos, a companhia oferece conforto, serviço diferenciado e um menu gastronômico inspirado na culinária francesa e"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=570446",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Alerta de disponibilidade! Voe para Milão a partir de 63 mil milhas LATAM Pass",
-        "link": "https://passageirodeprimeira.com/alerta-de-disponibilidade-voe-para-milao-a-partir-de-63-mil-milhas-latam-pass/",
-        "published": "2026-09-28T21:15:49",
-        "discovered_at": "2026-09-29T00:45:03.043927",
-        "summary": "Alerta direto dos Grupos do PP no WhatsApp! Encontramos disponibilidade de bilhetes de ida e volta entre o Rio de Janeiro (GIG) e Milão (MXP) a partir de 63.544 milhas LATAM Pass + taxas. Não perca a chance de garantir sua viagem!\nO post Alerta de disponibilidade! Voe para Milão a partir de 63 mil m"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=570395",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM Pass anuncia fim da parceria com a Royal Jordanian",
-        "link": "https://passageirodeprimeira.com/latam-pass-anuncia-fim-da-parceria-com-a-royal-jordanian/",
-        "published": "2026-09-28T20:40:25",
-        "discovered_at": "2026-09-29T00:45:03.044166",
-        "summary": "A LATAM Pass anunciou o fim da parceria com a Royal Jordanian, que se encerra em novembro. A partir dessa data, não será mais possível acumular milhas LATAM Pass voando com a companhia, mas os acúmulos e resgates realizados até então serão respeitados. É hora de repensar suas estratégias de viagem e"
-      },
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?post_type=promocao&p=639234",
-        "feed_name": "Melhores Destinos",
-        "title": "🇪🇺 Europa 2×1! Passagens aéreas para 2 destinos na Europa a partir de R$ 4.031!",
-        "link": "https://www.melhoresdestinos.com.br/promocao/passagens-aereas-2-em-1-europa-28-09-26",
-        "published": "2026-09-28T19:01:25",
-        "discovered_at": "2026-09-29T00:45:04.523666",
-        "summary": "Quando se trata de Europa é difícil escolher um destino, com tantas opções legais. Roma, Paris, Lisboa, cada uma merece uma visita! Essa a beleza das passagens aéreas 2 em 1, onde com uma passagem você conhece dois destinos europeus na mesma viagem! Encontramos voos 2 em 1 a partir de R$ 4.031 saind"
-      },
-      {
-        "id": "Melhores Destinos:https://www.melhoresdestinos.com.br/?p=639175",
-        "feed_name": "Melhores Destinos",
-        "title": "Atrasos e cancelamentos! Confira o top 10 das rotas aéreas mais estressantes da Europa",
-        "link": "https://www.melhoresdestinos.com.br/rotas-aereas-estressantes-europa.html",
-        "published": "2026-09-28T14:39:29",
-        "discovered_at": "2026-09-29T00:45:04.524021",
-        "summary": "Um estudo da empresa AirAdvisor analisou as rotas aéreas mais estressantes da Europa, aquelas que concentram mais fatores de desconforto para passageiros com medo ou ansiedade de voar. No top 10, encontramos cidades turísticas bem movimentadas, com aeroportos que recebem milhões de pessoas por ano, "
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-09-29T16:42:27.422958",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-09-29T00:45:21.105410",
       "destination": "Itália",
@@ -742,14 +704,6 @@
     },
     {
       "run_at": "2026-09-09T18:57:42.407188",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
-    },
-    {
-      "run_at": "2026-09-09T14:56:10.425718",
       "destination": "Itália",
       "feeds_checked": 11,
       "feeds_with_errors": 0,
