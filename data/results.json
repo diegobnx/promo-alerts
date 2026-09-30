@@ -1,15 +1,43 @@
 {
-  "last_run": "2026-09-29T16:42:27.422958",
+  "last_run": "2026-09-30T00:00:33.024013",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-29T16:42:27.422958",
+    "run_at": "2026-09-30T00:00:33.024013",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 1,
+    "posts": [
+      {
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153376",
+        "feed_name": "Qual Viagem",
+        "title": "Rio Rufino se consolida como referência nacional na produção de vime",
+        "link": "https://www.qualviagem.com.br/rio-rufino-se-consolida-como-referencia-nacional-na-producao-de-vime/",
+        "published": "2026-09-29T21:12:47",
+        "discovered_at": "2026-09-30T00:00:19.150061",
+        "summary": "Reconhecida por lei, desde 29 de novembro de 2004, como Capital Catarinense do Vime, Rio Rufino ocupa uma posição singular na cadeia produtiva da cultura. Responde por mais de um terço da produção nacional que envolve desde o cultivo até...\nO post Rio Rufino se consolida como referência nacional na "
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-09-30T00:00:33.024013",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153376",
+          "feed_name": "Qual Viagem",
+          "title": "Rio Rufino se consolida como referência nacional na produção de vime",
+          "link": "https://www.qualviagem.com.br/rio-rufino-se-consolida-como-referencia-nacional-na-producao-de-vime/",
+          "published": "2026-09-29T21:12:47",
+          "discovered_at": "2026-09-30T00:00:19.150061",
+          "summary": "Reconhecida por lei, desde 29 de novembro de 2004, como Capital Catarinense do Vime, Rio Rufino ocupa uma posição singular na cadeia produtiva da cultura. Responde por mais de um terço da produção nacional que envolve desde o cultivo até...\nO post Rio Rufino se consolida como referência nacional na "
+        }
+      ]
+    },
     {
       "run_at": "2026-09-29T16:42:27.422958",
       "destination": "Itália",
@@ -701,17 +729,18 @@
           "summary": "Às margens da BR-116 e de fácil acesso, está um lugar impressionante voltado para vivenciar momentos especiais a dois ou em grupos. A história iniciada com um sonho familiar transformou uma propriedade rural em um dos empreendimentos que ajudam a...\nO post Gastronomia, Natureza e Cultura Campeira: A"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-09T18:57:42.407188",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153376",
+      "feed_name": "Qual Viagem",
+      "title": "Rio Rufino se consolida como referência nacional na produção de vime",
+      "link": "https://www.qualviagem.com.br/rio-rufino-se-consolida-como-referencia-nacional-na-producao-de-vime/",
+      "published": "2026-09-29T21:12:47",
+      "discovered_at": "2026-09-30T00:00:19.150061",
+      "summary": "Reconhecida por lei, desde 29 de novembro de 2004, como Capital Catarinense do Vime, Rio Rufino ocupa uma posição singular na cadeia produtiva da cultura. Responde por mais de um terço da produção nacional que envolve desde o cultivo até...\nO post Rio Rufino se consolida como referência nacional na "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=570204",
       "feed_name": "Passageiro de Primeira",
