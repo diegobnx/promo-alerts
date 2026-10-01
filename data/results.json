@@ -1,25 +1,23 @@
 {
-  "last_run": "2026-10-01T00:17:10.720811",
+  "last_run": "2026-10-01T17:12:47.621243",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-10-01T00:17:10.720811",
+    "run_at": "2026-10-01T17:12:47.621243",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 1,
-    "posts": [
-      {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153409",
-        "feed_name": "Qual Viagem",
-        "title": "Águas de Lindóia: Hotel Monte Real anuncia pacotes para Natal e Réveillon",
-        "link": "https://www.qualviagem.com.br/aguas-de-lindoia-hotel-monte-real-anuncia-pacotes-para-natal-e-reveillon/",
-        "published": "2026-09-30T21:05:17",
-        "discovered_at": "2026-10-01T00:16:54.817047",
-        "summary": "O Hotel Monte Real, em Águas de Lindóia (SP), abriu as reservas para os pacotes de Natal e Réveillon 2026/2027. Localizado a cerca de duas horas da capital paulista, o empreendimento terá programação especial para famílias, com atividades recreativas, esportivas...\nO post Águas de Lindóia: Hotel Mon"
-      }
-    ]
+    "posts_found": 0,
+    "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-10-01T17:12:47.621243",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-10-01T00:17:10.720811",
       "destination": "Itália",
@@ -731,14 +729,6 @@
           "summary": "Existe um lugar no interior de São Roque onde o relógio parece andar para trás. No dia 19 de setembro, O Castelo de São Roque recebe mais uma edição de sua experiência imersiva medieval, um mergulho de seis horas no...\nO post Castelo de São Roque revive a Idade Média em experiência imersiva apareceu"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-10T18:50:48.423677",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
