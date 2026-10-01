@@ -1,25 +1,43 @@
 {
-  "last_run": "2026-09-30T16:33:45.983429",
+  "last_run": "2026-10-01T00:17:10.720811",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-09-30T16:33:45.983429",
+    "run_at": "2026-10-01T00:17:10.720811",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
     "posts_found": 1,
     "posts": [
       {
-        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153403",
+        "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153409",
         "feed_name": "Qual Viagem",
-        "title": "Vila da Mônica aposta na gastronomia como parte da experiência em Gramado (RS)",
-        "link": "https://www.qualviagem.com.br/vila-da-monica-aposta-na-gastronomia-como-parte-da-experiencia-em-gramado-rs/",
-        "published": "2026-09-30T16:05:21",
-        "discovered_at": "2026-09-30T16:33:29.688232",
-        "summary": "A gastronomia da Vila da Mônica Gramado, na Serra Gaúcha, passa por uma reformulação que reúne novos cardápios, produção diária e dois profissionais com trajetórias singulares na cozinha. No “Restaurante da Vila”, o chef Fábio Hyppolito assina uma proposta contemporânea...\nO post Vila da Mônica apos"
+        "title": "Águas de Lindóia: Hotel Monte Real anuncia pacotes para Natal e Réveillon",
+        "link": "https://www.qualviagem.com.br/aguas-de-lindoia-hotel-monte-real-anuncia-pacotes-para-natal-e-reveillon/",
+        "published": "2026-09-30T21:05:17",
+        "discovered_at": "2026-10-01T00:16:54.817047",
+        "summary": "O Hotel Monte Real, em Águas de Lindóia (SP), abriu as reservas para os pacotes de Natal e Réveillon 2026/2027. Localizado a cerca de duas horas da capital paulista, o empreendimento terá programação especial para famílias, com atividades recreativas, esportivas...\nO post Águas de Lindóia: Hotel Mon"
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-10-01T00:17:10.720811",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153409",
+          "feed_name": "Qual Viagem",
+          "title": "Águas de Lindóia: Hotel Monte Real anuncia pacotes para Natal e Réveillon",
+          "link": "https://www.qualviagem.com.br/aguas-de-lindoia-hotel-monte-real-anuncia-pacotes-para-natal-e-reveillon/",
+          "published": "2026-09-30T21:05:17",
+          "discovered_at": "2026-10-01T00:16:54.817047",
+          "summary": "O Hotel Monte Real, em Águas de Lindóia (SP), abriu as reservas para os pacotes de Natal e Réveillon 2026/2027. Localizado a cerca de duas horas da capital paulista, o empreendimento terá programação especial para famílias, com atividades recreativas, esportivas...\nO post Águas de Lindóia: Hotel Mon"
+        }
+      ]
+    },
     {
       "run_at": "2026-09-30T16:33:45.983429",
       "destination": "Itália",
@@ -721,17 +739,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-10T14:42:36.706395",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153409",
+      "feed_name": "Qual Viagem",
+      "title": "Águas de Lindóia: Hotel Monte Real anuncia pacotes para Natal e Réveillon",
+      "link": "https://www.qualviagem.com.br/aguas-de-lindoia-hotel-monte-real-anuncia-pacotes-para-natal-e-reveillon/",
+      "published": "2026-09-30T21:05:17",
+      "discovered_at": "2026-10-01T00:16:54.817047",
+      "summary": "O Hotel Monte Real, em Águas de Lindóia (SP), abriu as reservas para os pacotes de Natal e Réveillon 2026/2027. Localizado a cerca de duas horas da capital paulista, o empreendimento terá programação especial para famílias, com atividades recreativas, esportivas...\nO post Águas de Lindóia: Hotel Mon"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153403",
       "feed_name": "Qual Viagem",
