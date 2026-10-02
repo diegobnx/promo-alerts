@@ -1,8 +1,8 @@
 {
-  "last_run": "2026-10-02T00:21:55.194766",
+  "last_run": "2026-10-02T16:25:35.603671",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-10-02T00:21:55.194766",
+    "run_at": "2026-10-02T16:25:35.603671",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
@@ -10,6 +10,14 @@
     "posts": []
   },
   "history": [
+    {
+      "run_at": "2026-10-02T16:25:35.603671",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 0,
+      "posts": []
+    },
     {
       "run_at": "2026-10-02T00:21:55.194766",
       "destination": "Itália",
@@ -692,24 +700,6 @@
           "summary": "A poucos minutos do centro de Tampa Bay, Ybor City (pronuncia-se &#8220;ii-bór&#8221;) foi, na virada do século 20, um polo de charutos enrolados à mão, com trabalhadores das fábricas produzindo milhões por ano — o que rendeu a Tampa o...\nO post Ybor City, o bairro histórico que preserva as raízes d"
         }
       ]
-    },
-    {
-      "run_at": "2026-09-11T14:44:11.402632",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 1,
-      "posts": [
-        {
-          "id": "Pontos pra Voar:https://pontospravoar.com/?p=140906",
-          "feed_name": "Pontos pra Voar",
-          "title": "Delta aumenta acúmulo de milhas em voos de classe executiva da LATAM",
-          "link": "https://pontospravoar.com/delta-aumenta-acumulo-de-milhas-em-voos-de-classe-executiva-da-latam/",
-          "published": "2026-09-11T14:30:24",
-          "discovered_at": "2026-09-11T14:44:02.300238",
-          "summary": "O Delta SkyMiles alterou as regras de acúmulo de milhas para voos da LATAM e também promoveu mudanças nos critérios aplicados às passagens da Aerolíneas Argentinas e da Aeroméxico. As novas regras entraram em vigor em 10 de setembro de 2026 e, na maior parte dos casos, aumentam o crédito de SkyMiles"
-        }
-      ]
     }
   ],
   "all_posts": [
@@ -982,15 +972,6 @@
       "published": "2026-09-11T21:29:56",
       "discovered_at": "2026-09-11T18:53:27.700575",
       "summary": "A poucos minutos do centro de Tampa Bay, Ybor City (pronuncia-se &#8220;ii-bór&#8221;) foi, na virada do século 20, um polo de charutos enrolados à mão, com trabalhadores das fábricas produzindo milhões por ano — o que rendeu a Tampa o...\nO post Ybor City, o bairro histórico que preserva as raízes d"
-    },
-    {
-      "id": "Pontos pra Voar:https://pontospravoar.com/?p=140906",
-      "feed_name": "Pontos pra Voar",
-      "title": "Delta aumenta acúmulo de milhas em voos de classe executiva da LATAM",
-      "link": "https://pontospravoar.com/delta-aumenta-acumulo-de-milhas-em-voos-de-classe-executiva-da-latam/",
-      "published": "2026-09-11T14:30:24",
-      "discovered_at": "2026-09-11T14:44:02.300238",
-      "summary": "O Delta SkyMiles alterou as regras de acúmulo de milhas para voos da LATAM e também promoveu mudanças nos critérios aplicados às passagens da Aerolíneas Argentinas e da Aeroméxico. As novas regras entraram em vigor em 10 de setembro de 2026 e, na maior parte dos casos, aumentam o crédito de SkyMiles"
     }
   ]
 }
