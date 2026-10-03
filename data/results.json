@@ -1,34 +1,43 @@
 {
-  "last_run": "2026-10-03T00:04:29.891707",
+  "last_run": "2026-10-03T16:59:07.130032",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-10-03T00:04:29.891707",
+    "run_at": "2026-10-03T16:59:07.130032",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 2,
+    "posts_found": 1,
     "posts": [
       {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=571867",
-        "feed_name": "Passageiro de Primeira",
-        "title": "LATAM atualiza regras para solicitação de upgrade de cabine a partir de 2027",
-        "link": "https://passageirodeprimeira.com/latam-atualiza-regras-para-solicitacao-de-upgrade-de-cabine-a-partir-de-2027/",
-        "published": "2026-10-02T21:30:10",
-        "discovered_at": "2026-10-03T00:04:12.187221",
-        "summary": "A LATAM anunciou que, a partir de abril de 2027, o processo de solicitação de upgrade de cabine será automático, com novos critérios que priorizam a categoria Elite no LATAM Pass e outros fatores. Além disso, a companhia irá lançar a nova cabine Premium Comfort nas aeronaves Boeing 787 Dreamliner, o"
-      },
-      {
-        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563465",
-        "feed_name": "Passageiro de Primeira",
-        "title": "Como solicitar assistência especial na TAP: guia completo para PNAE",
-        "link": "https://passageirodeprimeira.com/assistencia-especial-tap/",
-        "published": "2026-10-02T21:00:11",
-        "discovered_at": "2026-10-03T00:04:12.187524",
-        "summary": "Se você precisa de assistência especial na TAP, é importante solicitar com pelo menos 48 horas de antecedência, ou 72 horas se houver pedido de acompanhante. O transporte de cadeiras de rodas é gratuito, mas deve ser informado previamente, e a companhia oferece suporte em várias etapas da viagem, em"
+        "id": "Pontos pra Voar:https://pontospravoar.com/?p=143990",
+        "feed_name": "Pontos pra Voar",
+        "title": "Europa terá ligação direta de trem entre Alemanha e Itália",
+        "link": "https://pontospravoar.com/europa-tera-ligacao-direta-trem-alemanha-italia/",
+        "published": "2026-10-03T16:00:54",
+        "discovered_at": "2026-10-03T16:58:56.969502",
+        "summary": "Frecciarossa fará ligações sem troca de trem entre Munique, na Alemanha, e Milão e Roma, na Itália, em projeto que prevê novas extensões e outras rotas internacionais para 2027. Novas conexões de trem entre Alemanha e Itália A malha ferroviária europeia ganhará novas conexões diretas entre Alemanha "
       }
     ]
   },
   "history": [
+    {
+      "run_at": "2026-10-03T16:59:07.130032",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 1,
+      "posts": [
+        {
+          "id": "Pontos pra Voar:https://pontospravoar.com/?p=143990",
+          "feed_name": "Pontos pra Voar",
+          "title": "Europa terá ligação direta de trem entre Alemanha e Itália",
+          "link": "https://pontospravoar.com/europa-tera-ligacao-direta-trem-alemanha-italia/",
+          "published": "2026-10-03T16:00:54",
+          "discovered_at": "2026-10-03T16:58:56.969502",
+          "summary": "Frecciarossa fará ligações sem troca de trem entre Munique, na Alemanha, e Milão e Roma, na Itália, em projeto que prevê novas extensões e outras rotas internacionais para 2027. Novas conexões de trem entre Alemanha e Itália A malha ferroviária europeia ganhará novas conexões diretas entre Alemanha "
+        }
+      ]
+    },
     {
       "run_at": "2026-10-03T00:04:29.891707",
       "destination": "Itália",
@@ -702,17 +711,18 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-11T22:54:20.992692",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 0,
-      "posts": []
     }
   ],
   "all_posts": [
+    {
+      "id": "Pontos pra Voar:https://pontospravoar.com/?p=143990",
+      "feed_name": "Pontos pra Voar",
+      "title": "Europa terá ligação direta de trem entre Alemanha e Itália",
+      "link": "https://pontospravoar.com/europa-tera-ligacao-direta-trem-alemanha-italia/",
+      "published": "2026-10-03T16:00:54",
+      "discovered_at": "2026-10-03T16:58:56.969502",
+      "summary": "Frecciarossa fará ligações sem troca de trem entre Munique, na Alemanha, e Milão e Roma, na Itália, em projeto que prevê novas extensões e outras rotas internacionais para 2027. Novas conexões de trem entre Alemanha e Itália A malha ferroviária europeia ganhará novas conexões diretas entre Alemanha "
+    },
     {
       "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=571867",
       "feed_name": "Passageiro de Primeira",
