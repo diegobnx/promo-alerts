@@ -1,15 +1,61 @@
 {
-  "last_run": "2026-10-02T16:25:35.603671",
+  "last_run": "2026-10-03T00:04:29.891707",
   "destination": "Itália",
   "latest": {
-    "run_at": "2026-10-02T16:25:35.603671",
+    "run_at": "2026-10-03T00:04:29.891707",
     "destination": "Itália",
     "feeds_checked": 11,
     "feeds_with_errors": 0,
-    "posts_found": 0,
-    "posts": []
+    "posts_found": 2,
+    "posts": [
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=571867",
+        "feed_name": "Passageiro de Primeira",
+        "title": "LATAM atualiza regras para solicitação de upgrade de cabine a partir de 2027",
+        "link": "https://passageirodeprimeira.com/latam-atualiza-regras-para-solicitacao-de-upgrade-de-cabine-a-partir-de-2027/",
+        "published": "2026-10-02T21:30:10",
+        "discovered_at": "2026-10-03T00:04:12.187221",
+        "summary": "A LATAM anunciou que, a partir de abril de 2027, o processo de solicitação de upgrade de cabine será automático, com novos critérios que priorizam a categoria Elite no LATAM Pass e outros fatores. Além disso, a companhia irá lançar a nova cabine Premium Comfort nas aeronaves Boeing 787 Dreamliner, o"
+      },
+      {
+        "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563465",
+        "feed_name": "Passageiro de Primeira",
+        "title": "Como solicitar assistência especial na TAP: guia completo para PNAE",
+        "link": "https://passageirodeprimeira.com/assistencia-especial-tap/",
+        "published": "2026-10-02T21:00:11",
+        "discovered_at": "2026-10-03T00:04:12.187524",
+        "summary": "Se você precisa de assistência especial na TAP, é importante solicitar com pelo menos 48 horas de antecedência, ou 72 horas se houver pedido de acompanhante. O transporte de cadeiras de rodas é gratuito, mas deve ser informado previamente, e a companhia oferece suporte em várias etapas da viagem, em"
+      }
+    ]
   },
   "history": [
+    {
+      "run_at": "2026-10-03T00:04:29.891707",
+      "destination": "Itália",
+      "feeds_checked": 11,
+      "feeds_with_errors": 0,
+      "posts_found": 2,
+      "posts": [
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=571867",
+          "feed_name": "Passageiro de Primeira",
+          "title": "LATAM atualiza regras para solicitação de upgrade de cabine a partir de 2027",
+          "link": "https://passageirodeprimeira.com/latam-atualiza-regras-para-solicitacao-de-upgrade-de-cabine-a-partir-de-2027/",
+          "published": "2026-10-02T21:30:10",
+          "discovered_at": "2026-10-03T00:04:12.187221",
+          "summary": "A LATAM anunciou que, a partir de abril de 2027, o processo de solicitação de upgrade de cabine será automático, com novos critérios que priorizam a categoria Elite no LATAM Pass e outros fatores. Além disso, a companhia irá lançar a nova cabine Premium Comfort nas aeronaves Boeing 787 Dreamliner, o"
+        },
+        {
+          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563465",
+          "feed_name": "Passageiro de Primeira",
+          "title": "Como solicitar assistência especial na TAP: guia completo para PNAE",
+          "link": "https://passageirodeprimeira.com/assistencia-especial-tap/",
+          "published": "2026-10-02T21:00:11",
+          "discovered_at": "2026-10-03T00:04:12.187524",
+          "summary": "Se você precisa de assistência especial na TAP, é importante solicitar com pelo menos 48 horas de antecedência, ou 72 horas se houver pedido de acompanhante. O transporte de cadeiras de rodas é gratuito, mas deve ser informado previamente, e a companhia oferece suporte em várias etapas da viagem, em"
+        }
+      ]
+    },
     {
       "run_at": "2026-10-02T16:25:35.603671",
       "destination": "Itália",
@@ -664,45 +710,27 @@
       "feeds_with_errors": 0,
       "posts_found": 0,
       "posts": []
-    },
-    {
-      "run_at": "2026-09-11T18:53:42.978903",
-      "destination": "Itália",
-      "feeds_checked": 11,
-      "feeds_with_errors": 0,
-      "posts_found": 3,
-      "posts": [
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=560097",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Como solicitar assistência especial na GOL: guia completo para PNAE",
-          "link": "https://passageirodeprimeira.com/assistencia-especial-gol/",
-          "published": "2026-09-11T18:10:37",
-          "discovered_at": "2026-09-11T18:53:24.750209",
-          "summary": "Solicitar assistência especial na GOL é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas. O guia completo reúne informações práticas sobre como e quando solicitar apoio, incluindo detalhes sobre acompanhantes e equipamentos médicos. Planeje-se com antecedê"
-        },
-        {
-          "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=565796",
-          "feed_name": "Passageiro de Primeira",
-          "title": "Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas",
-          "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-63-mil-milhas-latam-pass-taxas-2/",
-          "published": "2026-09-11T16:50:35",
-          "discovered_at": "2026-09-11T18:53:24.750722",
-          "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.758 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 m"
-        },
-        {
-          "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152806",
-          "feed_name": "Qual Viagem",
-          "title": "Ybor City, o bairro histórico que preserva as raízes de Tampa Bay",
-          "link": "https://www.qualviagem.com.br/ybor-city-o-bairro-historico-que-preserva-as-raizes-de-tampa-bay/",
-          "published": "2026-09-11T21:29:56",
-          "discovered_at": "2026-09-11T18:53:27.700575",
-          "summary": "A poucos minutos do centro de Tampa Bay, Ybor City (pronuncia-se &#8220;ii-bór&#8221;) foi, na virada do século 20, um polo de charutos enrolados à mão, com trabalhadores das fábricas produzindo milhões por ano — o que rendeu a Tampa o...\nO post Ybor City, o bairro histórico que preserva as raízes d"
-        }
-      ]
     }
   ],
   "all_posts": [
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=571867",
+      "feed_name": "Passageiro de Primeira",
+      "title": "LATAM atualiza regras para solicitação de upgrade de cabine a partir de 2027",
+      "link": "https://passageirodeprimeira.com/latam-atualiza-regras-para-solicitacao-de-upgrade-de-cabine-a-partir-de-2027/",
+      "published": "2026-10-02T21:30:10",
+      "discovered_at": "2026-10-03T00:04:12.187221",
+      "summary": "A LATAM anunciou que, a partir de abril de 2027, o processo de solicitação de upgrade de cabine será automático, com novos critérios que priorizam a categoria Elite no LATAM Pass e outros fatores. Além disso, a companhia irá lançar a nova cabine Premium Comfort nas aeronaves Boeing 787 Dreamliner, o"
+    },
+    {
+      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=563465",
+      "feed_name": "Passageiro de Primeira",
+      "title": "Como solicitar assistência especial na TAP: guia completo para PNAE",
+      "link": "https://passageirodeprimeira.com/assistencia-especial-tap/",
+      "published": "2026-10-02T21:00:11",
+      "discovered_at": "2026-10-03T00:04:12.187524",
+      "summary": "Se você precisa de assistência especial na TAP, é importante solicitar com pelo menos 48 horas de antecedência, ou 72 horas se houver pedido de acompanhante. O transporte de cadeiras de rodas é gratuito, mas deve ser informado previamente, e a companhia oferece suporte em várias etapas da viagem, em"
+    },
     {
       "id": "Qual Viagem:https://www.qualviagem.com.br/?p=153409",
       "feed_name": "Qual Viagem",
@@ -945,33 +973,6 @@
       "published": "2026-09-12T17:40:29",
       "discovered_at": "2026-09-12T22:49:45.730428",
       "summary": "A Etihad Airways anunciou uma nova rota entre Abu Dhabi e o Aeroporto Internacional do Mar Vermelho (RSI), na Arábia Saudita, com voos a partir de 4 de outubro de 2026. Os voos serão operados com aeronaves Airbus A320, oferecendo opções em classe executiva e econômica.\nO post Etihad anuncia voos par"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=560097",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Como solicitar assistência especial na GOL: guia completo para PNAE",
-      "link": "https://passageirodeprimeira.com/assistencia-especial-gol/",
-      "published": "2026-09-11T18:10:37",
-      "discovered_at": "2026-09-11T18:53:24.750209",
-      "summary": "Solicitar assistência especial na GOL é fundamental para garantir uma viagem tranquila para passageiros com necessidades específicas. O guia completo reúne informações práticas sobre como e quando solicitar apoio, incluindo detalhes sobre acompanhantes e equipamentos médicos. Planeje-se com antecedê"
-    },
-    {
-      "id": "Passageiro de Primeira:https://passageirodeprimeira.com/?p=565796",
-      "feed_name": "Passageiro de Primeira",
-      "title": "Voe para Roma a partir de 63 mil milhas LATAM Pass + taxas",
-      "link": "https://passageirodeprimeira.com/voe-para-roma-a-partir-de-63-mil-milhas-latam-pass-taxas-2/",
-      "published": "2026-09-11T16:50:35",
-      "discovered_at": "2026-09-11T18:53:24.750722",
-      "summary": "Alerta direto dos Grupos do PP no WhatsApp! 🚨 Em nossas pesquisas, encontramos disponibilidade de bilhetes de ida e volta entre São Paulo (GRU) e Roma (FCO). Os voos são operados pela LATAM e a emissão pode ser feita a partir de 63.758 milhas LATAM Pass + taxas.\nO post Voe para Roma a partir de 63 m"
-    },
-    {
-      "id": "Qual Viagem:https://www.qualviagem.com.br/?p=152806",
-      "feed_name": "Qual Viagem",
-      "title": "Ybor City, o bairro histórico que preserva as raízes de Tampa Bay",
-      "link": "https://www.qualviagem.com.br/ybor-city-o-bairro-historico-que-preserva-as-raizes-de-tampa-bay/",
-      "published": "2026-09-11T21:29:56",
-      "discovered_at": "2026-09-11T18:53:27.700575",
-      "summary": "A poucos minutos do centro de Tampa Bay, Ybor City (pronuncia-se &#8220;ii-bór&#8221;) foi, na virada do século 20, um polo de charutos enrolados à mão, com trabalhadores das fábricas produzindo milhões por ano — o que rendeu a Tampa o...\nO post Ybor City, o bairro histórico que preserva as raízes d"
     }
   ]
 }
